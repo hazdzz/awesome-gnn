@@ -43,3 +43,5 @@ A list for GNNs and related works.
 | 35 | g-U-Net | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
 | 36 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
 | 37 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
+| 38 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
+| 39 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
