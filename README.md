@@ -39,4 +39,6 @@ A list for GNNs and related works.
 | 31 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
 | 32 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
 | 33 |  | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
-| 34 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
+| 34 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
+| 35 | g-U-Net | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
+| 36 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
