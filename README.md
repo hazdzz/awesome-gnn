@@ -42,3 +42,4 @@ A list for GNNs and related works.
 | 34 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
 | 35 | g-U-Net | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
 | 36 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
+| 37 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
