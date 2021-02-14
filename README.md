@@ -31,11 +31,12 @@ A list for GNNs and related works.
 | 23 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
 | 24 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | https://github.com/breadbread1984/PinSage-tf2.0 |
 | 25 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
-| 26 |  | Graph Structure of Neural Networks |  |
-| 27 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
-| 28 | GC-MC | Graph Convolutional Matrix Completion |  |
-| 29 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
-| 30 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
-| 31 |  | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
-| 32 |  | Graph Neural Networks: A Review of Methods and Applications |  |
-| 33 |  | A Comprehensive Survey on Graph Neural Networks |  |
+| 26 |  | Graph Neural Networks: A Review of Methods and Applications |  |
+| 27 |  | A Comprehensive Survey on Graph Neural Networks |  |
+| 28 |  | Graph Structure of Neural Networks |  |
+| 29 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
+| 30 | GC-MC | Graph Convolutional Matrix Completion |  |
+| 31 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
+| 32 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
+| 33 |  | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
+| 34 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
