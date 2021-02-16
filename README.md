@@ -45,3 +45,4 @@ A list for GNNs and related works.
 | 37 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
 | 38 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
 | 39 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
+| 40 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
