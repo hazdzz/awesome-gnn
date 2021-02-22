@@ -7,7 +7,7 @@ A list for GNNs and related works.
 | Number | GNN or related work method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | Spectral CNN | Spectral Networks and Deep Locally Connected Networks on Graphs |  |
-| 2 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/paper-cnn-graph-nips2016 |
+| 2 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph |
 | 3 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/pygcn |
 | 4 |  | Demystifying Graph Neural Networks with Graph Filter Assessment |  |
 | 5 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
