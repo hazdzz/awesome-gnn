@@ -47,3 +47,4 @@ A list for GNNs and related works.
 | 39 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
 | 40 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
 | 41 | CayleyNets | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | https://github.com/amoliu/CayleyNet |
+| 42 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
