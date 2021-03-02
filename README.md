@@ -50,3 +50,4 @@ A list for GNNs and related works.
 | 42 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
 | 43 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
 | 44 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
+| 45 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
