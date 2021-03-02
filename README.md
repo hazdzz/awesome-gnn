@@ -49,3 +49,4 @@ A list for GNNs and related works.
 | 41 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
 | 42 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
 | 43 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
+| 44 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
