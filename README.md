@@ -19,7 +19,7 @@ A list for GNNs and related works.
 | 11 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
 | 12 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
 | 13 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
-| 14 |  | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
+| 14 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
 | 15 | APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
 | 16 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 | 17 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
