@@ -71,14 +71,14 @@ A list for GNNs and related works.
 | 7 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 8 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
 
-## Graph pooling layers
+## List for Graph pooling layers
 | Number | Graph pooling layer | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
 | 2 | g-U-Net | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
 | 3 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
 
-## Others
+## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 |  | Graph Structure of Neural Networks |  |
@@ -90,7 +90,7 @@ A list for GNNs and related works.
 | 7 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
 | 8 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
 
-## Survey
+## List for Survey
 | Number | survey | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 |  | Graph Neural Networks: A Review of Methods and Applications |  |
