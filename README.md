@@ -39,8 +39,7 @@ A list for GNNs and related works.
 | 20 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 | 21 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 22 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
-| 23 | GEOM-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn |
-| 24 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
+| 23 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 
 #### MPNNs
 | Number | MPNN | Paper | Code |
