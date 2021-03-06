@@ -47,31 +47,33 @@ A list for GNNs and related works.
 | 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
 
 ## List for Over-smoothing
-### Vanishing gradient problem
-| Number | method | Paper | Code |
+### analyses
+| Number | analysis | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
 | 2 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
 | 3 | | A Note on Over-Smoothing for Graph Neural Networks | |
 | 4 | | Revisiting Over-smoothing in Deep GCNs | |
-| 5 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge |
-| 6 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge |
-| 7 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
-| 8 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm |
-| 9 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
-| 10 | MsgNorm | DeeperGCN: All You Need to Train Deeper GCNs | |
+| 5 | | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
+| 6 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+
+### Vanishing gradient problem
+| Number | method | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
+| 2 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge |
+| 3 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge |
+| 4 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
+| 5 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm |
+| 6 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
+| 7 | MsgNorm | DeeperGCN: All You Need to Train Deeper GCNs | |
 
 ### Other
 | Number | Method or GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
 | 2 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
-| 3 | | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
-| 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
-| 5 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
-| 6 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 7 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 8 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
+| 3 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
 
 ## List for Graph pooling layers
 | Number | Graph pooling layer | Paper | Code |
