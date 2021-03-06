@@ -28,32 +28,35 @@ A list for GNNs and related works.
 | 20 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
 | 21 |  | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning |
 | 22 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? |  |
-| 23 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks |  |
-| 24 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge |
-| 25 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge |
-| 26 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
-| 27 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
-| 28 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
-| 29 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm
-| 30 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
-| 31 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | https://github.com/breadbread1984/PinSage-tf2.0 |
-| 32 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
-| 33 |  | Graph Neural Networks: A Review of Methods and Applications |  |
-| 34 |  | A Comprehensive Survey on Graph Neural Networks |  |
-| 35 |  | Graph Structure of Neural Networks |  |
-| 36 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
-| 37 | GC-MC | Graph Convolutional Matrix Completion |  |
-| 38 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
-| 39 |  | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
-| 40 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
-| 41 | g-U-Net | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
-| 42 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
-| 43 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
-| 44 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
-| 45 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
-| 46 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
-| 47 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
-| 48 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
-| 49 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
-| 50 | | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
-| 51 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
+| 23 | | A Note on Over-Smoothing for Graph Neural Networks | |
+| 24 | | Revisiting Over-smoothing in Deep GCNs | |
+| 25 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks |  |
+| 26 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge |
+| 27 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge |
+| 28 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
+| 29 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
+| 30 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
+| 31 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm
+| 32 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
+| 33 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | https://github.com/breadbread1984/PinSage-tf2.0 |
+| 34 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
+| 35 |  | Graph Neural Networks: A Review of Methods and Applications |  |
+| 36 |  | A Comprehensive Survey on Graph Neural Networks |  |
+| 37 |  | Graph Structure of Neural Networks |  |
+| 38 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
+| 39 | GC-MC | Graph Convolutional Matrix Completion |  |
+| 40 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
+| 41 |  | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
+| 42 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
+| 43 | g-U-Net | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
+| 44 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
+| 45 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
+| 46 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
+| 47 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
+| 48 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
+| 49 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
+| 50 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
+| 51 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
+| 52 | | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
+| 53 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
+| 54 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
