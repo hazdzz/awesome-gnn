@@ -48,7 +48,7 @@ A list for GNNs and related works.
 | 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
 
 ## List for Over-smoothing
-### analyses
+### Analyses
 | Number | analysis | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
