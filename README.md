@@ -103,8 +103,8 @@ A list for GNNs and related works.
 | 8 | | What graph neural networks cannot learn: depth vs width |
 
 ## List for Survey
-| Number | Survey | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | | Graph Neural Networks: A Review of Methods and Applications | |
-| 2 | | A Comprehensive Survey on Graph Neural Networks | |
-| 3 | | Deep Learning on Graphs: A Survey | |
+| Number | Paper |
+|:------:|--------------------------|
+| 1 | Graph Neural Networks: A Review of Methods and Applications |
+| 2 | A Comprehensive Survey on Graph Neural Networks |
+| 3 | Deep Learning on Graphs: A Survey |
