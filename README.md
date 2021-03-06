@@ -50,7 +50,7 @@ A list for GNNs and related works.
 
 ## List for Over-smoothing
 ### Analyses
-| Number | analysis | Paper | Code |
+| Number | Analysis | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
 | 2 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
@@ -60,7 +60,7 @@ A list for GNNs and related works.
 | 6 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 
 ### Vanishing gradient problem
-| Number | method | Paper | Code |
+| Number | Method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
 | 2 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge |
@@ -103,7 +103,7 @@ A list for GNNs and related works.
 | 8 | | What graph neural networks cannot learn: depth vs width |
 
 ## List for Survey
-| Number | survey | Paper | Code |
+| Number | Survey | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | Graph Neural Networks: A Review of Methods and Applications | |
 | 2 | | A Comprehensive Survey on Graph Neural Networks | |
