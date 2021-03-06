@@ -7,7 +7,7 @@ A list for GNNs and related works.
 ### Spectral domain GNNs
 | Number | GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 | Spectral CNN | Spectral Networks and Deep Locally Connected Networks on Graphs |  |
+| 1 | Spectral CNN | Spectral Networks and Deep Locally Connected Networks on Graphs | |
 | 2 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph |
 | 3 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/pygcn |
 | 4 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | https://github.com/amoliu/CayleyNet |
@@ -49,15 +49,16 @@ A list for GNNs and related works.
 ### Vanishing gradient problem
 | Number | method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 |  | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning |
-| 2 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? |  |
+| 1 | | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
+| 2 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
 | 3 | | A Note on Over-Smoothing for Graph Neural Networks | |
 | 4 | | Revisiting Over-smoothing in Deep GCNs | |
 | 5 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge |
 | 6 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge |
 | 7 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
-| 8 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm
+| 8 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm |
 | 9 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
+| 10 | MsgNorm | DeeperGCN: All You Need to Train Deeper GCNs | |
 
 ### Other
 | Number | Method or GNN | Paper | Code |
@@ -65,7 +66,7 @@ A list for GNNs and related works.
 | 1 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
 | 2 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
 | 3 | | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
-| 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks |  |
+| 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
 | 5 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 6 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 | 7 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
@@ -81,11 +82,11 @@ A list for GNNs and related works.
 ## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 |  | Graph Structure of Neural Networks |  |
+| 1 | | Graph Structure of Neural Networks | |
 | 2 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
-| 3 | GC-MC | Graph Convolutional Matrix Completion |  |
+| 3 | GC-MC | Graph Convolutional Matrix Completion | |
 | 4 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
-| 5 |  | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
+| 5 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
 | 6 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
 | 7 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
 | 8 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
@@ -93,5 +94,5 @@ A list for GNNs and related works.
 ## List for Survey
 | Number | survey | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 |  | Graph Neural Networks: A Review of Methods and Applications |  |
-| 2 |  | A Comprehensive Survey on Graph Neural Networks |  |
+| 1 | | Graph Neural Networks: A Review of Methods and Applications | |
+| 2 | | A Comprehensive Survey on Graph Neural Networks | |
