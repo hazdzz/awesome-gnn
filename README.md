@@ -24,8 +24,8 @@ A list for GNNs and related works.
 | 5 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
 | 6 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
 | 7 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
-| 8 | Snowball, Linear Snowball, and Truncated Krylov |Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks | https://github.com/PwnerHarry/Stronger_GCN |
-| 9 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
+| 8 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
+| 9 | Snowball, Linear Snowball, and Truncated Krylov |Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks | https://github.com/PwnerHarry/Stronger_GCN |
 | 10 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
 | 11 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
 | 12 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
