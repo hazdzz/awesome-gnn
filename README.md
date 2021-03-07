@@ -49,14 +49,14 @@ A list for GNNs and related works.
 
 ## List for Over-smoothing
 ### Analyses
-| Number | Analysis | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
-| 2 | DeepGCN | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
-| 3 | | A Note on Over-Smoothing for Graph Neural Networks | |
-| 4 | | Revisiting Over-smoothing in Deep GCNs | |
-| 5 | | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
-| 6 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| Number | Paper | Code |
+|:------:|--------------------------|-------|
+| 1 | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
+| 2 | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
+| 3 | A Note on Over-Smoothing for Graph Neural Networks | |
+| 4 | Revisiting Over-smoothing in Deep GCNs | |
+| 5 | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
+| 6 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 
 ### Vanishing gradient problem
 | Number | Method | Paper | Code |
