@@ -1,4 +1,4 @@
-# GNNs_and_related_works_list
+# GNNs and related works list
 
 ## About
 A list for GNNs and related works.
