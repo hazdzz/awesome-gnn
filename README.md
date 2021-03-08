@@ -47,6 +47,12 @@ A list for GNNs and related works.
 | 1 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
 | 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
 
+#### Heterogeneous Graph
+| Number | HGNN | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | HetGNN | Heterogeneous Graph Neural Network | https://github.com/chuxuzhang/KDD2019_HetGNN |
+| 2 | HAN | Heterogeneous Graph Attention Network | https://github.com/Jhy1993/HAN |
+
 ## List for Over-smoothing
 ### Analyses
 | Number | Paper | Code |
@@ -100,7 +106,7 @@ A list for GNNs and related works.
 | 7 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
 | 8 | | What graph neural networks cannot learn: depth vs width |
 
-## List for Survey
+## List for Surveys
 | Number | Paper |
 |:------:|--------------------------|
 | 1 | Graph Neural Networks: A Review of Methods and Applications |
