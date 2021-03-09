@@ -85,12 +85,12 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
 
-## List for Graph pooling layers
+## List for Graph pooling layers or graph unpooling layers
 | Number | Graph pooling layer | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | SortPooling | An End-to-End Deep Learning Architecture for Graph Classification | https://github.com/muhanzhang/DGCNN |
 | 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
-| 3 | gPool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
+| 3 | gPool and gUnpool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
 | 4 | SAGPool | Self-Attention Graph Pooling | https://github.com/inyeoplee77/SAGPool |
 | 5 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling |
 | 6 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling |
