@@ -80,6 +80,11 @@ A list for GNNs and related works.
 | 1 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
 | 2 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
 
+## List for Over-squashing
+| Number | Method or GNN| Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
+
 ## List for Graph pooling layers
 | Number | Graph pooling layer | Paper | Code |
 |:------:|:--------------------------:|-------|------|
