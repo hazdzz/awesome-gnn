@@ -112,6 +112,7 @@ A list for GNNs and related works.
 | 6 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
 | 7 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
 | 8 | | What graph neural networks cannot learn: depth vs width |
+| 9 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
 
 ## List for Surveys
 | Number | Paper |
