@@ -119,3 +119,4 @@ A list for GNNs and related works.
 | 1 | Graph Neural Networks: A Review of Methods and Applications |
 | 2 | A Comprehensive Survey on Graph Neural Networks |
 | 3 | Deep Learning on Graphs: A Survey |
+| 4 | Graph Neural Networks in Recommender Systems: A Survey |
