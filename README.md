@@ -113,6 +113,7 @@ A list for GNNs and related works.
 | 7 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
 | 8 | | What graph neural networks cannot learn: depth vs width |
 | 9 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
+| 10 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
 
 ## List for Surveys
 | Number | Paper |
