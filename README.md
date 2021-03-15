@@ -54,6 +54,8 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | HetGNN | Heterogeneous Graph Neural Network | https://github.com/chuxuzhang/KDD2019_HetGNN |
 | 2 | HAN | Heterogeneous Graph Attention Network | https://github.com/Jhy1993/HAN |
+| 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
+| 4 | MAGNN | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN |
 
 ## List for Over-smoothing
 ### Analyses
@@ -104,6 +106,7 @@ A list for GNNs and related works.
 | 8 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool |
 | 9 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
 | 10 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
+| 11 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
 
 ## List for Others
 | Number | GNN or method | Paper | Code |
@@ -111,13 +114,13 @@ A list for GNNs and related works.
 | 1 | | Graph Structure of Neural Networks | |
 | 2 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
 | 3 | GC-MC | Graph Convolutional Matrix Completion | |
-| 4 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
-| 5 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
-| 6 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
-| 7 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
-| 8 | | What graph neural networks cannot learn: depth vs width |
-| 9 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
-| 10 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
+| 4 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
+| 5 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
+| 6 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
+| 7 | | What graph neural networks cannot learn: depth vs width |
+| 8 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
+| 9 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
+| 10 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
 
 ## List for Surveys
 | Number | Paper |
