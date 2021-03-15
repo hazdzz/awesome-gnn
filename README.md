@@ -73,6 +73,8 @@ A list for GNNs and related works.
 | 2 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge |
 
 ### Graph Normalization
+| Number | Norm | Paper | Code |
+|:------:|:--------------------------:|-------|------|
 | 1 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
 | 2 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm |
 | 3 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
@@ -85,12 +87,12 @@ A list for GNNs and related works.
 | 3 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
 
 ## List for Over-squashing
-| Number | Method or GNN| Paper | Code |
+| Number | Method or GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
 
-## List for Graph pooling layers or graph unpooling layers
-| Number | Graph pooling layer | Paper | Code |
+## List for Graph pooling layers and graph unpooling layers
+| Number | Graph pooling/unpooling layer | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | SortPooling | An End-to-End Deep Learning Architecture for Graph Classification | https://github.com/muhanzhang/DGCNN |
 | 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
