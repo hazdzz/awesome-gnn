@@ -121,6 +121,7 @@ A list for GNNs and related works.
 | 8 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
 | 9 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
 | 10 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
+| 11 | | Towards Sparse Hierarchical Graph Classifiers | |
 
 ## List for Surveys
 | Number | Paper |
