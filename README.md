@@ -108,6 +108,7 @@ A list for GNNs and related works.
 | 10 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
 | 11 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
 | 12 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
+| 13 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool |
 
 ## List for Others
 | Number | GNN or method | Paper | Code |
