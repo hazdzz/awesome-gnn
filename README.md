@@ -100,15 +100,16 @@ A list for GNNs and related works.
 | 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
 | 3 | gPool and gUnpool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
 | 4 | SAGPool | Self-Attention Graph Pooling | https://github.com/inyeoplee77/SAGPool |
-| 5 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling |
-| 6 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling |
-| 7 | HPL-SL | Hierarchical Graph Pooling with Structure Learning | https://github.com/cszhangzhen/HGP-SL |
-| 8 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool |
-| 9 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
-| 10 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
-| 11 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
-| 12 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
-| 13 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool |
+| 5 | LaPool | Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling | |
+| 6 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling |
+| 7 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling |
+| 8 | HPL-SL | Hierarchical Graph Pooling with Structure Learning | https://github.com/cszhangzhen/HGP-SL |
+| 9 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool |
+| 10 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
+| 11 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
+| 12 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
+| 13 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
+| 14 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool |
 
 ## List for Others
 | Number | GNN or method | Paper | Code |
