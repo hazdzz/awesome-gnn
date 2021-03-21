@@ -5,6 +5,7 @@ A list for GNNs and related works.
 
 ## List for GNNs
 ### Spectral domain GNNs
+#### Convolutional GNNs
 | Number | GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | Spectral CNN | Spectral Networks and Deep Locally Connected Networks on Graphs | |
@@ -15,34 +16,62 @@ A list for GNNs and related works.
 | 6 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
 | 7 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 
+#### Graph Pooling (Graph Coarsening)
+| Number | Graph Pooling | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | LaPool | Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling | |
+| 2 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling |
+| 3 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool |
+
 ### Spatial/Vertex domain GNNs
+#### Convolutional GNNs
 | Number | GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | DCNN | Diffusion-Convolutional Neural Networks | https://github.com/RicardoZiTseng/dcnn-tensorflow |
-| 2 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
-| 3 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | https://github.com/breadbread1984/PinSage-tf2.0 |
-| 4 | MoNet | Geometric deep learning on graphs and manifolds using mixture model CNNs | https://github.com/theswgong/MoNet |
-| 5 | AGNN | Attention-based Graph Neural Network for Semi-supervised Learning | https://github.com/dawnranger/pytorch-AGNN |
-| 6 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
-| 7 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
-| 8 | MixHop | MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing | https://github.com/samihaija/mixhop |
-| 9 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
-| 10 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
-| 11 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
-| 12 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
-| 13 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
-| 14 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
-| 15 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
-| 16 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
-| 17 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
-| 18 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
-| 19 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
-| 20 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
-| 21 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
-| 22 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 23 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
-| 24 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
-| 25 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
+| 2 | MoNet | Geometric deep learning on graphs and manifolds using mixture model CNNs | https://github.com/theswgong/MoNet |
+| 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
+| 4 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
+| 5 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | https://github.com/breadbread1984/PinSage-tf2.0 |
+| 6 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
+| 7 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
+| 8 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
+| 9 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
+| 10 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
+| 11 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
+| 12 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
+| 13 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
+| 14 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
+| 15 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
+| 16 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| 17 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
+| 18 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
+
+#### Attentional GNNs
+| Number | GNN | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | AGNN | Attention-based Graph Neural Network for Semi-supervised Learning | https://github.com/dawnranger/pytorch-AGNN |
+| 2 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
+| 3 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
+| 4 | MixHop | MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing | https://github.com/samihaija/mixhop |
+| 5 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
+| 6 | hGANet | Graph Representation Learning via Hard and Channel-Wise Attention Networks | |
+| 7 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
+| 8 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
+
+#### Graph Pooling (Graph Coarsening)
+| Number | Graph Pooling | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | SortPooling | An End-to-End Deep Learning Architecture for Graph Classification | https://github.com/muhanzhang/DGCNN |
+| 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
+| 3 | gPool and gUnpool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
+| 4 | SAGPool | Self-Attention Graph Pooling | https://github.com/inyeoplee77/SAGPool |
+| 5 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling |
+| 6 | HPL-SL | Hierarchical Graph Pooling with Structure Learning | https://github.com/cszhangzhen/HGP-SL |
+| 7 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool |
+| 8 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
+| 9 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
+| 10 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
+| 11 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
 
 #### MPNNs
 | Number | MPNN | Paper | Code |
@@ -93,24 +122,6 @@ A list for GNNs and related works.
 | Number | Method or GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
-
-## List for Graph pooling layers and graph unpooling layers
-| Number | Graph pooling/unpooling layer | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | SortPooling | An End-to-End Deep Learning Architecture for Graph Classification | https://github.com/muhanzhang/DGCNN |
-| 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
-| 3 | gPool and gUnpool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
-| 4 | SAGPool | Self-Attention Graph Pooling | https://github.com/inyeoplee77/SAGPool |
-| 5 | LaPool | Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling | |
-| 6 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling |
-| 7 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling |
-| 8 | HPL-SL | Hierarchical Graph Pooling with Structure Learning | https://github.com/cszhangzhen/HGP-SL |
-| 9 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool |
-| 10 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
-| 11 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
-| 12 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
-| 13 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
-| 14 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool |
 
 ## List for Others
 | Number | GNN or method | Paper | Code |
