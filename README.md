@@ -97,7 +97,8 @@ A list for GNNs and related works.
 | 3 | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
 | 4 | A Note on Over-Smoothing for Graph Neural Networks | |
 | 5 | Revisiting Over-smoothing in Deep GCNs | |
-| 6 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| 6 | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
+| 7 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 
 ### Dropout-like
 | Number | Method | Paper | Code |
