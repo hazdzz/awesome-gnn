@@ -125,20 +125,39 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
 
+## List for Graph Autoencoders (GAE)
+| Number | GAE | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | DNGR | Deep Neural Networks for Learning Graph Representations |
+| 2 | SDNE | Structural Deep Network Embedding |
+| 3 | DVNE | Deep Variational Network Embedding in Wasserstein Space |
+| 4 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
+| 5 | GC-MC | Graph Convolutional Matrix Completion | https://github.com/riannevdberg/gc-mc |
+| 6 | ARVGA | Adversarially regularized graph autoencoder for graph embedding |
+| 7 | NetRA | Learning deep network representations with adversarially regularized autoencoders |
+| 8 | DeepGMG | Learning deep generative models of graphs |
+| 9 | GraphRNN | GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models |
+| 10 | GraphVAE | Graphvae: Towards generation of small graphs using variational autoencoders |
+| 11 | | Constrained generation of semantically valid graphs via regularizing variational autoencoders |
+
+## List for Graph Generative Adversarial Networks (GGAN)
+| 1 | GraphGAN |GraphGAN: Graph Representation Learning with Generative Adversarial Nets |
+| 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs |
+| 3 | NetGAN | Netgan: Generating graphs via random walks |
+
+
 ## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | Graph Structure of Neural Networks | |
-| 2 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
-| 3 | GC-MC | Graph Convolutional Matrix Completion | |
-| 4 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
-| 5 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
-| 6 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
-| 7 | | What graph neural networks cannot learn: depth vs width |
-| 8 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
-| 9 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
-| 10 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
-| 11 | | Towards Sparse Hierarchical Graph Classifiers | |
+| 2 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
+| 3 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
+| 4 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
+| 5 | | What graph neural networks cannot learn: depth vs width |
+| 6 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
+| 7 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
+| 8 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
+| 9 | | Towards Sparse Hierarchical Graph Classifiers | |
 
 ## List for Surveys
 | Number | Paper |
