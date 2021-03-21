@@ -141,6 +141,8 @@ A list for GNNs and related works.
 | 11 | | Constrained generation of semantically valid graphs via regularizing variational autoencoders |
 
 ## List for Graph Generative Adversarial Networks (GGAN)
+| Number | GGAN | Paper | Code |
+|:------:|:--------------------------:|-------|------|
 | 1 | GraphGAN |GraphGAN: Graph Representation Learning with Generative Adversarial Nets |
 | 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs |
 | 3 | NetGAN | Netgan: Generating graphs via random walks |
