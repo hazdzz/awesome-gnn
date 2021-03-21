@@ -13,6 +13,7 @@ A list for GNNs and related works.
 | 4 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | https://github.com/amoliu/CayleyNet |
 | 5 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork |
 | 6 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
+| 7 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 
 ### Spatial/Vertex domain GNNs
 | Number | GNN | Paper | Code |
