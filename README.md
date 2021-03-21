@@ -56,7 +56,8 @@ A list for GNNs and related works.
 | 5 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
 | 6 | hGANet | Graph Representation Learning via Hard and Channel-Wise Attention Networks | |
 | 7 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
-| 8 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
+| 8 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | |
+| 9 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
