@@ -19,6 +19,8 @@ A list for GNNs and related works.
 | 9 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
 | 10 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
 | 11 | MagNet | MagNet: A Magnetic Neural Network for Directed Graphs | |
+| 12 | CGS | Graph Neural Networks with convolutional ARMA filters | |
+| 13 | BGCN & SBGC | Robust and label efficient bi-filtering graph convolutional networks for node classification | |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
