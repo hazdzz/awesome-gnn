@@ -166,6 +166,7 @@ A list for GNNs and related works.
 | 7 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
 | 8 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
 | 9 | | Towards Sparse Hierarchical Graph Classifiers | |
+| 10 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
 
 ## List for Surveys
 | Number | Paper |
