@@ -118,6 +118,7 @@ A list for GNNs and related works.
 | 1 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm |
 | 2 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm |
 | 3 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN |
+| 4 | GraphNorm | GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training | https://github.com/lsj2408/GraphNorm |
 
 ### Sampling
 | Number | Method or GNN | Paper | Code |
