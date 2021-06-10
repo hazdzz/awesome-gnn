@@ -169,6 +169,7 @@ A list for GNNs and related works.
 | 8 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
 | 9 | | Towards Sparse Hierarchical Graph Classifiers | |
 | 10 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
+| 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
 
 ## List for Surveys
 | Number | Paper |
