@@ -23,6 +23,7 @@ A list for GNNs and related works.
 | 13 | BGCN & SBGC | Robust and label efficient bi-filtering graph convolutional networks for node classification | |
 | 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
 | 15 | DGCN | Directed Graph Convolutional Network | |
+| 16 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
