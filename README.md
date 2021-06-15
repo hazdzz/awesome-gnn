@@ -21,6 +21,7 @@ A list for GNNs and related works.
 | 11 | MagNet | MagNet: A Magnetic Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
 | 12 | CGS | Graph Neural Networks with convolutional ARMA filters | |
 | 13 | BGCN & SBGC | Robust and label efficient bi-filtering graph convolutional networks for node classification | |
+| 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
