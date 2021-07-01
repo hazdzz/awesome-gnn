@@ -24,6 +24,8 @@ A list for GNNs and related works.
 | 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
 | 15 | DGCN | Directed Graph Convolutional Network | |
 | 16 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
+| 17 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
+| 18 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
