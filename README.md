@@ -161,6 +161,12 @@ A list for GNNs and related works.
 | 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs |
 | 3 | NetGAN | Netgan: Generating graphs via random walks |
 
+## List for Graph MLP and Graph Transformer
+| Number |  Graph MLP or Graph Transformer | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
+| 2 | Graphormer | Do Transformers Really Perform Bad for Graph Representation? | https://github.com/Microsoft/Graphormer |
+| 3 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
 
 ## List for Others
 | Number | GNN or method | Paper | Code |
@@ -177,7 +183,6 @@ A list for GNNs and related works.
 | 10 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
 | 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
 | 12 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
-| 13 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
 
 ## List for Surveys
 | Number | Paper |
