@@ -54,6 +54,7 @@ A list for GNNs and related works.
 | 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 18 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
+| 19 | CensNet | CensNet: Convolution with Edge-Node Switching in Graph Neural Networks | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
@@ -173,6 +174,7 @@ A list for GNNs and related works.
 | 9 | | Towards Sparse Hierarchical Graph Classifiers | |
 | 10 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
 | 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
+| 12 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
 
 ## List for Surveys
 | Number | Paper |
