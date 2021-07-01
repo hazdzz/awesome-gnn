@@ -27,6 +27,11 @@ A list for GNNs and related works.
 | 17 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
 | 18 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
 
+#### Attentional GNNs
+| Number | GNN | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | SpGAT | Spectral Graph Attention Network | |
+
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
 |:------:|:--------------------------:|-------|------|
