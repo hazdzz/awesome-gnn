@@ -75,6 +75,7 @@ A list for GNNs and related works.
 | 7 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
 | 8 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | |
 | 9 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
+| 10 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
