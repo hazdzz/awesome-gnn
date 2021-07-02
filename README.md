@@ -108,6 +108,7 @@ A list for GNNs and related works.
 | 2 | HAN | Heterogeneous Graph Attention Network | https://github.com/Jhy1993/HAN |
 | 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
 | 4 | MAGNN | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN |
+| 5 | HeCo | Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning | https://github.com/liun-online/HeCo |
 
 ## List for Over-smoothing
 ### Analyses
