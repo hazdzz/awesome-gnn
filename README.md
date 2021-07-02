@@ -188,7 +188,8 @@ A list for GNNs and related works.
 | 9 | | Towards Sparse Hierarchical Graph Classifiers | |
 | 10 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
 | 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
-| 12 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
+| 12 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN |
+| 13 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
 
 ## List for Surveys
 | Number | Paper |
