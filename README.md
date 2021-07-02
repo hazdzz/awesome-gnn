@@ -62,6 +62,7 @@ A list for GNNs and related works.
 | 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 18 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
 | 19 | CensNet | CensNet: Convolution with Edge-Node Switching in Graph Neural Networks | |
+| 20 | HWGCN | Higher-order Weighted Graph Convolutional Networks | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
@@ -91,6 +92,8 @@ A list for GNNs and related works.
 | 9 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
 | 10 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
 | 11 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
+| 12 | VIPool | Graph Cross Networks with Vertex Infomax Pooling | https://github.com/limaosen0/GXN |
+| 13 | iPool | iPool—Information-Based Pooling in Hierarchical Graph Neural Networks | |
 
 #### MPNNs
 | Number | MPNN | Paper | Code |
@@ -139,6 +142,11 @@ A list for GNNs and related works.
 | 2 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
 | 3 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
 | 4 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT |
+
+### Scattering
+| Number | Method or GNN | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN |
 
 ## List for Over-squashing
 | Number | Method or GNN | Paper | Code |
