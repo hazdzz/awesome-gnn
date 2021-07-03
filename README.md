@@ -198,7 +198,8 @@ A list for GNNs and related works.
 | 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
 | 12 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN |
 | 13 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
-| 14 |  RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
+| 14 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
+| 15 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
 
 ## List for Surveys
 | Number | Paper |
