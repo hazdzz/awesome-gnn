@@ -47,7 +47,7 @@ A list for GNNs and related works.
 | 2 | MoNet | Geometric deep learning on graphs and manifolds using mixture model CNNs | https://github.com/theswgong/MoNet |
 | 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
 | 4 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
-| 5 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | https://github.com/breadbread1984/PinSage-tf2.0 |
+| 5 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | |
 | 6 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
 | 7 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
 | 8 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
