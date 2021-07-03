@@ -156,17 +156,18 @@ A list for GNNs and related works.
 ## List for Graph Autoencoders (GAE)
 | Number | GAE | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 | DNGR | Deep Neural Networks for Learning Graph Representations |
-| 2 | SDNE | Structural Deep Network Embedding |
-| 3 | DVNE | Deep Variational Network Embedding in Wasserstein Space |
-| 4 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae |
+| 1 | DNGR | Deep Neural Networks for Learning Graph Representations | |
+| 2 | SDNE | Structural Deep Network Embedding | |
+| 3 | DVNE | Deep Variational Network Embedding in Wasserstein Space | |
+| 4 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae | |
 | 5 | GC-MC | Graph Convolutional Matrix Completion | https://github.com/riannevdberg/gc-mc |
-| 6 | ARVGA | Adversarially regularized graph autoencoder for graph embedding |
-| 7 | NetRA | Learning deep network representations with adversarially regularized autoencoders |
-| 8 | DeepGMG | Learning deep generative models of graphs |
-| 9 | GraphRNN | GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models |
-| 10 | GraphVAE | Graphvae: Towards generation of small graphs using variational autoencoders |
-| 11 | | Constrained generation of semantically valid graphs via regularizing variational autoencoders |
+| 6 | ARVGA | Adversarially regularized graph autoencoder for graph embedding | |
+| 7 | NetRA | Learning deep network representations with adversarially regularized autoencoders | |
+| 8 | DeepGMG | Learning deep generative models of graphs | |
+| 9 | GraphRNN | GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models | |
+| 10 | GraphVAE | Graphvae: Towards generation of small graphs using variational autoencoders | |
+| 11 | | Constrained generation of semantically valid graphs via regularizing variational autoencoders | |
+| 12 | Gravity Graph VAE and Gravity Graph AE | Gravity-Inspired Graph Autoencoders for Directed Link Prediction | https://github.com/deezer/gravity_graph_autoencoders |
 
 ## List for Graph Generative Adversarial Networks (GGAN)
 | Number | GGAN | Paper | Code |
