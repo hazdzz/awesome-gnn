@@ -203,6 +203,7 @@ A list for GNNs and related works.
 | 15 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
 | 16 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
 | 17 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
+| 18 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
 
 ## List for Surveys
 | Number | Paper |
