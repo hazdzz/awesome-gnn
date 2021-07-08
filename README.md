@@ -183,6 +183,13 @@ A list for GNNs and related works.
 | 2 | Graphormer | Do Transformers Really Perform Bad for Graph Representation? | https://github.com/Microsoft/Graphormer |
 | 3 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
 
+## List for graph pre-training
+| Number | Pre-training mathod | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
+| 2 | GCC | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | https://github.com/THUDM/GCC |
+
+
 ## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
@@ -199,13 +206,12 @@ A list for GNNs and related works.
 | 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
 | 12 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN |
 | 13 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
-| 14 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
-| 15 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
-| 16 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
-| 17 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
-| 18 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
-| 19 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
-| 20 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
+| 14 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
+| 15 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
+| 16 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
+| 17 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
+| 18 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
+| 19 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
 
 ## List for Surveys
 | Number | Paper |
