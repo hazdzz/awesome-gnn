@@ -204,6 +204,8 @@ A list for GNNs and related works.
 | 16 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
 | 17 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
 | 18 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
+| 19 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
+| 20 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
 
 ## List for Surveys
 | Number | Paper |
