@@ -190,7 +190,6 @@ A list for GNNs and related works.
 | 1 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
 | 2 | GCC | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | https://github.com/THUDM/GCC |
 
-
 ## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
