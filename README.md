@@ -213,6 +213,7 @@ A list for GNNs and related works.
 | 18 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
 | 19 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
 | 20 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power |
+| 21 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
 
 ## List for Surveys
 | Number | Paper |
