@@ -190,6 +190,15 @@ A list for GNNs and related works.
 | 1 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
 | 2 | GCC | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | https://github.com/THUDM/GCC |
 
+## List for GNN explainer
+| Number | GNN or method | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
+| 2 | PGExplainer | Parameterized Explainer for Graph Neural Network | https://github.com/flyingdoog/PGExplainer |
+| 3 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
+| 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | |
+| 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem | 
+
 ## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
@@ -199,22 +208,20 @@ A list for GNNs and related works.
 | 4 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
 | 5 | | What graph neural networks cannot learn: depth vs width |
 | 6 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
-| 7 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
-| 8 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
-| 9 | | Towards Sparse Hierarchical Graph Classifiers | |
-| 10 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
-| 11 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
-| 12 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN |
-| 13 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
-| 14 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
-| 15 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
-| 16 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
-| 17 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
-| 18 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
-| 19 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
-| 20 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power |
-| 21 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
-| 22 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
+| 7 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
+| 8 | | Towards Sparse Hierarchical Graph Classifiers | |
+| 9 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
+| 10 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN |
+| 11 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
+| 12 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
+| 13 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
+| 14 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
+| 15 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
+| 16 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
+| 17 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
+| 18 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power |
+| 19 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
+| 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
 
 ## List for Surveys
 | Number | Paper |
