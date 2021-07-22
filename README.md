@@ -214,6 +214,7 @@ A list for GNNs and related works.
 | 19 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
 | 20 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power |
 | 21 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
+| 22 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
 
 ## List for Surveys
 | Number | Paper |
