@@ -25,7 +25,8 @@ A list for GNNs and related works.
 | 15 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
 | 16 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
 | 17 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
-| 18 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | |
+| 18 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
+| 19 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
