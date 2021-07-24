@@ -16,8 +16,8 @@ A list for GNNs and related works.
 | 6 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
 | 7 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 | 8 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 9 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
-| 10 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
+| 9 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
+| 10 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
 | 11 | GCS | Graph Neural Networks with convolutional ARMA filters | |
 | 12 | BGCN & SBGC | Robust and label efficient bi-filtering graph convolutional networks for node classification | |
 | 13 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
@@ -61,7 +61,7 @@ A list for GNNs and related works.
 | 15 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 | 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 18 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
+| 18 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
 | 19 | CensNet | CensNet: Convolution with Edge-Node Switching in Graph Neural Networks | |
 | 20 | HWGCN | Higher-order Weighted Graph Convolutional Networks | |
 
