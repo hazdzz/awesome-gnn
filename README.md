@@ -70,14 +70,15 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | AGNN | Attention-based Graph Neural Network for Semi-supervised Learning | https://github.com/dawnranger/pytorch-AGNN |
 | 2 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
-| 3 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
-| 4 | MixHop | MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing | https://github.com/samihaija/mixhop |
-| 5 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
-| 6 | hGANet | Graph Representation Learning via Hard and Channel-Wise Attention Networks | |
-| 7 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
-| 8 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | |
-| 9 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
-| 10 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat |
+| 3 | MCN | Higher-order Graph Convolutional Networks | |
+| 4 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
+| 5 | MixHop | MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing | https://github.com/samihaija/mixhop |
+| 6 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
+| 7 | hGANet | Graph Representation Learning via Hard and Channel-Wise Attention Networks | |
+| 8 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
+| 9 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | |
+| 10 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
+| 11 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
