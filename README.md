@@ -16,9 +16,9 @@ A list for GNNs and related works.
 | 6 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
 | 7 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
 | 8 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
-| 9 | HANet | Fast Haar Transforms for Graph Neural Networks | |
-| 10 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 11 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
+| 9 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
+| 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
+| 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
 | 12 | GCS | Graph Neural Networks with convolutional ARMA filters | |
 | 13 | BGCN & SBGC | Robust and label efficient bi-filtering graph convolutional networks for node classification | |
 | 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
