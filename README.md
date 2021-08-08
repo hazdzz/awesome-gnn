@@ -114,11 +114,12 @@ A list for GNNs and related works.
 | 5 | HeCo | Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning | https://github.com/liun-online/HeCo |
 
 #### Hyperbolic Graph Neural Networks
-| Number | HGNN | Paper | Code |
+| Number | HGNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | HGCN | Hyperbolic Graph Convolutional Neural Networks | https://github.com/HazyResearch/hgcn |
 | 2 | HGNN | Hyperbolic Graph Neural Networks | https://github.com/facebookresearch/hgnn |
 | 3 | HGAN | Hyperbolic Graph Attention Network | |
+| 4 | HNN + HBN | Differentiating through the Fréchet Mean | https://github.com/CUAI/Differentiable-Frechet-Mean |
 
 ## List for Over-smoothing
 ### Analyses
