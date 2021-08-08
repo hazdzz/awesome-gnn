@@ -113,6 +113,13 @@ A list for GNNs and related works.
 | 4 | MAGNN | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN |
 | 5 | HeCo | Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning | https://github.com/liun-online/HeCo |
 
+#### Hyperbolic Graph Neural Networks
+| Number | HGNN | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | HGCN | Hyperbolic Graph Convolutional Neural Networks | https://github.com/HazyResearch/hgcn |
+| 2 | HGNN | Hyperbolic Graph Neural Networks | https://github.com/facebookresearch/hgnn |
+| 3 | HGAN | Hyperbolic Graph Attention Network | |
+
 ## List for Over-smoothing
 ### Analyses
 | Number | Paper | Code |
@@ -201,13 +208,6 @@ A list for GNNs and related works.
 | 3 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
 | 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | |
 | 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem | 
-
-## List for Hyperbolic Graph Neural Networks
-| Number | HGNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | HGCN | Hyperbolic Graph Convolutional Neural Networks | https://github.com/HazyResearch/hgcn |
-| 2 | HGNN | Hyperbolic Graph Neural Networks | https://github.com/facebookresearch/hgnn |
-| 3 | HGAN | Hyperbolic Graph Attention Network | |
 
 ## List for Others
 | Number | GNN or method | Paper | Code |
