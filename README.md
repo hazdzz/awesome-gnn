@@ -20,14 +20,13 @@ A list for GNNs and related works.
 | 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 | 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
 | 12 | GCS | Graph Neural Networks with convolutional ARMA filters | |
-| 13 | BGCN & SBGC | Robust and label efficient bi-filtering graph convolutional networks for node classification | |
-| 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
-| 15 | DGCN | Directed Graph Convolutional Network | |
-| 16 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
-| 17 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
-| 18 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
-| 19 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
-| 20 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | |
+| 13 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
+| 14 | DGCN | Directed Graph Convolutional Network | |
+| 15 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
+| 16 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
+| 17 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
+| 18 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
+| 19 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
