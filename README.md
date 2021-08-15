@@ -60,8 +60,6 @@ A list for GNNs and related works.
 | 15 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
 | 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 18 | CensNet | CensNet: Convolution with Edge-Node Switching in Graph Neural Networks | |
-| 19 | HWGCN | Higher-order Weighted Graph Convolutional Networks | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
