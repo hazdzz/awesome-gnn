@@ -230,6 +230,7 @@ A list for GNNs and related works.
 | 18 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power |
 | 19 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
 | 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
+| 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA |
 
 ## List for Surveys
 | Number | Paper |
