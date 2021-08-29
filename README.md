@@ -118,6 +118,7 @@ A list for GNNs and related works.
 | 3 | HGAN | Hyperbolic Graph Attention Network | |
 | 4 | HNN + HBN | Differentiating through the Fréchet Mean | https://github.com/CUAI/Differentiable-Frechet-Mean |
 | 5 | LGCN | Lorentzian Graph Convolutional Networks | |
+| 6 | H2H-GCN | A Hyperbolic-to-Hyperbolic Graph Convolutional Network | |
 
 ## List for Over-smoothing
 ### Analyses
