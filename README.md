@@ -16,16 +16,15 @@ A list for GNNs and related works.
 | 6 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
 | 7 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
 | 8 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
-| 9 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | |
-| 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
-| 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 12 | GCS | Graph Neural Networks with convolutional ARMA filters | |
-| 13 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
-| 14 | DGCN | Directed Graph Convolutional Network | |
-| 15 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
-| 16 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
-| 17 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
-| 18 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
+| 9 | HANet | Fast Haar Transforms for Graph Neural Networks | |
+| 10 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
+| 11 | GCS | Graph Neural Networks with convolutional ARMA filters | |
+| 12 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
+| 13 | DGCN | Directed Graph Convolutional Network | |
+| 14 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
+| 15 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
+| 16 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
+| 17 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
@@ -119,6 +118,7 @@ A list for GNNs and related works.
 | 4 | HNN + HBN | Differentiating through the Fréchet Mean | https://github.com/CUAI/Differentiable-Frechet-Mean |
 | 5 | LGCN | Lorentzian Graph Convolutional Networks | |
 | 6 | H2H-GCN | A Hyperbolic-to-Hyperbolic Graph Convolutional Network | |
+| 7 | HGCF | HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering | https://github.com/layer6ai-labs/HGCF |
 
 ## List for Over-smoothing
 ### Analyses
