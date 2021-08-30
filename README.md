@@ -125,6 +125,7 @@ A list for GNNs and related works.
 | Number | CGNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | CapsGNN | Capsule Graph Neural Network | https://github.com/benedekrozemberczki/CapsGNN |
+| 2 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ |
 
 ## List for Over-smoothing
 ### Analyses
