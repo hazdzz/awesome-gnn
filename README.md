@@ -47,20 +47,21 @@ A list for GNNs and related works.
 | 2 | MoNet | Geometric deep learning on graphs and manifolds using mixture model CNNs | https://github.com/theswgong/MoNet |
 | 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
 | 4 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
-| 5 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | |
-| 6 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
-| 7 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
-| 8 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
-| 9 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
-| 10 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
-| 11 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
-| 12 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
-| 13 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
-| 14 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
-| 15 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
-| 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 18 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
+| 5 | GraphSAGE_RL | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL |
+| 6 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | |
+| 7 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
+| 8 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
+| 9 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
+| 10 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
+| 11 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
+| 12 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
+| 13 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
+| 14 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
+| 15 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
+| 16 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| 17 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
+| 18 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
+| 19 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
