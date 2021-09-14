@@ -116,7 +116,7 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | HGCN | Hyperbolic Graph Convolutional Neural Networks | https://github.com/HazyResearch/hgcn |
 | 2 | HGNN | Hyperbolic Graph Neural Networks | https://github.com/facebookresearch/hgnn |
-| 3 | HGAN | Hyperbolic Graph Attention Network | |
+| 3 | HAT | Hyperbolic Graph Attention Network | |
 | 4 | HNN + HBN | Differentiating through the Fréchet Mean | https://github.com/CUAI/Differentiable-Frechet-Mean |
 | 5 | LGCN | Lorentzian Graph Convolutional Networks | |
 | 6 | H2H-GCN | A Hyperbolic-to-Hyperbolic Graph Convolutional Network | |
