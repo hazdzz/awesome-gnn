@@ -19,7 +19,7 @@ A list for GNNs and related works.
 | 9 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
 | 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 | 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 12 | GCS | Graph Neural Networks with convolutional ARMA filters | |
+| 12 | | Graph Neural Networks with convolutional ARMA filters | |
 | 13 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
 | 14 | DGCN | Directed Graph Convolutional Network | |
 | 15 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
@@ -64,6 +64,7 @@ A list for GNNs and related works.
 | 19 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
 | 20 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
 | 21 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
+| 22 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
