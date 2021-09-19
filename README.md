@@ -61,6 +61,7 @@ A list for GNNs and related works.
 | 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 18 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
+| 19 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
@@ -157,11 +158,13 @@ A list for GNNs and related works.
 | Number | Method or GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
+| 2 | | Stochastic Training of Graph Convolutional Networks with Variance Reduction | https://github.com/thu-ml/stochastic_gcn |
 | 2 | GraphSAGE_RL | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL |
 | 3 | Adapt | Adaptive Sampling Towards Fast Graph Representation Learning | https://github.com/huangwb/AS-GCN |
 | 4 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
 | 5 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
 | 6 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT |
+| 7 | MVS-GNN | Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks | |
 
 ### Scattering
 | Number | Method or GNN | Paper | Code |
