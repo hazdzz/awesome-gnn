@@ -134,16 +134,19 @@ A list for GNNs and related works.
 | 2 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ |
 
 #### Graph Neural ODE or PDE
-| Number | GNODE or GNPDE | Paper | Code |
+| Number | GNODE or GNPDE or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | | Graph Neural Ordinary Differential Equations | https://github.com/Zymrael/gde |
 | 2 | | Ordinary differential equations on graph networks | |
 | 3 | CGF | Continuous Graph Flow | |
 | 4 | CGNN | Continuous Graph Neural Networks | https://github.com/DeepGraphLearning/ContinuousGNN |
 | 5 | NDCN | Neural Dynamics on Complex Networks | https://github.com/calvin-zcx/ndcn |
-| 6 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
-| 7 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
-| 8 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | |
+| 6 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | |
+| 7 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
+| 8 | GKN | Neural Operator: Graph Kernel Network for Partial Differential Equations | https://github.com/zongyi-li/graph-pde |
+| 9 | MGKN | Multipole Graph Neural Operator for Parametric Partial Differential Equations | https://github.com/zongyi-li/graph-pde |
+| 10 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
+| 11 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc |
 
 ## List for Over-smoothing
 ### Analyses
