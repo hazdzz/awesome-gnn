@@ -133,6 +133,12 @@ A list for GNNs and related works.
 | 1 | CapsGNN | Capsule Graph Neural Network | https://github.com/benedekrozemberczki/CapsGNN |
 | 2 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ |
 
+#### Graph Neural PDE
+| Number | GNPDE | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
+| 2 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
+
 ## List for Over-smoothing
 ### Analyses
 | Number | Paper | Code |
