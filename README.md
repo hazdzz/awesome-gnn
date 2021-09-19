@@ -136,9 +136,14 @@ A list for GNNs and related works.
 #### Graph Neural ODE or PDE
 | Number | GNODE or GNPDE | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
-| 2 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
-| 3 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | |
+| 1 | | Graph Neural Ordinary Differential Equations | https://github.com/Zymrael/gde |
+| 2 | | Ordinary differential equations on graph networks | |
+| 3 | CGF | Continuous Graph Flow | |
+| 4 | CGNN | Continuous Graph Neural Networks | https://github.com/DeepGraphLearning/ContinuousGNN |
+| 5 | NDCN | Neural Dynamics on Complex Networks | https://github.com/calvin-zcx/ndcn |
+| 6 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
+| 7 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
+| 8 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | |
 
 ## List for Over-smoothing
 ### Analyses
