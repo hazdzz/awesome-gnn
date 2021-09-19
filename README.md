@@ -63,6 +63,7 @@ A list for GNNs and related works.
 | 18 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 19 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
 | 20 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
+| 21 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
@@ -159,7 +160,7 @@ A list for GNNs and related works.
 | Number | Method or GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
-| 2 | | Stochastic Training of Graph Convolutional Networks with Variance Reduction | https://github.com/thu-ml/stochastic_gcn |
+| 2 | VR-GCN | Stochastic Training of Graph Convolutional Networks with Variance Reduction | https://github.com/thu-ml/stochastic_gcn |
 | 2 | | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL |
 | 3 | | Adaptive Sampling Towards Fast Graph Representation Learning | https://github.com/huangwb/AS-GCN |
 | 4 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
