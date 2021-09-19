@@ -104,6 +104,8 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
 | 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
+| 3 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna |
+| 4 | EGC-S and EGC-M | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | https://github.com/shyam196/egc |
 
 #### Heterogeneous Graph Neural Networks
 | Number | HGNN | Paper | Code |
@@ -249,8 +251,6 @@ A list for GNNs and related works.
 | 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
 | 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA |
 | 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN |
-| 23 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna |
-| 24 | EGC | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | https://github.com/shyam196/egc |
 
 ## List for Surveys
 | Number | Paper |
