@@ -159,8 +159,8 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
 | 2 | | Stochastic Training of Graph Convolutional Networks with Variance Reduction | https://github.com/thu-ml/stochastic_gcn |
-| 2 | GraphSAGE_RL | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL |
-| 3 | Adapt | Adaptive Sampling Towards Fast Graph Representation Learning | https://github.com/huangwb/AS-GCN |
+| 2 | | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL |
+| 3 | | Adaptive Sampling Towards Fast Graph Representation Learning | https://github.com/huangwb/AS-GCN |
 | 4 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC |
 | 5 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES |
 | 6 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT |
