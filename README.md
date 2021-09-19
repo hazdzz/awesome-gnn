@@ -245,6 +245,7 @@ A list for GNNs and related works.
 | 19 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
 | 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
 | 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA |
+| 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN |
 
 ## List for Surveys
 | Number | Paper |
