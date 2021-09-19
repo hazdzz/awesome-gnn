@@ -133,11 +133,12 @@ A list for GNNs and related works.
 | 1 | CapsGNN | Capsule Graph Neural Network | https://github.com/benedekrozemberczki/CapsGNN |
 | 2 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ |
 
-#### Graph Neural PDE
-| Number | GNPDE | Paper | Code |
+#### Graph Neural ODE or PDE
+| Number | GNODE or GNPDE | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
 | 2 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
+| 3 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | |
 
 ## List for Over-smoothing
 ### Analyses
@@ -257,6 +258,7 @@ A list for GNNs and related works.
 | 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
 | 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA |
 | 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN |
+| 23 | | A Fair Comparison of Graph Neural Networks for Graph Classification | https://github.com/diningphil/gnn-comparison |
 
 ## List for Surveys
 | Number | Paper |
