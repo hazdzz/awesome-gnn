@@ -241,6 +241,15 @@ A list for GNNs and related works.
 | 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | |
 | 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem | 
 
+## List for Graph Adversarial Attacks and Defenses
+| Number | method | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | | Adversarial Attacks on Neural Networks for Graph Data | https://github.com/danielzuegner/nettack |
+| 2 | | Certifiable Robustness and Robust Training for Graph Convolutional Networks | https://github.com/danielzuegner/robust-gcn |
+| 3 | | Adversarial Attacks on Graph Neural Networks via Meta Learning | |
+| 4 | | Adversarial Attacks on Node Embeddings via Graph Poisoning | https://github.com/abojchevski/node_embedding_attack |
+| 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard |
+
 ## List for Others
 | Number | GNN or method | Paper | Code |
 |:------:|:--------------------------:|-------|------|
