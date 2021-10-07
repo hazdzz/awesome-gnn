@@ -240,7 +240,8 @@ A list for GNNs and related works.
 | 2 | PGExplainer | Parameterized Explainer for Graph Neural Network | https://github.com/flyingdoog/PGExplainer |
 | 3 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
 | 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | |
-| 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem | 
+| 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem |
+| 6 | | When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods | |
 
 ## List for Graph Adversarial Attacks and Defenses
 | Number | method | Paper | Code |
