@@ -82,6 +82,7 @@ A list for GNNs and related works.
 | 10 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
 | 11 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat |
 | 12 | DPGAT and GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats |
+| 13 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
