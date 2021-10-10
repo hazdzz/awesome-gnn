@@ -280,6 +280,7 @@ A list for GNNs and related works.
 | 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA |
 | 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN |
 | 23 | | A Fair Comparison of Graph Neural Networks for Graph Classification | https://github.com/diningphil/gnn-comparison |
+| 24 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB |
 
 ## List for Surveys
 | Number | Paper |
