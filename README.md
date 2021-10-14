@@ -281,6 +281,8 @@ A list for GNNs and related works.
 | 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN |
 | 23 | | A Fair Comparison of Graph Neural Networks for Graph Classification | https://github.com/diningphil/gnn-comparison |
 | 24 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB |
+| 25 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat |
+| 26 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | |
 
 ## List for Surveys
 | Number | Paper |
