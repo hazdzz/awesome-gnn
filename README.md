@@ -100,6 +100,7 @@ A list for GNNs and related works.
 | 11 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
 | 12 | VIPool | Graph Cross Networks with Vertex Infomax Pooling | https://github.com/limaosen0/GXN |
 | 13 | iPool | iPool—Information-Based Pooling in Hierarchical Graph Neural Networks | |
+| 14 | MxPool | MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning | https://github.com/JucatL/MxPool/ |
 
 #### MPNNs
 | Number | MPNN | Paper | Code |
