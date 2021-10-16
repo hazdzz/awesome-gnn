@@ -284,6 +284,7 @@ A list for GNNs and related works.
 | 24 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB |
 | 25 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat |
 | 26 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | |
+| 27 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE |
 
 ## List for Surveys
 | Number | Paper |
