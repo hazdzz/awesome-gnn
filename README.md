@@ -26,6 +26,8 @@ A list for GNNs and related works.
 | 16 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
 | 17 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
 | 18 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
+| 19 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
+| 20 | GA-MLP-A and GA-MLP-H | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
@@ -63,9 +65,8 @@ A list for GNNs and related works.
 | 18 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 19 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
 | 20 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
-| 21 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
-| 22 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
-| 23 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN |
+| 21 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
+| 22 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
