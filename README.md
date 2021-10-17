@@ -19,15 +19,16 @@ A list for GNNs and related works.
 | 9 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
 | 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 | 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 12 | | Graph Neural Networks with convolutional ARMA filters | |
-| 13 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
-| 14 | DGCN | Directed Graph Convolutional Network | |
-| 15 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
-| 16 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
-| 17 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
-| 18 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
-| 19 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
-| 20 | GA-MLP-A and GA-MLP-H | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
+| 12 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG |
+| 13 | | Graph Neural Networks with convolutional ARMA filters | |
+| 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
+| 15 | DGCN | Directed Graph Convolutional Network | |
+| 16 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
+| 17 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
+| 18 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
+| 19 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
+| 20 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
+| 21 | GA-MLP-A and GA-MLP-H | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
