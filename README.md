@@ -132,6 +132,7 @@ A list for GNNs and related works.
 | 6 | H2H-GCN | A Hyperbolic-to-Hyperbolic Graph Convolutional Network | |
 | 7 | HGCF | HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering | https://github.com/layer6ai-labs/HGCF |
 | 8 | HVGNN | Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs | |
+| 9 | ACE-HGNN | ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network | https://github.com/ringbdstack/ace-hgnn |
 
 #### Capsule Graph Neural Network
 | Number | CGNN or method | Paper | Code |
