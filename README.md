@@ -20,7 +20,7 @@ A list for GNNs and related works.
 | 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 | 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
 | 12 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG |
-| 13 | | Graph Neural Networks with convolutional ARMA filters | |
+| 13 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters | |
 | 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
 | 15 | DGCN | Directed Graph Convolutional Network | |
 | 16 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
