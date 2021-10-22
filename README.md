@@ -28,7 +28,7 @@ A list for GNNs and related works.
 | 18 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
 | 19 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
 | 20 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
-| 21 | GA-MLP-A and GA-MLP-H | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
+| 21 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
 | 22 | | EdgeNets: Edge Varying Graph Neural Networks | |
 
 #### Attentional GNNs
