@@ -20,14 +20,14 @@ A list for GNNs and related works.
 | 10 | HANet | Fast Haar Transforms for Graph Neural Networks | |
 | 11 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
 | 12 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG |
-| 13 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters | |
+| 13 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters | https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 |
 | 14 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
 | 15 | DGCN | Directed Graph Convolutional Network | |
 | 16 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
 | 17 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
 | 18 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
 | 19 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
-| 20 | SIGN | SIGN: Scalable Inception Graph Neural Networks | https://github.com/twitter-research/sign |
+| 20 | SIGN | SIGN: Scalable Inception Graph Neural Networks | |
 | 21 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN |
 | 22 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
 | 23 | | EdgeNets: Edge Varying Graph Neural Networks | |
