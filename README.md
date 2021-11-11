@@ -64,7 +64,7 @@ A list for GNNs and related works.
 | 13 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
 | 14 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
 | 15 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
+| 16 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
 | 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
 | 18 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
 | 19 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
