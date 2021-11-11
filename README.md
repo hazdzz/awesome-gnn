@@ -31,6 +31,7 @@ A list for GNNs and related works.
 | 21 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN |
 | 22 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
 | 23 | | EdgeNets: Edge Varying Graph Neural Networks | |
+| 24 | p-GNN | p-Laplacian Based Graph Neural Networks | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
