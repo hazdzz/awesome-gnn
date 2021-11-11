@@ -58,18 +58,17 @@ A list for GNNs and related works.
 | 8 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
 | 9 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
 | 10 | Geom-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn |
-| 11 | sRMGCNN | Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks | https://github.com/fmonti/mgcnn |
-| 12 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
-| 13 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
-| 14 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
-| 15 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
-| 16 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 17 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
-| 18 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 19 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
-| 20 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
-| 21 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
-| 22 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN |
+| 11 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
+| 12 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
+| 13 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
+| 14 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
+| 15 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| 16 | SSGC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
+| 17 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
+| 18 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
+| 19 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
+| 20 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
+| 21 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
