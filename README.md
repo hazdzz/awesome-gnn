@@ -70,6 +70,7 @@ A list for GNNs and related works.
 | 19 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
 | 20 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
 | 21 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN |
+| 22 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
