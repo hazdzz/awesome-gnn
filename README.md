@@ -36,7 +36,7 @@ A list for GNNs and related works.
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 | SpGAT | Spectral Graph Attention Network | |
+| 1 | SpGAT | Spectral Graph Attention Network with Fast Eigen-approximation | https://github.com/SwiftieH/SpGAT |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code |
