@@ -30,8 +30,9 @@ A list for GNNs and related works.
 | 20 | SIGN | SIGN: Scalable Inception Graph Neural Networks | |
 | 21 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN |
 | 22 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
-| 23 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | |
-| 24 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | |
+| 23 | BertNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet |
+| 24 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | |
+| 25 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
