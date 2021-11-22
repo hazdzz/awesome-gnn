@@ -227,16 +227,17 @@ A list for GNNs and related works.
 ## List for Graph Generative Adversarial Networks (GGAN)
 | Number | GGAN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 | GraphGAN |GraphGAN: Graph Representation Learning with Generative Adversarial Nets |
-| 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs |
-| 3 | NetGAN | Netgan: Generating graphs via random walks |
+| 1 | GraphGAN | GraphGAN: Graph Representation Learning with Generative Adversarial Nets | https://github.com/hwwang55/GraphGAN |
+| 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs | |
+| 3 | NetGAN | Netgan: Generating graphs via random walks | |
 
 ## List for Graph MLP and Graph Transformer
 | Number |  Graph MLP or Graph Transformer | Paper | Code |
 |:------:|:--------------------------:|-------|------|
-| 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
-| 2 | Graphormer | Do Transformers Really Perform Bad for Graph Representation? | https://github.com/Microsoft/Graphormer |
-| 3 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
+| 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks |
+| 2 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
+| 3 | Graphormer | Do Transformers Really Perform Bad for Graph Representation? | https://github.com/Microsoft/Graphormer |
+| 4 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
 
 ## List for graph pre-training
 | Number | Pre-training mathod | Paper | Code |
