@@ -9,37 +9,38 @@ A list for GNNs and related works.
 | Number | GNN | Paper | Code |
 |:------:|:--------------------------:|-------|------|
 | 1 | Spectral CNN | Spectral Networks and Locally Connected Networks on Graphs | |
-| 2 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph |
-| 3 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/gcn |
-| 4 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
-| 5 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
-| 6 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | https://github.com/amoliu/CayleyNet |
-| 7 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork |
-| 8 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
-| 9 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
-| 10 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN |
-| 11 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
-| 12 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
-| 13 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
-| 14 | HANet | Fast Haar Transforms for Graph Neural Networks | |
-| 15 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 16 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG |
-| 17 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters | https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 |
-| 18 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
-| 19 | DGCN | Directed Graph Convolutional Network | |
-| 20 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 21 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
-| 22 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 23 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
-| 24 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
-| 25 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
-| 26 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
-| 27 | SIGN | SIGN: Scalable Inception Graph Neural Networks | |
-| 28 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN |
-| 29 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
-| 30 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet |
-| 31 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | |
-| 32 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | |
+| 2 | | Deep Convolutional Networks on Graph-Structured Data | |
+| 3 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph |
+| 4 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/gcn |
+| 5 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
+| 6 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
+| 7 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | https://github.com/amoliu/CayleyNet |
+| 8 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork |
+| 9 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
+| 10 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
+| 11 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN |
+| 12 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
+| 13 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
+| 14 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
+| 15 | HANet | Fast Haar Transforms for Graph Neural Networks | |
+| 16 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
+| 17 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG |
+| 18 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters | https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 |
+| 19 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
+| 20 | DGCN | Directed Graph Convolutional Network | |
+| 21 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| 22 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
+| 23 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
+| 24 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
+| 25 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
+| 26 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
+| 27 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
+| 28 | SIGN | SIGN: Scalable Inception Graph Neural Networks | |
+| 29 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN |
+| 30 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
+| 31 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet |
+| 32 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | |
+| 33 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code |
