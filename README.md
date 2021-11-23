@@ -236,7 +236,7 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks |
 | 2 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
-| 3 | Graphormer | Do Transformers Really Perform Bad for Graph Representation? | https://github.com/Microsoft/Graphormer |
+| 3 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer |
 | 4 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
 
 ## List for graph pre-training
