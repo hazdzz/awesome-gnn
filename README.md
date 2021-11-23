@@ -208,6 +208,19 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|
 | 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
 
+## List for Graph Transformers
+| Number |  Graph Transformer | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks |
+| 2 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer |
+| 3 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer |
+| 4 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
+
+## List for Graph MLP
+| Number |  Graph MLP | Paper | Code |
+|:------:|:--------------------------:|-------|------|
+| 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
+
 ## List for Graph Autoencoders (GAE)
 | Number | GAE | Paper | Code |
 |:------:|:--------------------------:|-------|------|
@@ -230,14 +243,6 @@ A list for GNNs and related works.
 | 1 | GraphGAN | GraphGAN: Graph Representation Learning with Generative Adversarial Nets | https://github.com/hwwang55/GraphGAN |
 | 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs | |
 | 3 | NetGAN | Netgan: Generating graphs via random walks | |
-
-## List for Graph MLP and Graph Transformer
-| Number |  Graph MLP or Graph Transformer | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks |
-| 2 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
-| 3 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer |
-| 4 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
 
 ## List for graph pre-training
 | Number | Pre-training mathod | Paper | Code |
