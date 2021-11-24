@@ -300,6 +300,8 @@ A list for GNNs and related works.
 | 25 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat |
 | 26 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | |
 | 27 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE |
+| 28 | | A Flexible Generative Framework for Graph-based Semi-supervised Learning | https://github.com/jiaqima/G3NN |
+| 29 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND |
 
 ## List for Surveys
 | Number | Paper |
