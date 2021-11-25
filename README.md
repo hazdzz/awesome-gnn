@@ -34,14 +34,15 @@ A list for GNNs and related works.
 | 24 | DGCN | Directed Graph Convolutional Network | | | https://arxiv.org/abs/2004.13970 |
 | 25 | SIGN | SIGN: Scalable Inception Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2004.11198 |
 | 26 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/cffb6e2288a630c2a787a64ccc67097c-Abstract.html |
-| 27 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC | ICLR 2021 | https://openreview.net/forum?id=CYO5T-YjWZV |
-| 28 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN | ICLR 2021 | https://openreview.net/forum?id=n6jl7fLxrP |
-| 29 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP | ICLR 2021 | https://openreview.net/forum?id=tiqI7w64JG2 |
-| 30 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet | NeurIPS 2021 | https://openreview.net/forum?id=TRDAFiwDq8A |
-| 31 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
-| 32 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
-| 33 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
-| 34 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | |
+| 27 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
+| 28 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC | ICLR 2021 | https://openreview.net/forum?id=CYO5T-YjWZV |
+| 29 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN | ICLR 2021 | https://openreview.net/forum?id=n6jl7fLxrP |
+| 30 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP | ICLR 2021 | https://openreview.net/forum?id=tiqI7w64JG2 |
+| 31 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet | NeurIPS 2021 | https://openreview.net/forum?id=TRDAFiwDq8A |
+| 32 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
+| 33 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
+| 34 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
+| 35 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
@@ -165,7 +166,7 @@ A list for GNNs and related works.
 | 1 | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | | AAAI 2018 | https://ojs.aaai.org/index.php/AAAI/article/view/11604 |
 | 2 | DeepGCNs: Can GCNs Go as Deep as CNNs? | | ICCV 2019 | https://openaccess.thecvf.com/content_ICCV_2019/html/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.html |
 | 3 | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics | ICLR 2020 | https://openreview.net/forum?id=S1ldO2EFPr |
-| 4 | A Note on Over-Smoothing for Graph Neural Networks | | | |
+| 4 | A Note on Over-Smoothing for Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2006.13318 |
 | 5 | Revisiting Over-smoothing in Deep GCNs | | | |
 | 6 | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN | | |
 | 7 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | | |
