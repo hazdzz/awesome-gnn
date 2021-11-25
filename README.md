@@ -19,8 +19,8 @@ A list for GNNs and related works.
 | 9 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp | ICLR 2019 | https://openreview.net/forum?id=H1gL-2A9Ym |
 | 10 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html |
 | 11 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN | AAAI 2019 | https://ojs.aaai.org//index.php/AAAI/article/view/4531 |
-| 12 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork | ICLR 2019 | https://openreview.net/forum?id=H1ewdiR5tQ |
-| 13 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine | KDD 2018 | https://www-cs.stanford.edu/~jure/pubs/graphwave-kdd18.pdf |
+| 12 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine | KDD 2018 | https://www-cs.stanford.edu/~jure/pubs/graphwave-kdd18.pdf |
+| 13 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork | ICLR 2019 | https://openreview.net/forum?id=H1ewdiR5tQ |
 | 14 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat | IJCAI 2019 | https://www.ijcai.org/proceedings/2019/267 |
 | 15 | HANet | Fast Haar Transforms for Graph Neural Networks | | Neural Networks | https://www.sciencedirect.com/science/article/abs/pii/S0893608020301568 |
 | 16 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | | | https://arxiv.org/abs/2007.11202 |
