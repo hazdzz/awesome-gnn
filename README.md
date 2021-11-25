@@ -301,7 +301,6 @@ A list for GNNs and related works.
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
 |:------:|--------------------------|:-------:|----------------------------------------|
-| 1 | Graph Neural Networks: A Review of Methods and Applications |
-| 2 | A Comprehensive Survey on Graph Neural Networks |
-| 3 | Deep Learning on Graphs: A Survey |
-| 4 | Graph Neural Networks in Recommender Systems: A Survey |
+| 1 | Graph Neural Networks: A Review of Methods and Applications | AI Open | https://www.sciencedirect.com/science/article/pii/S2666651021000012 |
+| 2 | A Comprehensive Survey on Graph Neural Networks | IEEE Transactions on Neural Networks and Learning Systems | https://ieeexplore.ieee.org/abstract/document/9046288 |
+| 3 | Deep Learning on Graphs: A Survey | IEEE Transactions on Knowledge and Data Engineering | https://ieeexplore.ieee.org/abstract/document/9039675 |
