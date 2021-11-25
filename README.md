@@ -17,7 +17,7 @@ A list for GNNs and related works.
 | 7 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | | IEEE Transactions on Signal Processing | https://github.com/amoliu/CayleyNet | https://ieeexplore.ieee.org/abstract/document/8521593 |
 | 8 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork | ICLR 2019 | https://openreview.net/forum?id=BkedznAqKQ |
 | 9 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp | ICLR 2019 | https://openreview.net/forum?id=H1gL-2A9Ym |
-| 10 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NIPS 2019 | https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf |
+| 10 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html |
 | 11 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN | AAAI 2019 | https://ojs.aaai.org//index.php/AAAI/article/view/4531 |
 | 12 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork | ICLR 2019 | https://openreview.net/forum?id=H1ewdiR5tQ |
 | 13 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine | KDD 2018 | https://www-cs.stanford.edu/~jure/pubs/graphwave-kdd18.pdf |
@@ -28,7 +28,7 @@ A list for GNNs and related works.
 | 18 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
 | 19 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | | 2018 IEEE Data Science Workshop | https://ieeexplore.ieee.org/abstract/document/8439897 |
 | 20 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters |  https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9336270 |
-| 21 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets | NeurIPS 2019 | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters |
+| 21 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/f87522788a2be2d171666752f97ddebb-Abstract.html |
 | 22 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN | ICML 2020 | http://proceedings.mlr.press/v115/sun20a.html |
 | 23 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | | | https://arxiv.org/abs/1907.08990 |
 | 24 | DGCN | Directed Graph Convolutional Network | | | https://arxiv.org/abs/2004.13970 |
