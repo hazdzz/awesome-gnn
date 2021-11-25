@@ -174,24 +174,24 @@ A list for GNNs and related works.
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm | | |
-| 2 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm | | |
-| 3 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN | | |
-| 4 | GraphNorm | GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training | https://github.com/lsj2408/GraphNorm | | |
+| 1 | PairNorm | PairNorm: Tackling Oversmoothing in GNNs | https://github.com/LingxiaoShawn/PairNorm | ICLR 2020 | https://openreview.net/forum?id=rkecl1rtwB |
+| 2 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482488 |
+| 3 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/33dd6dba1d56e826aac1cbf23cdcca87-Abstract.html |
+| 4 | GraphNorm | GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training | https://github.com/lsj2408/GraphNorm | ICML 2021 | http://proceedings.mlr.press/v139/cai21e.html |
 
 ### Dropout-like or Sampling
 | Number | Method or GNN | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | DropEdge | DropEdge: Towards Deep Graph Convolutional Networks on Node Classification | https://github.com/DropEdge/DropEdge | ICLR 2020 | https://openreview.net/forum?id=Hkx1qkrKPr |
 | 1 | DropEdge | Tackling Over-Smoothing for General Graph Convolutional Networks | https://github.com/DropEdge/DropEdge | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://arxiv.org/abs/2008.09864 |
-| 2 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN | | |
-| 3 | VR-GCN | Stochastic Training of Graph Convolutional Networks with Variance Reduction | https://github.com/thu-ml/stochastic_gcn | | |
-| 4 | | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL | | |
-| 5 | | Adaptive Sampling Towards Fast Graph Representation Learning | https://github.com/huangwb/AS-GCN | | |
-| 6 | BBGDC (beta-Bernoulli Graph DropConnect) | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC | | |
-| 7 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES | | |
-| 8 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT | | |
-| 9 | MVS-GNN | Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks | | | |
+| 2 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN | ICLR 2018 | https://openreview.net/forum?id=rytstxWAW |
+| 3 | VR-GCN | Stochastic Training of Graph Convolutional Networks with Variance Reduction | https://github.com/thu-ml/stochastic_gcn | ICML 2018 | https://proceedings.mlr.press/v80/chen18p.html |
+| 4 | | Adaptive Sampling Towards Fast Graph Representation Learning | https://github.com/huangwb/AS-GCN | NeurIPS 2018 | https://proceedings.neurips.cc/paper/2018/hash/01eee509ee2f68dc6014898c309e86bf-Abstract.html |
+| 5 | | Advancing GraphSAGE with A Data-driven Node Sampling | https://github.com/oj9040/GraphSAGE_RL | ICLR 2019 workshop | https://arxiv.org/abs/1904.12935 |
+| 6 | LADIES | Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks | https://github.com/acbull/LADIES | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/91ba4a4478a66bee9812b0804b6f9d1b-Abstract.html |
+| 7 | BBGDC | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC | ICML 2020 | https://proceedings.mlr.press/v119/hasanzadeh20a.html |
+| 8 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT | ICLR 2020 | https://openreview.net/forum?id=BJe8pkHFwS |
+| 9 | MVS-GNN | Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks | | KDD 2020 | https://dl.acm.org/doi/10.1145/3394486.3403192 |
 
 ### Scattering
 | Number | Method or GNN | Paper | Code | Journal or Conference | URL |
@@ -199,27 +199,27 @@ A list for GNNs and related works.
 | 1 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
 
 ## List for Over-squashing
-| Number | Method or GNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ |
+| Number | Method or GNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ | ICLR 2021 | https://openreview.net/forum?id=i80OPhOCVH2 |
 
 ## List for Graph Transformers
-| Number |  Graph Transformer | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks |
-| 2 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer |
-| 3 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer |
-| 4 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
-| 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | | |
+| Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/9d63484abb477c97640154d40595a3bb-Abstract.html |
+| 2 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380027 |
+| 3 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer | AAAI 2021 Workshop | https://arxiv.org/abs/2012.09699 |
+| 4 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
+| 5 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
 
 ## List for Graph MLP
-| Number |  Graph MLP | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP |
+| Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP | | https://arxiv.org/abs/2106.04051 |
 
 ## List for Graph Autoencoders (GAE)
-| Number | GAE | Paper | Code |
-|:------:|:--------------------------:|-------|------|
+| Number | GAE | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | DNGR | Deep Neural Networks for Learning Graph Representations | |
 | 2 | SDNE | Structural Deep Network Embedding | |
 | 3 | DVNE | Deep Variational Network Embedding in Wasserstein Space | |
@@ -234,21 +234,21 @@ A list for GNNs and related works.
 | 12 | Gravity Graph VAE and Gravity Graph AE | Gravity-Inspired Graph Autoencoders for Directed Link Prediction | https://github.com/deezer/gravity_graph_autoencoders |
 
 ## List for Graph Generative Adversarial Networks (GGAN)
-| Number | GGAN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
+| Number | GGAN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | GraphGAN | GraphGAN: Graph Representation Learning with Generative Adversarial Nets | https://github.com/hwwang55/GraphGAN |
 | 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs | |
 | 3 | NetGAN | Netgan: Generating graphs via random walks | |
 
 ## List for graph pre-training
-| Number | Pre-training mathod | Paper | Code |
-|:------:|:--------------------------:|-------|------|
+| Number | Pre-training mathod | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
 | 2 | GCC | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | https://github.com/THUDM/GCC |
 
 ## List for GNN explainers
-| Number | GNN or method | Paper | Code |
-|:------:|:--------------------------:|-------|------|
+| Number | GNN or method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
 | 2 | PGExplainer | Parameterized Explainer for Graph Neural Network | https://github.com/flyingdoog/PGExplainer |
 | 3 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
@@ -257,8 +257,8 @@ A list for GNNs and related works.
 | 6 | | When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods | |
 
 ## List for Graph Adversarial Attacks and Defenses
-| Number | method | Paper | Code |
-|:------:|:--------------------------:|-------|------|
+| Number | method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | | Adversarial Attacks on Neural Networks for Graph Data | https://github.com/danielzuegner/nettack |
 | 2 | | Certifiable Robustness and Robust Training for Graph Convolutional Networks | https://github.com/danielzuegner/robust-gcn |
 | 3 | | Adversarial Attacks on Graph Neural Networks via Meta Learning | |
@@ -266,8 +266,8 @@ A list for GNNs and related works.
 | 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard |
 
 ## List for Others
-| Number | GNN or method | Paper | Code |
-|:------:|:--------------------------:|-------|------|
+| Number | GNN or method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | | Graph Structure of Neural Networks | |
 | 2 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
 | 3 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
@@ -299,8 +299,8 @@ A list for GNNs and related works.
 | 29 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND |
 
 ## List for Surveys
-| Number | Paper |
-|:------:|--------------------------|
+| Number | Paper | Journal or Conference | URL |
+|:------:|--------------------------|:-------:|----------------------------------------|
 | 1 | Graph Neural Networks: A Review of Methods and Applications |
 | 2 | A Comprehensive Survey on Graph Neural Networks |
 | 3 | Deep Learning on Graphs: A Survey |
