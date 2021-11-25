@@ -6,172 +6,169 @@ A list for GNNs and related works.
 ## List for GNNs
 ### Spectral domain GNNs
 #### Convolutional GNNs
-| Number | GNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | Spectral CNN | Spectral Networks and Locally Connected Networks on Graphs | |
-| 2 | | Deep Convolutional Networks on Graph-Structured Data | |
-| 3 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph |
-| 4 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/gcn |
-| 5 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC |
-| 6 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn |
-| 7 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | https://github.com/amoliu/CayleyNet |
-| 8 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork |
-| 9 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp |
-| 10 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc |
-| 11 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN |
-| 12 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork |
-| 13 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine |
-| 14 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat |
-| 15 | HANet | Fast Haar Transforms for Graph Neural Networks | |
-| 16 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | |
-| 17 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG |
-| 18 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters | https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 |
-| 19 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | |
-| 20 | DGCN | Directed Graph Convolutional Network | |
-| 21 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
-| 22 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC |
-| 23 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN |
-| 24 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | |
-| 25 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN |
-| 26 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets |
-| 27 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet |
-| 28 | SIGN | SIGN: Scalable Inception Graph Neural Networks | |
-| 29 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN |
-| 30 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP |
-| 31 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet |
-| 32 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | |
-| 33 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | |
+| Number | GNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | Spectral CNN | Spectral Networks and Locally Connected Networks on Graphs | | ICLR 2014 | https://openreview.net/forum?id=DQNsQf-UsoDBa |
+| 2 | | Deep Convolutional Networks on Graph-Structured Data | | | https://arxiv.org/abs/1506.05163 |
+| 3 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph | NeurIPS 2016 | https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html |
+| 4 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/gcn | ICLR 2017 | https://openreview.net/forum?id=SJU4ayYgl |
+| 5 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC | ICML 2019 | http://proceedings.mlr.press/v97/wu19e.html |
+| 6 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn | | https://arxiv.org/abs/1905.09550 |
+| 7 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | | IEEE Transactions on Signal Processing | https://github.com/amoliu/CayleyNet | https://ieeexplore.ieee.org/abstract/document/8521593 |
+| 8 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork | ICLR 2019 | https://openreview.net/forum?id=BkedznAqKQ |
+| 9 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp | ICLR 2019 | https://openreview.net/forum?id=H1gL-2A9Ym |
+| 10 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NIPS 2019 | https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf |
+| 11 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN | AAAI 2019 | https://ojs.aaai.org//index.php/AAAI/article/view/4531 |
+| 12 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork | ICLR 2019 | https://openreview.net/forum?id=H1ewdiR5tQ |
+| 13 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine | KDD 2018 | https://www-cs.stanford.edu/~jure/pubs/graphwave-kdd18.pdf |
+| 14 | GraphHeat | Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning | https://github.com/Eilene/GraphHeat | IJCAI 2019 | https://www.ijcai.org/proceedings/2019/267 |
+| 15 | HANet | Fast Haar Transforms for Graph Neural Networks | | Neural Networks | https://www.sciencedirect.com/science/article/abs/pii/S0893608020301568 |
+| 16 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | | | https://arxiv.org/abs/2007.11202 |
+| 17 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG | ICML 2021 | http://proceedings.mlr.press/v139/zheng21c.html |
+| 18 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
+| 19 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | | 2018 IEEE Data Science Workshop | https://ieeexplore.ieee.org/abstract/document/8439897 |
+| 20 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters |  https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9336270 |
+| 21 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets | NeurIPS 2019 | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters |
+| 22 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN | ICML 2020 | http://proceedings.mlr.press/v115/sun20a.html |
+| 23 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | | | https://arxiv.org/abs/1907.08990 |
+| 24 | DGCN | Directed Graph Convolutional Network | | | https://arxiv.org/abs/2004.13970 |
+| 25 | SIGN | SIGN: Scalable Inception Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2004.11198 |
+| 26 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/cffb6e2288a630c2a787a64ccc67097c-Abstract.html |
+| 27 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC | ICLR 2021 | https://openreview.net/forum?id=CYO5T-YjWZV |
+| 28 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN | ICLR 2021 | https://openreview.net/forum?id=n6jl7fLxrP |
+| 29 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP | ICLR 2021 | https://openreview.net/forum?id=tiqI7w64JG2 |
+| 30 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet | NeurIPS 2021 | https://openreview.net/forum?id=TRDAFiwDq8A |
+| 31 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
+| 32 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
+| 33 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
+| 34 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | |
 
 #### Attentional GNNs
-| Number | GNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | SpGAT | Spectral Graph Attention Network with Fast Eigen-approximation | https://github.com/SwiftieH/SpGAT |
+| Number | GNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | SpGAT | Spectral Graph Attention Network with Fast Eigen-approximation | https://github.com/SwiftieH/SpGAT | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482187 |
 
 #### Graph Pooling (Graph Coarsening)
-| Number | Graph Pooling | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | LaPool | Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling | |
-| 2 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling |
-| 3 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool |
+| Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | LaPool | Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling | | | https://arxiv.org/abs/1905.11577 |
+| 2 | EigenPooling | Graph Convolutional Networks with EigenPooling | https://github.com/alge24/eigenpooling | KDD 2019 | https://dl.acm.org/doi/10.1145/3292500.3330982 |
+| 3 | HaarPool | Haar Graph Pooling | https://github.com/YuGuangWang/HaarPool | ICML 2020 | http://proceedings.mlr.press/v119/wang20m.html |
 
 ### Spatial/Vertex domain GNNs
 #### Convolutional GNNs
-| Number | GNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | DCNN | Diffusion-Convolutional Neural Networks | https://github.com/RicardoZiTseng/dcnn-tensorflow |
-| 2 | MoNet | Geometric deep learning on graphs and manifolds using mixture model CNNs | https://github.com/theswgong/MoNet |
-| 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN |
-| 4 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE |
-| 5 | PinSAGE | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | |
-| 6 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns |
-| 7 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | |
-| 8 | Geom-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn |
-| 9 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN |
-| 10 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 |
-| 11 | | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn |
-| 12 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn |
-| 13 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN |
-| 14 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN |
-| 15 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | |
+| Number | GNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | DCNN | Diffusion-Convolutional Neural Networks | https://github.com/RicardoZiTseng/dcnn-tensorflow | NeurIPS 2016 | https://proceedings.neurips.cc/paper/2016/hash/390e982518a50e280d8e2b535462ec1f-Abstract.html |
+| 2 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE | NeurIPS 2017 | https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html |
+| 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN | ICLR 2018 | https://openreview.net/forum?id=rytstxWAW |
+| 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | | ICML 2018 | http://proceedings.mlr.press/v80/xu18c.html |
+| 5 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns | ICLR 2019 | https://openreview.net/forum?id=ryGs6iA5Km |
+| 6 | Geom-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn | ICLR 2020 | https://openreview.net/forum?id=S1e2agrFvS |
+| 7 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403076 |
+| 8 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 | DLG-KDD20 | https://deep-learning-graphs.bitbucket.io/dlg-kdd20/accepted_papers/DLG-KDD20_paper_5.pdf |
+| 9 | k-GNN | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn | AAAI 2019 | https://ojs.aaai.org/index.php/AAAI/article/view/4384 |
+| 10 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn | KDD 2019 | https://dl.acm.org/doi/abs/10.1145/3292500.3330925 |
+| 11 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
+| 12 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
+| 13 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | |
 
 #### Attentional GNNs
-| Number | GNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | AGNN | Attention-based Graph Neural Network for Semi-supervised Learning | https://github.com/dawnranger/pytorch-AGNN |
-| 2 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT |
-| 3 | MCN | Higher-order Graph Convolutional Networks | |
-| 4 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
-| 5 | MixHop | MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing | https://github.com/samihaija/mixhop |
-| 6 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN |
-| 7 | hGANet | Graph Representation Learning via Hard and Channel-Wise Attention Networks | |
-| 8 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM |
-| 9 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | |
-| 10 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN |
-| 11 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat |
-| 12 | DPGAT and GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats |
-| 13 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp |
+| Number | GNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | AGNN | Attention-based Graph Neural Network for Semi-supervised Learning | https://github.com/dawnranger/pytorch-AGNN | | https://arxiv.org/abs/1803.03735 |
+| 2 | GAT | Graph Attention Network | https://github.com/PetarV-/GAT | ICLR 2018 | https://openreview.net/forum?id=rJXMpikCZ |
+| 3 | MCN | Higher-order Graph Convolutional Networks | | | |
+| 4 | CS-GNN | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN | ICLR 2020 | https://openreview.net/forum?id=rkeIIkHKvS |
+| 5 | MixHop | MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing | https://github.com/samihaija/mixhop | ICML 2019 | http://proceedings.mlr.press/v97/abu-el-haija19a.html |
+| 6 | GaAN | GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs | https://github.com/jennyzhang0215/GaAN | UAI 2018 | http://www.auai.org/uai2018/proceedings/papers/139.pdf |
+| 7 | GAM | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM | KDD 2018 | https://dl.acm.org/doi/abs/10.1145/3219819.3219980 |
+| 8 | hGANet | Graph Representation Learning via Hard and Channel-Wise Attention Networks | | KDD 2019 | https://dl.acm.org/doi/abs/10.1145/3292500.3330897 |
+| 9 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat | | https://arxiv.org/abs/1904.05811 |
+| 10 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | | NeurIPS 2019 Workshop | https://grlearning.github.io/papers/43.pdf |
+| 11 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN | AAAI 2021 | https://ojs.aaai.org/index.php/AAAI/article/view/16514 |
+| 12 | DPGAT and GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | | |
+| 13 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | | |
 
 #### Graph Pooling (Graph Coarsening)
-| Number | Graph Pooling | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | SortPooling | An End-to-End Deep Learning Architecture for Graph Classification | https://github.com/muhanzhang/DGCNN |
-| 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool |
-| 3 | gPool and gUnpool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets |
-| 4 | SAGPool | Self-Attention Graph Pooling | https://github.com/inyeoplee77/SAGPool |
-| 5 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling |
-| 6 | HPL-SL | Hierarchical Graph Pooling with Structure Learning | https://github.com/cszhangzhen/HGP-SL |
-| 7 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool |
-| 8 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling |
-| 9 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT |
-| 10 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | |
-| 11 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling |
-| 12 | VIPool | Graph Cross Networks with Vertex Infomax Pooling | https://github.com/limaosen0/GXN |
-| 13 | iPool | iPool—Information-Based Pooling in Hierarchical Graph Neural Networks | |
-| 14 | MxPool | MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning | https://github.com/JucatL/MxPool/ |
+| Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | SortPooling | An End-to-End Deep Learning Architecture for Graph Classification | https://github.com/muhanzhang/DGCNN | AAAI 2018 | https://ojs.aaai.org/index.php/AAAI/article/view/11782 |
+| 2 | DiffPool | Hierarchical Graph Representation Learning with Differentiable Pooling | https://github.com/RexYing/diffpool | NeurIPS 2018 | https://proceedings.neurips.cc/paper/2018/hash/e77dbaf6759253c7c6d0efc5690369c7-Abstract.html |
+| 3 | gPool and gUnpool | Graph U-Nets | https://github.com/HongyangGao/Graph-U-Nets | ICML 2019 | http://proceedings.mlr.press/v97/gao19a.html |
+| 4 | SAGPool | Self-Attention Graph Pooling | https://github.com/inyeoplee77/SAGPool | ICML 2019 | https://proceedings.mlr.press/v97/lee19c.html |
+| 5 | Relational Pooling | Relational Pooling for Graph Representations | https://github.com/PurdueMINDS/RelationalPooling | ICML 2019 | http://proceedings.mlr.press/v97/murphy19a.html |
+| 6 | HPL-SL | Hierarchical Graph Pooling with Structure Learning | https://github.com/cszhangzhen/HGP-SL | | https://arxiv.org/abs/1911.05954 |
+| 7 | StructPool | StructPool: Structured Graph Pooling via Conditional Random Fields | https://github.com/Nate1874/StructPool | ICLR 2020 | https://openreview.net/forum?id=BJxg_hVtwH |
+| 8 | MinCutPool | Spectral Clustering with Graph Neural Networks for Graph Pooling | https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling | ICML 2020 | https://proceedings.mlr.press/v119/bianchi20a.html |
+| 9 | GSAPool | Structure-Feature based Graph Self-adaptive Pooling | | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380083 |
+| 10 | NDP | Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling | https://github.com/danielegrattarola/decimation-pooling | IEEE Transactions on Neural Networks and Learning Systems | https://ieeexplore.ieee.org/abstract/document/9311759 |
+| 11 | MxPool | MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning | https://github.com/JucatL/MxPool/ | | https://arxiv.org/abs/2004.06846 |
+| 12 | VIPool | Graph Cross Networks with Vertex Infomax Pooling | https://github.com/limaosen0/GXN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a26398dca6f47b49876cbaffbc9954f9-Abstract.html |
+| 13 | GMT | Accurate Learning of Graph Representations with Graph Multiset Pooling | https://github.com/JinheonBaek/GMT | ICLR 2021 | https://openreview.net/forum?id=JHcqXGaqiGn |
+| 14 | iPool | iPool—Information-Based Pooling in Hierarchical Graph Neural Networks | | IEEE Transactions on Neural Networks and Learning Systems | https://ieeexplore.ieee.org/document/9392315 |
 
 #### MPNNs
-| Number | MPNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn |
-| 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP |
-| 3 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna |
-| 4 | EGC-S and EGC-M | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | https://github.com/shyam196/egc |
+| Number | MPNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn | ICML 2017 | https://proceedings.mlr.press/v70/gilmer17a.html |
+| 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html |
+| 3 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/99cad265a1768cc2dd013f0e740300ae-Abstract.html |
+| 4 | EGC-S and EGC-M | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | https://github.com/shyam196/egc | | https://arxiv.org/abs/2104.01481 |
 
 #### Heterogeneous Graph Neural Networks
-| Number | HGNN | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | HetGNN | Heterogeneous Graph Neural Network | https://github.com/chuxuzhang/KDD2019_HetGNN |
-| 2 | HAN | Heterogeneous Graph Attention Network | https://github.com/Jhy1993/HAN |
-| 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT |
-| 4 | MAGNN | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN |
-| 5 | HeCo | Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning | https://github.com/liun-online/HeCo |
+| Number | HGNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | HetGNN | Heterogeneous Graph Neural Network | https://github.com/chuxuzhang/KDD2019_HetGNN | KDD 2019 | https://dl.acm.org/doi/10.1145/3292500.3330961 |
+| 2 | HAN | Heterogeneous Graph Attention Network | https://github.com/Jhy1993/HAN | WWW 2019 | https://dl.acm.org/doi/10.1145/3292500.3330961 |
+| 3 | MAGNN | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380297 |
 
 #### Hyperbolic Graph Neural Networks
-| Number | HGNN or method | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | HGCN | Hyperbolic Graph Convolutional Neural Networks | https://github.com/HazyResearch/hgcn |
-| 2 | HGNN | Hyperbolic Graph Neural Networks | https://github.com/facebookresearch/hgnn |
-| 3 | k-GCN | Constant Curvature Graph Convolutional Networks | |
-| 4 | HAT | Hyperbolic Graph Attention Network | |
-| 5 | HNN + HBN | Differentiating through the Fréchet Mean | https://github.com/CUAI/Differentiable-Frechet-Mean |
-| 6 | LGCN | Lorentzian Graph Convolutional Networks | |
-| 7 | H2H-GCN | A Hyperbolic-to-Hyperbolic Graph Convolutional Network | |
-| 8 | HGCF | HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering | https://github.com/layer6ai-labs/HGCF |
-| 9 | HVGNN | Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs | |
-| 10 | ACE-HGNN | ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network | https://github.com/ringbdstack/ace-hgnn |
+| Number | HGNN or method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | HGCN | Hyperbolic Graph Convolutional Neural Networks | https://github.com/HazyResearch/hgcn | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html |
+| 2 | HGNN | Hyperbolic Graph Neural Networks | https://github.com/facebookresearch/hgnn | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html |
+| 3 | HAT | Hyperbolic Graph Attention Network | | ICLR 2019 | https://openreview.net/forum?id=rJxHsjRqFQ |
+| 4 | k-GCN | Constant Curvature Graph Convolutional Networks | | ICML 2020 | https://proceedings.mlr.press/v119/bachmann20a.html |
+| 5 | HNN + HBN | Differentiating through the Fréchet Mean | https://github.com/CUAI/Differentiable-Frechet-Mean | ICML 2020 | http://proceedings.mlr.press/v119/lou20a.html |
+| 6 | LGCN | Lorentzian Graph Convolutional Networks | | WWW 2021 | https://dl.acm.org/doi/abs/10.1145/3442381.3449872 |
+| 7 | H2H-GCN | A Hyperbolic-to-Hyperbolic Graph Convolutional Network | | CVPR 2021 | https://openaccess.thecvf.com/content/CVPR2021/html/Dai_A_Hyperbolic-to-Hyperbolic_Graph_Convolutional_Network_CVPR_2021_paper.html |
+| 8 | HGCF | HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering | https://github.com/layer6ai-labs/HGCF | WWW 2021 | https://dl.acm.org/doi/10.1145/3442381.3450101 |
+| 9 | HVGNN | Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs | | AAAI 2021 | https://ojs.aaai.org/index.php/AAAI/article/view/16563 |
+| 10 | ACE-HGNN | ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network | https://github.com/ringbdstack/ace-hgnn | | https://arxiv.org/abs/2110.07888 |
 
 #### Capsule Graph Neural Network
-| Number | CGNN or method | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | CapsGNN | Capsule Graph Neural Network | https://github.com/benedekrozemberczki/CapsGNN |
-| 2 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ |
+| Number | CGNN or method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ | | https://arxiv.org/abs/1805.08090 |
+| 2 | CapsGNN | Capsule Graph Neural Network | https://github.com/benedekrozemberczki/CapsGNN | ICLR 2019 | https://openreview.net/forum?id=Byl8BnRcYm |
 
 #### Graph Neural ODE or PDE
-| Number | GNODE or GNPDE or method | Paper | Code |
-|:------:|:--------------------------:|-------|------|
-| 1 | | Graph Neural Ordinary Differential Equations | https://github.com/Zymrael/gde |
-| 2 | | Ordinary differential equations on graph networks | |
-| 3 | CGF | Continuous Graph Flow | |
-| 4 | CGNN | Continuous Graph Neural Networks | https://github.com/DeepGraphLearning/ContinuousGNN |
-| 5 | NDCN | Neural Dynamics on Complex Networks | https://github.com/calvin-zcx/ndcn |
-| 6 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | |
-| 7 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn |
-| 8 | GKN | Neural Operator: Graph Kernel Network for Partial Differential Equations | https://github.com/zongyi-li/graph-pde |
-| 9 | MGKN | Multipole Graph Neural Operator for Parametric Partial Differential Equations | https://github.com/zongyi-li/graph-pde |
-| 10 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde |
-| 11 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc |
+| Number | GNODE or GNPDE or method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | | Graph Neural Ordinary Differential Equations | https://github.com/Zymrael/gde | | https://arxiv.org/abs/1911.07532 |
+| 2 | | Ordinary differential equations on graph networks | | | https://openreview.net/forum?id=SJg9z6VFDr |
+| 3 | CGF | Continuous Graph Flow | | | https://arxiv.org/abs/1908.02436 |
+| 4 | CGNN | Continuous Graph Neural Networks | https://github.com/DeepGraphLearning/ContinuousGNN | ICML 2020 | https://proceedings.mlr.press/v119/xhonneux20a.html |
+| 5 | NDCN | Neural Dynamics on Complex Networks | https://github.com/calvin-zcx/ndcn | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403132 |
+| 6 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | | NeurIPS 2019 Workshop | https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_30.pdf |
+| 7 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn | ICML 2020 | https://proceedings.mlr.press/v119/de-avila-belbute-peres20a.html |
+| 8 | GKN | Neural Operator: Graph Kernel Network for Partial Differential Equations | https://github.com/zongyi-li/graph-pde | ICLR 2020 Workshop | https://openreview.net/forum?id=fg2ZFmXFO3 |
+| 9 | MGKN | Multipole Graph Neural Operator for Parametric Partial Differential Equations | https://github.com/zongyi-li/graph-pde | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/4b21cf96d4cf612f239a6c322b10c8fe-Abstract.html |
+| 10 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde | ICML 2021 | https://proceedings.mlr.press/v139/chamberlain21a.html |
+| 11 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc | | https://arxiv.org/abs/2006.09773 |
 
 ## List for Over-smoothing
 ### Analyses
-| Number | Paper | Code |
-|:------:|--------------------------|-------|
-| 1 | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | |
-| 2 | DeepGCNs: Can GCNs Go as Deep as CNNs? | |
-| 3 | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics |
-| 4 | A Note on Over-Smoothing for Graph Neural Networks | |
-| 5 | Revisiting Over-smoothing in Deep GCNs | |
-| 6 | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN |
-| 7 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII |
+| Number | Paper | Code | Journal or Conference | URL |
+|:------:|--------------------------|-------|:-------:|----------------------------------------|
+| 1 | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | | AAAI 2018 | https://ojs.aaai.org/index.php/AAAI/article/view/11604 |
+| 2 | DeepGCNs: Can GCNs Go as Deep as CNNs? | | ICCV 2019 | https://openaccess.thecvf.com/content_ICCV_2019/html/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.html |
+| 3 | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics | ICLR 2020 | https://openreview.net/forum?id=S1ldO2EFPr |
+| 4 | A Note on Over-Smoothing for Graph Neural Networks | | | |
+| 5 | Revisiting Over-smoothing in Deep GCNs | | | |
+| 6 | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN | | |
+| 7 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | | |
 
 ### Dropout-like
 | Number | Method | Paper | Code |
@@ -216,6 +213,7 @@ A list for GNNs and related works.
 | 2 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer |
 | 3 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer |
 | 4 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT |
+| 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | | |
 
 ## List for Graph MLP
 | Number |  Graph MLP | Paper | Code |
