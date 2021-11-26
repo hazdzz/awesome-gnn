@@ -266,44 +266,45 @@ A list for GNNs and related works.
 ## List for Graph Adversarial Attacks and Defenses
 | Number | method | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | | Adversarial Attacks on Neural Networks for Graph Data | https://github.com/danielzuegner/nettack | | |
-| 2 | | Certifiable Robustness and Robust Training for Graph Convolutional Networks | https://github.com/danielzuegner/robust-gcn | | |
-| 3 | | Adversarial Attacks on Graph Neural Networks via Meta Learning | | | |
-| 4 | | Adversarial Attacks on Node Embeddings via Graph Poisoning | https://github.com/abojchevski/node_embedding_attack | | |
-| 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard | | |
+| 1 | | Adversarial Attacks on Neural Networks for Graph Data | https://github.com/danielzuegner/nettack | KDD 2018 | https://dl.acm.org/doi/10.1145/3219819.3220078 |
+| 2 | | Certifiable Robustness and Robust Training for Graph Convolutional Networks | https://github.com/danielzuegner/robust-gcn | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403217 |
+| 3 | | Adversarial Attacks on Graph Neural Networks via Meta Learning | | ICLR 2019 | https://openreview.net/forum?id=Bylnx209YX |
+| 4 | | Adversarial Attacks on Node Embeddings via Graph Poisoning | https://github.com/abojchevski/node_embedding_attack | ICML 2019 | https://proceedings.mlr.press/v97/bojchevski19a.html |
+| 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html |
+| 6 | | Detection and Defense of Topological Adversarial Attacks on Graphs | | ICML 2021 | https://proceedings.mlr.press/v130/zhang21i.html |
 
 ## List for Others
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | | Graph Structure of Neural Networks | |
-| 2 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl |
-| 3 | Benchmarking GNNs| Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns |
-| 4 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | |
-| 5 | | What graph neural networks cannot learn: depth vs width |
-| 6 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF |
-| 7 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR |
-| 8 | | Towards Sparse Hierarchical Graph Classifiers | |
-| 9 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb |
-| 10 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN |
-| 11 | BGNN(BGCN, BGAT) | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn |
-| 12 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins |
-| 13 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | |
-| 14 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | |
-| 15 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale |
-| 16 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS |
-| 17 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | |
-| 18 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power |
-| 19 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN |
-| 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc |
-| 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA |
-| 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN |
-| 23 | | A Fair Comparison of Graph Neural Networks for Graph Classification | https://github.com/diningphil/gnn-comparison |
-| 24 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB |
-| 25 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat |
-| 26 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | |
-| 27 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE |
-| 28 | | A Flexible Generative Framework for Graph-based Semi-supervised Learning | https://github.com/jiaqima/G3NN |
-| 29 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND |
+| 1 | | Graph Structure of Neural Networks | https://github.com/facebookresearch/graph2nn | ICML 2020 | https://proceedings.mlr.press/v119/you20b.html |
+| 2 | | Contrastive Multi-View Representation Learning on Graphs | https://github.com/kavehhassani/mvgrl | ICML 2020 | https://proceedings.mlr.press/v119/hassani20a.html |
+| 3 | Benchmarking GNNs | Benchmarking Graph Neural Networks | https://github.com/graphdeeplearning/benchmarking-gnns | | https://arxiv.org/abs/2003.00982 |
+| 4 | | Interpreting and Unifying Graph Neural Networks with An Optimization Framework | | WWW 2021 | https://dl.acm.org/doi/10.1145/3442381.3449953 |
+| 5 | | What graph neural networks cannot learn: depth vs width | | ICLR 2020 | https://openreview.net/forum?id=B1l2bp4YwS |
+| 6 | | Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework | https://github.com/BUPT-GAMMA/CPF | WWW 2021 | https://dl.acm.org/doi/abs/10.1145/3442381.3450068 |
+| 7 | SUGAR | SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism | https://github.com/RingBDStack/SUGAR | WWW 2021 | https://dl.acm.org/doi/10.1145/3442381.3449822 |
+| 8 | | Towards Sparse Hierarchical Graph Classifiers | | NeurIPS 2018 Workshop | https://arxiv.org/abs/1811.01287 |
+| 9 | OGB | Open Graph Benchmark: Datasets for Machine Learning on Graphs | https://github.com/snap-stanford/ogb | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/fb60d411a5c5b72b2e7d3527cfc84fd0-Abstract.html |
+| 10 | AdaGCN | AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | https://github.com/datake/AdaGCN | ICLR 2021 | https://openreview.net/forum?id=QkRbdiiEjM |
+| 11 | BGNN | Bilinear Graph Neural Network with Neighbor Interactions | https://github.com/zhuhm1996/bgnn | IJCAI 2020 | https://www.ijcai.org/proceedings/2020/202 |
+| 12 | RevGNN-Deep and RevGNN-Wide | Training Graph Neural Networks with 1000 Layers | https://github.com/lightaime/deep_gcns_torch/tree/master/examples/ogb_eff/ogbn_proteins | ICML 2021 | https://proceedings.mlr.press/v139/li21o.html |
+| 13 | OGB-LSC | OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs | | | https://arxiv.org/abs/2103.09430 |
+| 14 | DrGCNs | Dimensional Reweighting Graph Convolutional Networks | | | https://arxiv.org/abs/1907.02237 |
+| 15 | GAS | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | https://github.com/rusty1s/pyg_autoscale | ICML 2021 | http://proceedings.mlr.press/v139/fey21a.html |
+| 16 | TWIRLS | Graph Neural Networks Inspired by Classical Iterative Algorithms | https://github.com/FFTYYY/TWIRLS | ICML 2021 | http://proceedings.mlr.press/v139/yang21g.html |
+| 17 | GAT-Lip | Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks | | ICML 2021 | http://proceedings.mlr.press/v139/dasoulas21a.html |
+| 18 | | Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective | https://github.com/balcilar/gnn-spectral-expressive-power | ICLR 2021 | https://openreview.net/forum?id=-qh0M9XWxnv |
+| 19 | | Deep Graph Neural Networks with Shallow Subgraph Samplers | https://github.com/facebookresearch/shaDow_GNN | | https://arxiv.org/abs/2012.01380 |
+| 20 | | Large-scale graph representation learning with very deep GNNs and self-supervision | https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc | | https://arxiv.org/abs/2107.09422 |
+| 21 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA | | Unifying Graph Convolutional Neural Networks and Label Propagation |
+| 22 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN | CVPR 2020 | https://openaccess.thecvf.com/content_CVPR_2020/html/You_L2-GCN_Layer-Wise_and_Learned_Efficient_Training_of_Graph_Convolutional_Networks_CVPR_2020_paper.html |
+| 23 | | A Fair Comparison of Graph Neural Networks for Graph Classification | https://github.com/diningphil/gnn-comparison | ICLR 2020 | https://openreview.net/forum?id=HygDF6NFPB |
+| 24 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/ebc2aa04e75e3caabda543a1317160c0-Abstract.html |
+| 25 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat | ICML 2021 | https://proceedings.mlr.press/v139/lukovnikov21a.html |
+| 26 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | | ICML 2021 | https://proceedings.mlr.press/v139/xu21k.html |
+| 27 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE | IJCAI 2021 | https://www.ijcai.org/proceedings/2021/381 |
+| 28 | | A Flexible Generative Framework for Graph-based Semi-supervised Learning | https://github.com/jiaqima/G3NN | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/e0ab531ec312161511493b002f9be2ee-Abstract.html |
+| 29 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
