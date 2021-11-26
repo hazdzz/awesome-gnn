@@ -305,6 +305,7 @@ A list for GNNs and related works.
 | 27 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE | IJCAI 2021 | https://www.ijcai.org/proceedings/2021/381 |
 | 28 | | A Flexible Generative Framework for Graph-based Semi-supervised Learning | https://github.com/jiaqima/G3NN | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/e0ab531ec312161511493b002f9be2ee-Abstract.html |
 | 29 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html |
+| 30 | | Approximation Ratios of Graph Neural Networks for Combinatorial Problems | | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/635440afdfc39fe37995fed127d7df4f-Abstract.html |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
