@@ -227,50 +227,50 @@ A list for GNNs and related works.
 ## List for Graph Autoencoders (GAE)
 | Number | GAE | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | DNGR | Deep Neural Networks for Learning Graph Representations | |
-| 2 | SDNE | Structural Deep Network Embedding | |
-| 3 | DVNE | Deep Variational Network Embedding in Wasserstein Space | |
-| 4 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae | |
-| 5 | GC-MC | Graph Convolutional Matrix Completion | https://github.com/riannevdberg/gc-mc |
-| 6 | ARVGA | Adversarially regularized graph autoencoder for graph embedding | |
-| 7 | NetRA | Learning deep network representations with adversarially regularized autoencoders | |
-| 8 | DeepGMG | Learning deep generative models of graphs | |
-| 9 | GraphRNN | GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models | |
-| 10 | GraphVAE | Graphvae: Towards generation of small graphs using variational autoencoders | |
-| 11 | | Constrained generation of semantically valid graphs via regularizing variational autoencoders | |
-| 12 | Gravity Graph VAE and Gravity Graph AE | Gravity-Inspired Graph Autoencoders for Directed Link Prediction | https://github.com/deezer/gravity_graph_autoencoders |
+| 1 | DNGR | Deep Neural Networks for Learning Graph Representations | | AAAI 2016 | https://ojs.aaai.org/index.php/AAAI/article/view/10179 |
+| 2 | SDNE | Structural Deep Network Embedding | | | |
+| 3 | DVNE | Deep Variational Network Embedding in Wasserstein Space | | KDD 2016 | https://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding |
+| 4 | VGAE | Variational Graph Auto-Encoders | https://github.com/tkipf/gae | | | https://arxiv.org/abs/1611.07308 |
+| 5 | GC-MC | Graph Convolutional Matrix Completion | https://github.com/riannevdberg/gc-mc | | https://arxiv.org/abs/1706.02263 |
+| 6 | ARVGA | Adversarially regularized graph autoencoder for graph embedding | | IJCAI 2018 | https://dl.acm.org/doi/10.5555/3304889.3305023 |
+| 7 | NetRA | Learning deep network representations with adversarially regularized autoencoders | | KDD 2018 | https://dl.acm.org/doi/10.1145/3219819.3220000 |
+| 8 | DeepGMG | Learning deep generative models of graphs | | | https://arxiv.org/abs/1803.03324 |
+| 9 | GraphRNN | GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models | https://github.com/JiaxuanYou/graph-generation | ICML 2018 | https://proceedings.mlr.press/v80/you18a.html |
+| 10 | GraphVAE | Graphvae: Towards generation of small graphs using variational autoencoders | | ICANN 2018 | https://link.springer.com/chapter/10.1007/978-3-030-01418-6_41 |
+| 11 | | Constrained generation of semantically valid graphs via regularizing variational autoencoders | | NeurISP 2018 | https://proceedings.neurips.cc/paper/2018/hash/1458e7509aa5f47ecfb92536e7dd1dc7-Abstract.html |
+| 12 | Gravity Graph VAE and Gravity Graph AE | Gravity-Inspired Graph Autoencoders for Directed Link Prediction | https://github.com/deezer/gravity_graph_autoencoders | CIKM 2019 | https://dl.acm.org/doi/abs/10.1145/3357384.3358023 |
 
 ## List for Graph Generative Adversarial Networks (GGAN)
 | Number | GGAN | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | GraphGAN | GraphGAN: Graph Representation Learning with Generative Adversarial Nets | https://github.com/hwwang55/GraphGAN |
-| 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs | |
-| 3 | NetGAN | Netgan: Generating graphs via random walks | |
+| 1 | GraphGAN | GraphGAN: Graph Representation Learning with Generative Adversarial Nets | https://github.com/hwwang55/GraphGAN | AAAI 2018 | https://ojs.aaai.org/index.php/AAAI/article/view/11872 |
+| 2 | MolGAN | MolGAN: An implicit generative model for small molecular graphs | | | https://arxiv.org/abs/1805.11973 |
+| 3 | NetGAN | NetGAN: Generating graphs via random walks | | ICML 2018 | http://proceedings.mlr.press/v80/bojchevski18a.html |
 
 ## List for graph pre-training
 | Number | Pre-training mathod | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ |
-| 2 | GCC | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | https://github.com/THUDM/GCC |
+| 1 | | Strategies for Pre-training Graph Neural Networks | https://github.com/snap-stanford/pretrain-gnns/ | ICLR 2020 | https://openreview.net/forum?id=HJlWWJSFDH |
+| 2 | GCC | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | https://github.com/THUDM/GCC | KDD 2020 | https://dl.acm.org/doi/10.1145/3394486.3403168 |
 
 ## List for GNN explainers
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer |
-| 2 | PGExplainer | Parameterized Explainer for Graph Neural Network | https://github.com/flyingdoog/PGExplainer |
-| 3 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer |
-| 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | |
-| 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem |
-| 6 | | When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods | |
+| 1 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks | https://github.com/RexYing/gnn-model-explainer | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html |
+| 2 | PGExplainer | Parameterized Explainer for Graph Neural Network | https://github.com/flyingdoog/PGExplainer | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/e37b08dd3015330dcbb5d6663667b8b8-Abstract.html |
+| 3 | PGM-Explainer | PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks | https://github.com/vunhatminh/PGMExplainer | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/8fb134f258b1f7865a6ab2d935a897c9-Abstract.html |
+| 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | | KDD 2020 | https://www.kdd.org/kdd2020/accepted-papers/view/xgnn-towards-model-level-explanations-of-graph-neural-networks |
+| 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem | ICML 2021 | https://proceedings.mlr.press/v139/lin21d.html |
+| 6 | | When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods | | KDD 2021 | https://dl.acm.org/doi/abs/10.1145/3447548.3467283 |
 
 ## List for Graph Adversarial Attacks and Defenses
 | Number | method | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | | Adversarial Attacks on Neural Networks for Graph Data | https://github.com/danielzuegner/nettack |
-| 2 | | Certifiable Robustness and Robust Training for Graph Convolutional Networks | https://github.com/danielzuegner/robust-gcn |
-| 3 | | Adversarial Attacks on Graph Neural Networks via Meta Learning | |
-| 4 | | Adversarial Attacks on Node Embeddings via Graph Poisoning | https://github.com/abojchevski/node_embedding_attack |
-| 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard |
+| 1 | | Adversarial Attacks on Neural Networks for Graph Data | https://github.com/danielzuegner/nettack | | |
+| 2 | | Certifiable Robustness and Robust Training for Graph Convolutional Networks | https://github.com/danielzuegner/robust-gcn | | |
+| 3 | | Adversarial Attacks on Graph Neural Networks via Meta Learning | | | |
+| 4 | | Adversarial Attacks on Node Embeddings via Graph Poisoning | https://github.com/abojchevski/node_embedding_attack | | |
+| 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard | | |
 
 ## List for Others
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
