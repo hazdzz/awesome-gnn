@@ -48,7 +48,7 @@ A list for GNNs and related works.
 | 4 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | | | https://arxiv.org/abs/2007.11202 |
 | 5 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG | ICML 2021 | http://proceedings.mlr.press/v139/zheng21c.html |
 
-##### Graph Scattering Transforms
+#### Graph Scattering Transforms
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | | Diffusion Scattering Transforms on Graphs | | ICLR 2019 | https://openreview.net/forum?id=BygqBiRcFQ |
@@ -61,6 +61,7 @@ A list for GNNs and related works.
 Transforms | | | https://arxiv.org/abs/1911.06253 |
 | 7 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
 | 8 | GSAN | Geometric Scattering Attention Networks | https://github.com/dms-net/Attention-based-Scattering | ICASSP | https://ieeexplore.ieee.org/abstract/document/9414557/ |
+
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
