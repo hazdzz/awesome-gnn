@@ -48,6 +48,20 @@ A list for GNNs and related works.
 | 4 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | | | https://arxiv.org/abs/2007.11202 |
 | 5 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG | ICML 2021 | http://proceedings.mlr.press/v139/zheng21c.html |
 
+##### Graph Scattering Transforms
+| Number | GNN or method | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | | Diffusion Scattering Transforms on Graphs | | ICLR 2019 | https://openreview.net/forum?id=BygqBiRcFQ |
+| 2 | | Stability of Graph Scattering Transforms | https://github.com/alelab-upenn/graph-scattering-transforms | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/3ce3bd7d63a2c9c81983cc8e9bd02ae5-Abstract.html |
+| 3 | | Geometric Scattering for Graph Data Analysis | | ICML 2019 | http://proceedings.mlr.press/v97/gao19e.html |
+| 4 | | Graph convolutional neural networks via scattering | https://github.com/dmzou/SCAT | Applied and Computational Harmonic Analysis | https://www.sciencedirect.com/science/article/abs/pii/S1063520318300678 |
+| 5 | | Geometric Wavelet Scattering Networks on Compact Riemannian Manifolds | | ICML 2020 | https://proceedings.mlr.press/v107/perlmutter20a.html |
+| 5 | | Data-Driven Learning of Geometric Scattering Networks | | | https://arxiv.org/abs/2010.02415 |
+| 6 | | Understanding Graph Neural Networks with Asymmetric Geometric Scattering
+Transforms | | | https://arxiv.org/abs/1911.06253 |
+| 7 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
+| 8 | GSAN | Geometric Scattering Attention Networks | https://github.com/dms-net/Attention-based-Scattering | ICASSP | https://ieeexplore.ieee.org/abstract/document/9414557/ |
+
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
@@ -198,11 +212,6 @@ A list for GNNs and related works.
 | 7 | BBGDC | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC | ICML 2020 | https://proceedings.mlr.press/v119/hasanzadeh20a.html |
 | 8 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT | ICLR 2020 | https://openreview.net/forum?id=BJe8pkHFwS |
 | 9 | MVS-GNN | Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks | | KDD 2020 | https://dl.acm.org/doi/10.1145/3394486.3403192 |
-
-### Scattering
-| Number | Method or GNN | Paper | Code | Journal or Conference | URL |
-|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
 
 ## List for Over-squashing
 | Number | Method or GNN | Paper | Code | Journal or Conference | URL |
