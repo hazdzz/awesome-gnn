@@ -77,7 +77,9 @@ A list for GNNs and related works.
 | 10 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn | KDD 2019 | https://dl.acm.org/doi/abs/10.1145/3292500.3330925 |
 | 11 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
 | 12 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
-| 13 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | |
+| 13 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
+| 14 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
+| 15 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
