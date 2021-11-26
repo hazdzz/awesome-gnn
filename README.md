@@ -57,8 +57,7 @@ A list for GNNs and related works.
 | 4 | | Graph convolutional neural networks via scattering | https://github.com/dmzou/SCAT | Applied and Computational Harmonic Analysis | https://www.sciencedirect.com/science/article/abs/pii/S1063520318300678 |
 | 5 | | Geometric Wavelet Scattering Networks on Compact Riemannian Manifolds | | ICML 2020 | https://proceedings.mlr.press/v107/perlmutter20a.html |
 | 5 | | Data-Driven Learning of Geometric Scattering Networks | | | https://arxiv.org/abs/2010.02415 |
-| 6 | | Understanding Graph Neural Networks with Asymmetric Geometric Scattering
-Transforms | | | https://arxiv.org/abs/1911.06253 |
+| 6 | | Understanding Graph Neural Networks with Asymmetric Geometric Scattering Transforms | | | https://arxiv.org/abs/1911.06253 |
 | 7 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
 | 8 | GSAN | Geometric Scattering Attention Networks | https://github.com/dms-net/Attention-based-Scattering | ICASSP | https://ieeexplore.ieee.org/abstract/document/9414557/ |
 
