@@ -83,16 +83,17 @@ A list for GNNs and related works.
 | 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN | ICLR 2018 | https://openreview.net/forum?id=rytstxWAW |
 | 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | | ICML 2018 | http://proceedings.mlr.press/v80/xu18c.html |
 | 5 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns | ICLR 2019 | https://openreview.net/forum?id=ryGs6iA5Km |
-| 6 | Geom-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn | ICLR 2020 | https://openreview.net/forum?id=S1e2agrFvS |
-| 7 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403076 |
-| 8 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 | DLG-KDD20 | https://deep-learning-graphs.bitbucket.io/dlg-kdd20/accepted_papers/DLG-KDD20_paper_5.pdf |
-| 9 | k-GNN | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn | AAAI 2019 | https://ojs.aaai.org/index.php/AAAI/article/view/4384 |
-| 10 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn | KDD 2019 | https://dl.acm.org/doi/abs/10.1145/3292500.3330925 |
-| 11 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
-| 12 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
-| 13 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
-| 14 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
-| 15 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | https://openreview.net/forum?id=uxgg9o7bI_3 |
+| 6 | k-GNN | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn | AAAI 2019 | https://ojs.aaai.org/index.php/AAAI/article/view/4384 |
+| 7 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn | KDD 2019 | https://dl.acm.org/doi/abs/10.1145/3292500.3330925 |
+| 8 | Geom-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn | ICLR 2020 | https://openreview.net/forum?id=S1e2agrFvS |
+| 9 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403076 |
+| 10 | AFGNN | Demystifying Graph Neural Networks with Graph Filter Assessment | https://github.com/conferencesub/ICLR_2020 | DLG-KDD20 | https://deep-learning-graphs.bitbucket.io/dlg-kdd20/accepted_papers/DLG-KDD20_paper_5.pdf |
+| 11 | H<sub>2</sub>GCN | Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs | https://github.com/GemsLab/H2GCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/58ae23d878a47004366189884c2f8440-Abstract.html |
+| 12 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
+| 13 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
+| 14 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
+| 15 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
+| 16 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | https://openreview.net/forum?id=uxgg9o7bI_3 |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
