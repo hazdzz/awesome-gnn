@@ -92,7 +92,7 @@ A list for GNNs and related works.
 | 12 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
 | 13 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
 | 14 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
-| 15 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | |
+| 15 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | https://openreview.net/forum?id=uxgg9o7bI_3 |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
