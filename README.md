@@ -37,7 +37,7 @@ A list for GNNs and related works.
 | 26 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
 | 27 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
 | 28 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
-| 29 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | |
+| 29 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
