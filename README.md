@@ -36,6 +36,7 @@ A list for GNNs and related works.
 | 25 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
 | 26 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
 | 27 | AirGNN | Graph Neural Networks with Adaptive Residual | https://github.com/lxiaorui/AirGNN | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/50abc3e730e36b387ca8e02c26dc0a22-Abstract.html |
+| 28 | ADC | Adaptive Diffusion in Graph Neural Networks | https://github.com/abcbdf/ADC | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/c42af2fa7356818e0389593714f59b52-Abstract.html |
 | 28 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
 
 ##### Based on graph Wavelet transform
