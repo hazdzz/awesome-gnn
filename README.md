@@ -35,7 +35,8 @@ A list for GNNs and related works.
 | 24 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
 | 25 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
 | 26 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
-| 27 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
+| 27 | AirGNN | Graph Neural Networks with Adaptive Residual | https://github.com/lxiaorui/AirGNN | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/50abc3e730e36b387ca8e02c26dc0a22-Abstract.html |
+| 28 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
@@ -194,6 +195,7 @@ A list for GNNs and related works.
 | 5 | Revisiting Over-smoothing in Deep GCNs | | | https://arxiv.org/abs/2003.13663 |
 | 6 | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN | ICLR 2020 | https://openreview.net/forum?id=rkeIIkHKvS |
 | 7 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
+| 8 | Graph Neural Networks with Adaptive Residual | https://github.com/lxiaorui/AirGNN | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/50abc3e730e36b387ca8e02c26dc0a22-Abstract.html |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
