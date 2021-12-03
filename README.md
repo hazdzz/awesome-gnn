@@ -20,23 +20,22 @@ A list for GNNs and related works.
 | 9 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork | ICLR 2019 | https://openreview.net/forum?id=BkedznAqKQ |
 | 10 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp | ICLR 2019 | https://openreview.net/forum?id=H1gL-2A9Ym |
 | 11 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html |
-| 12 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN | AAAI 2019 | https://ojs.aaai.org//index.php/AAAI/article/view/4531 |
-| 13 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
-| 14 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters |  https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9336270 |
-| 15 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/f87522788a2be2d171666752f97ddebb-Abstract.html |
-| 16 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN | ICML 2020 | http://proceedings.mlr.press/v115/sun20a.html |
-| 17 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | | | https://arxiv.org/abs/1907.08990 |
-| 18 | SIGN | SIGN: Scalable Inception Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2004.11198 |
-| 19 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/cffb6e2288a630c2a787a64ccc67097c-Abstract.html |
-| 20 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | | | https://openreview.net/forum?id=yBJihVXahXc |
-| 21 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC | ICLR 2021 | https://openreview.net/forum?id=CYO5T-YjWZV |
-| 22 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN | ICLR 2021 | https://openreview.net/forum?id=n6jl7fLxrP |
-| 23 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP | ICLR 2021 | https://openreview.net/forum?id=tiqI7w64JG2 |
-| 24 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet | NeurIPS 2021 | https://openreview.net/forum?id=TRDAFiwDq8A |
-| 25 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
-| 26 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
-| 27 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
-| 28 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
+| 12 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
+| 13 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters |  https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9336270 |
+| 14 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/f87522788a2be2d171666752f97ddebb-Abstract.html |
+| 15 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN | ICML 2020 | http://proceedings.mlr.press/v115/sun20a.html |
+| 16 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | | | https://arxiv.org/abs/1907.08990 |
+| 17 | SIGN | SIGN: Scalable Inception Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2004.11198 |
+| 18 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/cffb6e2288a630c2a787a64ccc67097c-Abstract.html |
+| 19 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | | | https://openreview.net/forum?id=yBJihVXahXc |
+| 20 | S<sup>2</sup>GC | Simple Spectral Graph Convolution | https://github.com/allenhaozhu/SSGC | ICLR 2021 | https://openreview.net/forum?id=CYO5T-YjWZV |
+| 21 | GPR-GNN | Adaptive Universal Generalized PageRank Graph Neural Network | https://github.com/jianhao2016/GPRGNN | ICLR 2021 | https://openreview.net/forum?id=n6jl7fLxrP |
+| 22 | GA-MLP | On Graph Neural Networks versus Graph-Augmented MLPs | https://github.com/leichen2018/GNN_vs_GAMLP | ICLR 2021 | https://openreview.net/forum?id=tiqI7w64JG2 |
+| 23 | MagNet | MagNet: A Neural Network for Directed Graphs | https://github.com/matthew-hirn/magnet | NeurIPS 2021 | https://openreview.net/forum?id=TRDAFiwDq8A |
+| 24 | BernNet | BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation | https://github.com/ivam-he/BernNet | NeurIPS 2021 | https://openreview.net/forum?id=WigDnV-_Gq |
+| 25 | EdgeNet | EdgeNets: Edge Varying Graph Neural Networks | | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9536420 |
+| 26 | AdaGNN | AdaGNN: Graph Neural Networks with Adaptive Frequency Response | https://github.com/yushundong/AdaGNN | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482226 |
+| 27 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
@@ -60,6 +59,11 @@ A list for GNNs and related works.
 | 7 | Scattering GCN | Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks | https://github.com/dms-net/scatteringGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html |
 | 8 | GSAN | Geometric Scattering Attention Networks | https://github.com/dms-net/Attention-based-Scattering | ICASSP | https://ieeexplore.ieee.org/abstract/document/9414557/ |
 
+#### Bayesian GNN
+| Number | GNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN | AAAI 2019 | https://ojs.aaai.org//index.php/AAAI/article/view/4531 |
+| 2 | GPN | Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification | https://github.com/stadlmax/Graph-Posterior-Network | NeurIPS 2021 | https://papers.nips.cc/paper/2021/hash/95b431e51fc53692913da5263c214162-Abstract.html |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
