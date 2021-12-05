@@ -288,6 +288,7 @@ A list for GNNs and related works.
 | 4 | | Adversarial Attacks on Node Embeddings via Graph Poisoning | https://github.com/abojchevski/node_embedding_attack | ICML 2019 | https://proceedings.mlr.press/v97/bojchevski19a.html |
 | 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html |
 | 6 | | Detection and Defense of Topological Adversarial Attacks on Graphs | | ICML 2021 | https://proceedings.mlr.press/v130/zhang21i.html |
+| 7 | GCN-LFR | Not All Low-Pass Filters are Robust in Graph Convolutional Networks | | NeurIPS 2021 | https://openreview.net/forum?id=bDdfxLQITtu |
 
 ## List for Others
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
