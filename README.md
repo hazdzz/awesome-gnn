@@ -190,10 +190,10 @@ A list for GNNs and related works.
 ### Analyses
 | Number | Paper | Code | Journal or Conference | URL |
 |:------:|--------------------------|-------|:-------:|----------------------------------------|
-| 1 | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | | AAAI 2018 | https://ojs.aaai.org/index.php/AAAI/article/view/11604 |
-| 2 | DeepGCNs: Can GCNs Go as Deep as CNNs? | | ICCV 2019 | https://openaccess.thecvf.com/content_ICCV_2019/html/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.html |
+| 1 | Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | https://github.com/liqimai/gcn | AAAI 2018 | https://ojs.aaai.org/index.php/AAAI/article/view/11604 |
+| 2 | DeepGCNs: Can GCNs Go as Deep as CNNs? | https://github.com/lightaime/deep_gcns | ICCV 2019 | https://openaccess.thecvf.com/content_ICCV_2019/html/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.html |
 | 3 | Graph Neural Networks Exponentially Lose Expressive Power for Node Classification | https://github.com/delta2323/gnn-asymptotics | ICLR 2020 | https://openreview.net/forum?id=S1ldO2EFPr |
-| 4 | A Note on Over-Smoothing for Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2006.13318 |
+| 4 | A Note on Over-Smoothing for Graph Neural Networks | https://github.com/Chen-Cai-OSU/GNN-Over-Smoothing | ICML 2020 Workshop | https://arxiv.org/abs/2006.13318 |
 | 5 | Revisiting Over-smoothing in Deep GCNs | | | https://arxiv.org/abs/2003.13663 |
 | 6 | Measuring and Improving the Use of Graph Information in Graph Neural Networks | https://github.com/yifan-h/CS-GNN | ICLR 2020 | https://openreview.net/forum?id=rkeIIkHKvS |
 | 7 | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
