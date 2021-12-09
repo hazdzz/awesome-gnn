@@ -115,8 +115,9 @@ A list for GNNs and related works.
 | 9 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat | | https://arxiv.org/abs/1904.05811 |
 | 10 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | | NeurIPS 2019 Workshop | https://grlearning.github.io/papers/43.pdf |
 | 11 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN | AAAI 2021 | https://ojs.aaai.org/index.php/AAAI/article/view/16514 |
-| 12 | DPGAT and GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | | |
-| 13 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | | |
+| 12 | CAT-I and CAT-E | Learning Conjoint Attentions for Graph Neural Nets | | ICLR 2021 | https://openreview.net/forum?id=SMU_hbhhEQ |
+| 13 | DPGAT and GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | | |
+| 14 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | | |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
