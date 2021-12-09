@@ -171,6 +171,7 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | GCAPS-CNN | Graph Capsule Convolutional Neural Networks | https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/ | | https://arxiv.org/abs/1805.08090 |
 | 2 | CapsGNN | Capsule Graph Neural Network | https://github.com/benedekrozemberczki/CapsGNN | ICLR 2019 | https://openreview.net/forum?id=Byl8BnRcYm |
+| 3 | NCGNN | NCGNN: Node-level Capsule Graph Neural Network | | | https://arxiv.org/abs/2012.03476 |
 
 #### Graph Neural ODE or PDE
 | Number | GNODE or GNPDE or method | Paper | Code | Journal or Conference | URL |
