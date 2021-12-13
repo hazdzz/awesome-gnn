@@ -335,3 +335,4 @@ A list for GNNs and related works.
 | 1 | Graph Neural Networks: A Review of Methods and Applications | AI Open | https://www.sciencedirect.com/science/article/pii/S2666651021000012 |
 | 2 | A Comprehensive Survey on Graph Neural Networks | IEEE Transactions on Neural Networks and Learning Systems | https://ieeexplore.ieee.org/abstract/document/9046288 |
 | 3 | Deep Learning on Graphs: A Survey | IEEE Transactions on Knowledge and Data Engineering | https://ieeexplore.ieee.org/abstract/document/9039675 |
+| 4 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | https://arxiv.org/abs/2107.10234 |
