@@ -88,7 +88,7 @@ A list for GNNs and related works.
 | 1 | DCNN | Diffusion-Convolutional Neural Networks | https://github.com/RicardoZiTseng/dcnn-tensorflow | NeurIPS 2016 | https://proceedings.neurips.cc/paper/2016/hash/390e982518a50e280d8e2b535462ec1f-Abstract.html |
 | 2 | GraphSAGE | Inductive Representation Learning on Large Graphs | https://github.com/williamleif/GraphSAGE | NeurIPS 2017 | https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html |
 | 3 | FastGCN | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | https://github.com/matenure/FastGCN | ICLR 2018 | https://openreview.net/forum?id=rytstxWAW |
-| 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | | ICML 2018 | http://proceedings.mlr.press/v80/xu18c.html |
+| 4 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | https://github.com/shinkyuy/representation_learning_on_graphs_with_jumping_knowledge_networks | ICML 2018 | http://proceedings.mlr.press/v80/xu18c.html |
 | 5 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns | ICLR 2019 | https://openreview.net/forum?id=ryGs6iA5Km |
 | 6 | k-GNN | Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks | https://github.com/chrsmrrs/k-gnn | AAAI 2019 | https://ojs.aaai.org/index.php/AAAI/article/view/4384 |
 | 7 | Cluster-GCN | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | https://github.com/google-research/google-research/tree/master/cluster_gcn | KDD 2019 | https://dl.acm.org/doi/abs/10.1145/3292500.3330925 |
