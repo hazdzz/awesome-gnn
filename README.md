@@ -101,6 +101,7 @@ A list for GNNs and related works.
 | 14 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
 | 15 | VQ-GNN | VQ-GNN: A Universal Framework to Scale-up Graph Neural Networks using Vector Quantization | https://github.com/devnkong/VQ-GNN | NeurIPS 2021 | https://openreview.net/forum?id=EO-CQzgcIxd |
 | 16 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | | https://openreview.net/forum?id=uxgg9o7bI_3 |
+| 17 | DS-GNN | Equivariant Subgraph Aggregation Networks | | | https://arxiv.org/abs/2110.02910 |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
