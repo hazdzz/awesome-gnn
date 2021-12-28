@@ -144,9 +144,10 @@ A list for GNNs and related works.
 | Number | MPNN | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | MPNN | Neural Message Passing for Quantum Chemistry | https://github.com/brain-research/mpnn | ICML 2017 | https://proceedings.mlr.press/v70/gilmer17a.html |
-| 2 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html |
-| 3 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/99cad265a1768cc2dd013f0e740300ae-Abstract.html |
-| 4 | EGC-S and EGC-M | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | https://github.com/shyam196/egc | | https://arxiv.org/abs/2104.01481 |
+| 2 | GEN | DeeperGCN: All You Need to Train Deeper GCNs | https://github.com/lightaime/deep_gcns_torch | | https://arxiv.org/abs/2006.07739 |
+| 3 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html |
+| 4 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/99cad265a1768cc2dd013f0e740300ae-Abstract.html |
+| 5 | EGC-S and EGC-M | Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | https://github.com/shyam196/egc | | https://arxiv.org/abs/2104.01481 |
 
 #### Heterogeneous Graph Neural Networks
 | Number | HGNN | Paper | Code | Journal or Conference | URL |
