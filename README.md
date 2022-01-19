@@ -19,7 +19,7 @@ A list for GNNs and related works.
 | 8 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | | 2018 IEEE Data Science Workshop | https://ieeexplore.ieee.org/abstract/document/8439897 |
 | 9 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork | ICLR 2019 | https://openreview.net/forum?id=BkedznAqKQ |
 | 10 | PPNP & APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank | https://github.com/klicperajo/ppnp | ICLR 2019 | https://openreview.net/forum?id=H1gL-2A9Ym |
-| 11 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html |
+| 11 | GDC | Diffusion Improves Graph Learning | https://github.com/klicperajo/gdc | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html |
 | 12 | GCNII | Simple and Deep Graph Convolutional Networks | https://github.com/chennnM/GCNII | ICML 2020 | https://proceedings.mlr.press/v119/chen20v.html |
 | 13 | ARMA GNN | Graph Neural Networks with convolutional ARMA filters |  https://github.com/danielegrattarola/spektral/blob/master/spektral/layers/convolutional/arma_conv.py#L10 | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/abstract/document/9336270 |
 | 14 | DFNet | DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters | https://github.com/wokas36/DFNets | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/f87522788a2be2d171666752f97ddebb-Abstract.html |
