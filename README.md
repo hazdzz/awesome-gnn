@@ -71,11 +71,6 @@ A list for GNNs and related works.
 | 1 | Bayesian GCN | Bayesian graph convolutional neural networks for semi-supervised classification | https://github.com/huawei-noah/BGCN | AAAI 2019 | https://ojs.aaai.org//index.php/AAAI/article/view/4531 |
 | 2 | GPN | Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification | https://github.com/stadlmax/Graph-Posterior-Network | NeurIPS 2021 | https://papers.nips.cc/paper/2021/hash/95b431e51fc53692913da5263c214162-Abstract.html |
 
-#### Attentional GNNs
-| Number | GNN | Paper | Code | Journal or Conference | URL |
-|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | SpGAT | Spectral Graph Attention Network with Fast Eigen-approximation | https://github.com/SwiftieH/SpGAT | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482187 |
-
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
@@ -342,4 +337,5 @@ A list for GNNs and related works.
 | 1 | Graph Neural Networks: A Review of Methods and Applications | AI Open | https://www.sciencedirect.com/science/article/pii/S2666651021000012 |
 | 2 | A Comprehensive Survey on Graph Neural Networks | IEEE Transactions on Neural Networks and Learning Systems | https://ieeexplore.ieee.org/abstract/document/9046288 |
 | 3 | Deep Learning on Graphs: A Survey | IEEE Transactions on Knowledge and Data Engineering | https://ieeexplore.ieee.org/abstract/document/9039675 |
-| 4 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | | https://arxiv.org/abs/2107.10234 |
+| 4 | Explainability in Graph Neural Networks: A Taxonomic Survey | | https://arxiv.org/abs/2012.15445 |
+| 5 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | | https://arxiv.org/abs/2107.10234 |
