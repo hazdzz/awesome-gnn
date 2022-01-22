@@ -26,7 +26,7 @@ A list for GNNs and related works.
 | 15 | Linear Snowball, Snowball, and Truncated Krylov | Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks | https://github.com/PwnerHarry/Stronger_GCN | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/ccdf3864e2fa9089f9eca4fc7a48ea0a-Abstract.html |
 | 16 | GBP | Scalable Graph Neural Networks via Bidirectional Propagation | https://github.com/chennnM/GBP | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a7789ef88d599b8df86bbee632b2994d-Abstract.html |
 | 17 | FisherGCN | Fisher-Bures Adversary Graph Convolutional Networks | https://github.com/D61-IA/FisherGCN | ICML 2020 | http://proceedings.mlr.press/v115/sun20a.html |
-| 18 | DGCN | Spectral-based Graph Convolutional Network for Directed Graphs | | | https://arxiv.org/abs/1907.08990 |
+| 18 | DGCN | Directed Graph Convolutional Network | | | https://arxiv.org/abs/2004.13970 |
 | 19 | SIGN | SIGN: Scalable Inception Graph Neural Networks | | ICML 2020 Workshop | https://arxiv.org/abs/2004.11198 |
 | 20 | DiGCN | Digraph Inception Convolutional Networks | https://github.com/flyingtango/DiGCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/cffb6e2288a630c2a787a64ccc67097c-Abstract.html |
 | 21 | HKGCN | Generalizing Graph Convolutional Networks via Heat Kernel | | | https://openreview.net/forum?id=yBJihVXahXc |
