@@ -332,6 +332,7 @@ A list for GNNs and related works.
 | 28 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html |
 | 29 | | Approximation Ratios of Graph Neural Networks for Combinatorial Problems | | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/635440afdfc39fe37995fed127d7df4f-Abstract.html |
 | 30 | | Can Graph Neural Networks Count Substructures? | https://github.com/leichen2018/GNN-Substructure-Counting | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/75877cb75154206c4e65e76b88a12712-Abstract.html |
+| 31 | GNN-FiLM | GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation | https://github.com/microsoft/tf-gnn-samples | ICML 2020 | https://proceedings.mlr.press/v119/brockschmidt20a.html |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
