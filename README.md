@@ -333,6 +333,8 @@ A list for GNNs and related works.
 | 29 | | Approximation Ratios of Graph Neural Networks for Combinatorial Problems | | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/635440afdfc39fe37995fed127d7df4f-Abstract.html |
 | 30 | | Can Graph Neural Networks Count Substructures? | https://github.com/leichen2018/GNN-Substructure-Counting | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/75877cb75154206c4e65e76b88a12712-Abstract.html |
 | 31 | GNN-FiLM | GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation | https://github.com/microsoft/tf-gnn-samples | ICML 2020 | https://proceedings.mlr.press/v119/brockschmidt20a.html |
+| 32 | | Graph Attention Retrospective | | | https://arxiv.org/abs/2202.13060 |
+| 33 | | GraphWorld: Fake Graphs Bring Real Insights for GNNs | | | https://arxiv.org/abs/2203.00112 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
