@@ -324,17 +324,18 @@ A list for GNNs and related works.
 | 20 | GCN-LPA | Unifying Graph Convolutional Neural Networks and Label Propagation | https://github.com/hwwang55/GCN-LPA | | Unifying Graph Convolutional Neural Networks and Label Propagation |
 | 21 | L-GCN and L<sup>2</sup>-GCN | L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks | https://github.com/VITA-Group/L2-GCN | CVPR 2020 | https://openaccess.thecvf.com/content_CVPR_2020/html/You_L2-GCN_Layer-Wise_and_Learned_Efficient_Training_of_Graph_Convolutional_Networks_CVPR_2020_paper.html |
 | 22 | | A Fair Comparison of Graph Neural Networks for Graph Classification | https://github.com/diningphil/gnn-comparison | ICLR 2020 | https://openreview.net/forum?id=HygDF6NFPB |
-| 23 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/ebc2aa04e75e3caabda543a1317160c0-Abstract.html |
-| 24 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat | ICML 2021 | https://proceedings.mlr.press/v139/lukovnikov21a.html |
-| 25 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | | ICML 2021 | https://proceedings.mlr.press/v139/xu21k.html |
-| 26 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE | IJCAI 2021 | https://www.ijcai.org/proceedings/2021/381 |
-| 27 | | A Flexible Generative Framework for Graph-based Semi-supervised Learning | https://github.com/jiaqima/G3NN | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/e0ab531ec312161511493b002f9be2ee-Abstract.html |
-| 28 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html |
-| 29 | | Approximation Ratios of Graph Neural Networks for Combinatorial Problems | | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/635440afdfc39fe37995fed127d7df4f-Abstract.html |
-| 30 | | Can Graph Neural Networks Count Substructures? | https://github.com/leichen2018/GNN-Substructure-Counting | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/75877cb75154206c4e65e76b88a12712-Abstract.html |
-| 31 | GNN-FiLM | GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation | https://github.com/microsoft/tf-gnn-samples | ICML 2020 | https://proceedings.mlr.press/v119/brockschmidt20a.html |
-| 32 | | Graph Attention Retrospective | | | https://arxiv.org/abs/2202.13060 |
-| 33 | | GraphWorld: Fake Graphs Bring Real Insights for GNNs | | | https://arxiv.org/abs/2203.00112 |
+| 23 | CurvGN | Curvature Graph Network | | ICLR 2020 | https://openreview.net/forum?id=BylEqnVFDB |
+| 24 | GIB | Graph Information Bottleneck | https://github.com/snap-stanford/GIB | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/ebc2aa04e75e3caabda543a1317160c0-Abstract.html |
+| 25 | ResRGAT | Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies | https://github.com/lukovnikov/resrgat | ICML 2021 | https://proceedings.mlr.press/v139/lukovnikov21a.html |
+| 26 | | Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth | | ICML 2021 | https://proceedings.mlr.press/v139/xu21k.html |
+| 27 | MinGE | Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks | https://github.com/RingBDStack/MinGE | IJCAI 2021 | https://www.ijcai.org/proceedings/2021/381 |
+| 28 | | A Flexible Generative Framework for Graph-based Semi-supervised Learning | https://github.com/jiaqima/G3NN | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/e0ab531ec312161511493b002f9be2ee-Abstract.html |
+| 29 | GRAND | Graph Random Neural Networks for Semi-Supervised Learning on Graphs | https://github.com/THUDM/GRAND | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html |
+| 30 | | Approximation Ratios of Graph Neural Networks for Combinatorial Problems | | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/635440afdfc39fe37995fed127d7df4f-Abstract.html |
+| 31 | | Can Graph Neural Networks Count Substructures? | https://github.com/leichen2018/GNN-Substructure-Counting | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/75877cb75154206c4e65e76b88a12712-Abstract.html |
+| 32 | GNN-FiLM | GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation | https://github.com/microsoft/tf-gnn-samples | ICML 2020 | https://proceedings.mlr.press/v119/brockschmidt20a.html |
+| 33 | | Graph Attention Retrospective | | | https://arxiv.org/abs/2202.13060 |
+| 34 | | GraphWorld: Fake Graphs Bring Real Insights for GNNs | | | https://arxiv.org/abs/2203.00112 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
