@@ -98,9 +98,10 @@ A list for GNNs and related works.
 | 13 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
 | 14 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
 | 15 | VQ-GNN | VQ-GNN: A Universal Framework to Scale-up Graph Neural Networks using Vector Quantization | https://github.com/devnkong/VQ-GNN | NeurIPS 2021 | https://openreview.net/forum?id=EO-CQzgcIxd |
-| 16 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | ICLR 2022 | https://openreview.net/forum?id=uxgg9o7bI_3 |
-| 17 | DS-GNN | Equivariant Subgraph Aggregation Networks | | ICLR 2022 | https://openreview.net/forum?id=dFbKQaRk15w |
-| 18 | PEG | Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks  | https://github.com/graph-com/peg | ICLR 2022 | https://openreview.net/forum?id=e95i1IHcWj |
+| 16 | NDLS | Node Dependent Local Smoothing for Scalable Graph Learning | https://github.com/zwt233/ndls | NeurIPS 2021 | https://openreview.net/forum?id=ekKaTdleJVq |
+| 17 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | ICLR 2022 | https://openreview.net/forum?id=uxgg9o7bI_3 |
+| 18 | DS-GNN | Equivariant Subgraph Aggregation Networks | | ICLR 2022 | https://openreview.net/forum?id=dFbKQaRk15w |
+| 19 | PEG | Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks  | https://github.com/graph-com/peg | ICLR 2022 | https://openreview.net/forum?id=e95i1IHcWj |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
