@@ -339,6 +339,7 @@ A list for GNNs and related works.
 | 32 | GNN-FiLM | GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation | https://github.com/microsoft/tf-gnn-samples | ICML 2020 | https://proceedings.mlr.press/v119/brockschmidt20a.html |
 | 33 | | Graph Attention Retrospective | | | https://arxiv.org/abs/2202.13060 |
 | 34 | | GraphWorld: Fake Graphs Bring Real Insights for GNNs | | | https://arxiv.org/abs/2203.00112 |
+| 35 | GRAND+ | GRAND+: Scalable Graph Random Neural Networks | https://github.com/THUDM/GRAND-plus | | https://arxiv.org/abs/2203.06389 |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
