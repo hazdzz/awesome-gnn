@@ -120,7 +120,6 @@ A list for GNNs and related works.
 | 12 | CAT-I and CAT-E | Learning Conjoint Attentions for Graph Neural Nets | | ICLR 2021 | https://openreview.net/forum?id=SMU_hbhhEQ |
 | 13 | SuperGAT | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision | https://github.com/dongkwan-kim/SuperGAT | ICLR 2021 | https://openreview.net/forum?id=Wi5KUNlqWty |
 | 14 | DPGAT and GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | ICLR 2022 | https://openreview.net/forum?id=F72ximsx7C1 |
-| 15 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | | |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
@@ -340,6 +339,9 @@ A list for GNNs and related works.
 | 33 | | Graph Attention Retrospective | | | https://arxiv.org/abs/2202.13060 |
 | 34 | | GraphWorld: Fake Graphs Bring Real Insights for GNNs | | | https://arxiv.org/abs/2203.00112 |
 | 35 | GRAND+ | GRAND+: Scalable Graph Random Neural Networks | https://github.com/THUDM/GRAND-plus | | https://arxiv.org/abs/2203.06389 |
+| 36 | SAGN | Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced training | https://github.com/skepsun/SAGN_with_SLE | | https://arxiv.org/abs/2104.09376 |
+| 37 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | | |
+
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
