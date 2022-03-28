@@ -246,7 +246,7 @@ A list for GNNs and related works.
 | 4 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
 | 5 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
 | 6 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
-| 7 | FeTA-GAT | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
+| 7 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
 
 ## List for Graph MLP
 | Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
