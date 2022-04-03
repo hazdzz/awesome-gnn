@@ -240,18 +240,19 @@ A list for GNNs and related works.
 ## List for Graph Transformers
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/9d63484abb477c97640154d40595a3bb-Abstract.html |
-| 2 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380027 |
-| 3 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer | AAAI 2021 Workshop | https://arxiv.org/abs/2012.09699 |
-| 4 | SAN | Rethinking Graph Transformers with Spectral Attention | https://github.com/DevinKreuzer/SAN | NeurIPS 2021 | https://openreview.net/forum?id=huAdB-Tj4yG |
-| 5 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
-| 6 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
-| 7 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | | https://arxiv.org/pdf/2110.10674.pdf |
-| 8 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
-| 9 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
-| 10 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
-| 11 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
-| 12 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
+| 1 | Graph-Bert | Graph-Bert: Only Attention is Needed for Learning Graph Representations | https://github.com/jwzhanggy/Graph-Bert | | https://arxiv.org/abs/2001.05140 |
+| 2 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/9d63484abb477c97640154d40595a3bb-Abstract.html |
+| 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380027 |
+| 4 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer | AAAI 2021 Workshop | https://arxiv.org/abs/2012.09699 |
+| 5 | SAN | Rethinking Graph Transformers with Spectral Attention | https://github.com/DevinKreuzer/SAN | NeurIPS 2021 | https://openreview.net/forum?id=huAdB-Tj4yG |
+| 6 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
+| 7 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
+| 8 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | | https://arxiv.org/pdf/2110.10674.pdf |
+| 9 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
+| 10 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
+| 11 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
+| 12 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
+| 13 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
 
 ## List for Graph MLP
 | Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
