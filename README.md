@@ -246,18 +246,20 @@ A list for GNNs and related works.
 | 4 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer | AAAI 2021 Workshop | https://arxiv.org/abs/2012.09699 |
 | 5 | SAN | Rethinking Graph Transformers with Spectral Attention | https://github.com/DevinKreuzer/SAN | NeurIPS 2021 | https://openreview.net/forum?id=huAdB-Tj4yG |
 | 6 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
-| 7 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
-| 8 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | | https://arxiv.org/pdf/2110.10674.pdf |
-| 9 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
-| 10 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
-| 11 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
-| 12 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
-| 13 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
+| 7 | Graphormer | Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets | https://github.com/Microsoft/Graphormer | | https://arxiv.org/abs/2203.04810 |
+| 8 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
+| 9 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | | https://arxiv.org/pdf/2110.10674.pdf |
+| 10 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
+| 11 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
+| 12 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
+| 13 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
+| 14 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
 
 ## List for Graph MLP
 | Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP | | https://arxiv.org/abs/2106.04051 |
+| 2 | N2N | Node Representation Learning in Graph via Node-to-Neighbourhood Mutual Information Maximization | https://github.com/dongwei156/n2n | | https://arxiv.org/abs/2203.12265 |
 
 ## List for Graph Autoencoders (GAE)
 | Number | GAE | Paper | Code | Journal or Conference | URL |
@@ -297,6 +299,7 @@ A list for GNNs and related works.
 | 4 | XGNN | XGNN: Towards Model-Level Explanations of Graph Neural Networks | | KDD 2020 | https://www.kdd.org/kdd2020/accepted-papers/view/xgnn-towards-model-level-explanations-of-graph-neural-networks |
 | 5 | Gem | Generative Causal Explanations for Graph Neural Networks | https://github.com/wanyu-lin/ICML2021-Gem | ICML 2021 | https://proceedings.mlr.press/v139/lin21d.html |
 | 6 | | When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods | | KDD 2021 | https://dl.acm.org/doi/abs/10.1145/3447548.3467283 |
+| 7 | MotifExplainer | MotifExplainer: a Motif-based Graph Neural Network Explainer | | | https://arxiv.org/abs/2202.00519 |
 
 ## List for Graph Adversarial Attacks and Defenses
 | Number | method | Paper | Code | Journal or Conference | URL |
