@@ -148,7 +148,8 @@ A list for GNNs and related works.
 | 2 | GEN | DeeperGCN: All You Need to Train Deeper GCNs | https://github.com/lightaime/deep_gcns_torch | | https://arxiv.org/abs/2006.07739 |
 | 3 | SMP | Building powerful and equivariant graph neural networks with structural message-passing | https://github.com/cvignac/SMP | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html |
 | 4 | PNA | Principal Neighbourhood Aggregation for Graph Nets | https://github.com/lukecavabarrett/pna | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/99cad265a1768cc2dd013f0e740300ae-Abstract.html |
-| 5 | EGC | Do We Need Anistropic Graph Neural Networks? | https://github.com/shyam196/egc | ICLR 2022 | https://openreview.net/forum?id=hl9ePdHO4_s |
+| 5 | GNNML | Breaking the Limits of Message Passing Graph Neural Networks | https://github.com/balcilar/gnn-matlang | ICML 2021 | https://proceedings.mlr.press/v139/balcilar21a.html |
+| 6 | EGC | Do We Need Anistropic Graph Neural Networks? | https://github.com/shyam196/egc | ICLR 2022 | https://openreview.net/forum?id=hl9ePdHO4_s |
 
 #### Heterogeneous Graph Neural Networks
 | Number | HGNN | Paper | Code | Journal or Conference | URL |
