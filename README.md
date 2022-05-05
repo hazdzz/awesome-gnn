@@ -356,6 +356,7 @@ A list for GNNs and related works.
 | 36 | GRAND+ | GRAND+: Scalable Graph Random Neural Networks | https://github.com/THUDM/GRAND-plus | | https://arxiv.org/abs/2203.06389 |
 | 37 | SAGN | Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced training | https://github.com/skepsun/SAGN_with_SLE | | https://arxiv.org/abs/2104.09376 |
 | 38 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | | |
+| 39 | | Expressiveness and Approximation Properties of Graph Neural Networks | | ICLR 2022 | https://openreview.net/forum?id=wIzUeM3TAU |
 
 
 ## List for Surveys
