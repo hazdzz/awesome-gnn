@@ -43,6 +43,7 @@ A list for GNNs and related works.
 | 32 | U-GCN | Universal Graph Convolutional Networks | https://github.com/jindi-tju/U-GCN | NeurIPS 2021 | https://papers.nips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html |
 | 33 | BM-GCN | Block Modeling-Guided Graph Convolutional Neural Networks | https://github.com/hedongxiao-tju/BM-GCN | AAAI 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/4531 |
 | 34 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
+| 35 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | | https://arxiv.org/abs/2202.03580 |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
