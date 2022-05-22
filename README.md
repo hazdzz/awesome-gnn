@@ -11,7 +11,7 @@ A list for GNNs and related works.
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | Spectral CNN | Spectral Networks and Locally Connected Networks on Graphs | | ICLR 2014 | https://openreview.net/forum?id=DQNsQf-UsoDBa |
 | 2 | | Deep Convolutional Networks on Graph-Structured Data | | | https://arxiv.org/abs/1506.05163 |
-| 3 | ChebyNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph | NeurIPS 2016 | https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html |
+| 3 | ChebNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph | NeurIPS 2016 | https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html |
 | 4 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/gcn | ICLR 2017 | https://openreview.net/forum?id=SJU4ayYgl |
 | 5 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC | ICML 2019 | http://proceedings.mlr.press/v97/wu19e.html |
 | 6 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn | | https://arxiv.org/abs/1905.09550 |
