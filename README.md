@@ -42,7 +42,7 @@ A list for GNNs and related works.
 | 31 | ADC | Adaptive Diffusion in Graph Neural Networks | https://github.com/abcbdf/ADC | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/c42af2fa7356818e0389593714f59b52-Abstract.html |
 | 32 | U-GCN | Universal Graph Convolutional Networks | https://github.com/jindi-tju/U-GCN | NeurIPS 2021 | https://papers.nips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html |
 | 33 | BM-GCN | Block Modeling-Guided Graph Convolutional Neural Networks | https://github.com/hedongxiao-tju/BM-GCN | AAAI 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/4531 |
-| 34 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | | https://openreview.net/forum?id=i8d2kdxii1L |
+| 34 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | | ICML 2022 | |
 | 35 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | | https://arxiv.org/abs/2202.03580 |
 
 ##### Based on graph Wavelet transform
