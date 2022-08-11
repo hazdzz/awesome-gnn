@@ -44,7 +44,8 @@ A list for GNNs and related works.
 | 33 | BM-GCN | Block Modeling-Guided Graph Convolutional Neural Networks | https://github.com/hedongxiao-tju/BM-GCN | AAAI 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/20319 |
 | 34 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | https://github.com/guoji-fu/pgnns | ICML 2022 | https://proceedings.mlr.press/v162/fu22e.html |
 | 35 | Spec-GN and Norm-GN | A New Perspective on the Effects of Spectrum in Graph Neural Networks | https://github.com/qslim/gnn-spectrum | ICML 2022 | https://proceedings.mlr.press/v162/yang22n.html | 
-| 36 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | | https://arxiv.org/abs/2202.03580 |
+| 36 | JacobiConv | How Powerful are Spectral Graph Neural Networks | https://github.com/GraphPKU/JacobiConv | ICML 2022 | https://proceedings.mlr.press/v162/wang22am.html |
+| 37 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | | https://arxiv.org/abs/2202.03580 |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
