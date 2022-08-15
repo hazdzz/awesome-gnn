@@ -42,7 +42,7 @@ A list for GNNs and related works.
 | 31 | ADC | Adaptive Diffusion in Graph Neural Networks | https://github.com/abcbdf/ADC | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/c42af2fa7356818e0389593714f59b52-Abstract.html |
 | 32 | U-GCN | Universal Graph Convolutional Networks | https://github.com/jindi-tju/U-GCN | NeurIPS 2021 | https://papers.nips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html |
 | 33 | BM-GCN | Block Modeling-Guided Graph Convolutional Neural Networks | https://github.com/hedongxiao-tju/BM-GCN | AAAI 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/20319 |
-| 34 | Ortho-GConv | Orthogonal Graph Neural Networks | | AAAI 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/20316 |
+| 34 | Ortho-GConv | Orthogonal Graph Neural Networks | https://github.com/KaiGuo20/Ortho-GConv | AAAI 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/20316 |
 | 35 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | https://github.com/guoji-fu/pgnns | ICML 2022 | https://proceedings.mlr.press/v162/fu22e.html |
 | 36 | Spec-GN and Norm-GN | A New Perspective on the Effects of Spectrum in Graph Neural Networks | https://github.com/qslim/gnn-spectrum | ICML 2022 | https://proceedings.mlr.press/v162/yang22n.html | 
 | 37 | JacobiConv | How Powerful are Spectral Graph Neural Networks | https://github.com/GraphPKU/JacobiConv | ICML 2022 | https://proceedings.mlr.press/v162/wang22am.html |
