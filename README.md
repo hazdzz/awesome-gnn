@@ -47,6 +47,7 @@ A list for GNNs and related works.
 | 36 | Spec-GN and Norm-GN | A New Perspective on the Effects of Spectrum in Graph Neural Networks | https://github.com/qslim/gnn-spectrum | ICML 2022 | https://proceedings.mlr.press/v162/yang22n.html | 
 | 37 | JacobiConv | How Powerful are Spectral Graph Neural Networks | https://github.com/GraphPKU/JacobiConv | ICML 2022 | https://proceedings.mlr.press/v162/wang22am.html |
 | 38 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | NeurIPS 2022 | https://arxiv.org/abs/2202.03580 |
+| 38 | EvenNet | EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks | | NeurIPS 2022 | https://arxiv.org/abs/2205.13892 |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
