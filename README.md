@@ -46,8 +46,11 @@ A list for GNNs and related works.
 | 35 | <sup>p</sup>GNN | p-Laplacian Based Graph Neural Networks | https://github.com/guoji-fu/pgnns | ICML 2022 | https://proceedings.mlr.press/v162/fu22e.html |
 | 36 | Spec-GN and Norm-GN | A New Perspective on the Effects of Spectrum in Graph Neural Networks | https://github.com/qslim/gnn-spectrum | ICML 2022 | https://proceedings.mlr.press/v162/yang22n.html | 
 | 37 | JacobiConv | How Powerful are Spectral Graph Neural Networks | https://github.com/GraphPKU/JacobiConv | ICML 2022 | https://proceedings.mlr.press/v162/wang22am.html |
-| 38 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | NeurIPS 2022 | https://arxiv.org/abs/2202.03580 |
-| 38 | EvenNet | EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks | | NeurIPS 2022 | https://arxiv.org/abs/2205.13892 |
+| 38 | G<sup>2</sup>CN | G<sup>2</sup>CN: Graph Gaussian Convolution Networks with Concentrated Graph Filters | | ICML 2022| https://proceedings.mlr.press/v162/li22h.html |
+| 39 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | | NeurIPS 2022 | https://arxiv.org/abs/2202.03580 |
+| 40 | EvenNet | EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks | | NeurIPS 2022 | https://arxiv.org/abs/2205.13892 |
+| 41 | SigMagNet | SigMaNet: One Laplacian to Rule Them All | | | https://arxiv.org/abs/2205.13459 |
+| 42 | Spectral-SGCN-I, Spectral-SGCN-II, Spectral-S2GCN, and Singned-Magnet | Signed Graph Neural Networks: A Frequency Perspective | | | https://arxiv.org/abs/2208.07323 |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
