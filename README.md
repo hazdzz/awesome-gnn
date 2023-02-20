@@ -50,7 +50,7 @@ A list for GNNs and related works.
 | 39 | G<sup>2</sup>CN | G<sup>2</sup>CN: Graph Gaussian Convolution Networks with Concentrated Graph Filters | | ICML 2022| https://proceedings.mlr.press/v162/li22h.html |
 | 40 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | https://github.com/ivam-he/ChebNetII | NeurIPS 2022 | https://arxiv.org/abs/2202.03580 |
 | 41 | EvenNet | EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks | | NeurIPS 2022 | https://arxiv.org/abs/2205.13892 |
-| 42 | Spectral-SGCN-I, Spectral-SGCN-II, Spectral-S2GCN, and Singned-Magnet | Signed Graph Neural Networks: A Frequency Perspective | | | https://arxiv.org/abs/2208.07323 |
+| 42 | Spectral-SGCN-I, Spectral-SGCN-II, Spectral-S2GCN, and Singned-Magnet | Signed Graph Neural Networks: A Frequency Perspective | https://github.com/rahulsinghchandraul/Spectral_Signed_GNN | TMLR 2023 | https://openreview.net/forum?id=RZveYHgZbu |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
