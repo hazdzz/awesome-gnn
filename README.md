@@ -265,7 +265,7 @@ A list for GNNs and related works.
 | 10 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
 | 11 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
 | 12 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
-| 13 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | | | https://arxiv.org/abs/2201.09332 |
+| 13 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR | https://openreview.net/forum?id=aRsLetumx1 |
 | 14 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
 | 15 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
 
