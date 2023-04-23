@@ -14,7 +14,7 @@ A list for GNNs and related works.
 | 3 | ChebNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | https://github.com/mdeff/cnn_graph | NeurIPS 2016 | https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html |
 | 4 | GCN | Semi-Supervised Classification with Graph Convolutional Networks | https://github.com/tkipf/gcn | ICLR 2017 | https://openreview.net/forum?id=SJU4ayYgl |
 | 5 | SGC | Simplifying Graph Convolutional Networks | https://github.com/Tiiiger/SGC | ICML 2019 | http://proceedings.mlr.press/v97/wu19e.html |
-| 6 | gfNN | Revisiting Graph Neural Networks: All We Have is Low-Pass Filters | https://github.com/gear/gfnn | | https://arxiv.org/abs/1905.09550 |
+| 6 | gfNN | Revisiting Graph Neural Networks: Graph Filtering Perspective | https://github.com/gear/gfnn | International Conference on Pattern Recognition 2021 | https://ieeexplore.ieee.org/document/9412278 |
 | 7 | CayleyNet | CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters | | IEEE Transactions on Signal Processing | https://github.com/amoliu/CayleyNet | https://ieeexplore.ieee.org/abstract/document/8521593 |
 | 8 | MotifNet | MotifNet: a motif-based Graph Convolutional Network for directed graphs | | 2018 IEEE Data Science Workshop | https://ieeexplore.ieee.org/abstract/document/8439897 |
 | 9 | LanczosNet | LanczosNet: Multi-Scale Deep Graph Convolutional Networks | https://github.com/lrjconan/LanczosNetwork | ICLR 2019 | https://openreview.net/forum?id=BkedznAqKQ |
