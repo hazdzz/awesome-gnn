@@ -221,6 +221,7 @@ A list for GNNs and related works.
 | 9 | Graph Neural Networks with Adaptive Residual | https://github.com/lxiaorui/AirGNN | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/50abc3e730e36b387ca8e02c26dc0a22-Abstract.html |
 | 10 | Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks | | | https://arxiv.org/abs/2102.06462 |
 | 11 | Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs | | | https://arxiv.org/abs/2202.04579 |
+| 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
