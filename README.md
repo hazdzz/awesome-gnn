@@ -244,6 +244,7 @@ A list for GNNs and related works.
 | 7 | BBGDC | Bayesian Graph Neural Networks with Adaptive Connection Sampling | https://github.com/armanihm/GDC | ICML 2020 | https://proceedings.mlr.press/v119/hasanzadeh20a.html |
 | 8 | GraphSAINT | GraphSAINT: Graph Sampling Based Inductive Learning Method | https://github.com/GraphSAINT/GraphSAINT | ICLR 2020 | https://openreview.net/forum?id=BJe8pkHFwS |
 | 9 | MVS-GNN | Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks | | KDD 2020 | https://dl.acm.org/doi/10.1145/3394486.3403192 |
+| 10 | Critical DropEdge | Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective | | ICLR 2022 | https://openreview.net/forum?id=tT9t_ZctZRL |
 
 ## List for Over-squashing
 | Number | Method or GNN | Paper | Code | Journal or Conference | URL |
