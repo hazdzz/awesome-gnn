@@ -50,7 +50,7 @@ A list for GNNs and related works.
 | 39 | JacobiConv | How Powerful are Spectral Graph Neural Networks | https://github.com/GraphPKU/JacobiConv | ICML 2022 | https://proceedings.mlr.press/v162/wang22am.html |
 | 40 | G<sup>2</sup>CN | G<sup>2</sup>CN: Graph Gaussian Convolution Networks with Concentrated Graph Filters | | ICML 2022| https://proceedings.mlr.press/v162/li22h.html |
 | 41 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | https://github.com/ivam-he/ChebNetII | NeurIPS 2022 | https://arxiv.org/abs/2202.03580 |
-| 42 | EvenNet | EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks | | NeurIPS 2022 | https://arxiv.org/abs/2205.13892 |
+| 42 | ACMII-GCN | Revisiting Heterophily For Graph Neural Networks | https://github.com/SitaoLuan/ACM-GNN | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/092359ce5cf60a80e882378944bf1be4-Abstract-Conference.html |
 | 43 | Spectral-SGCN-I, Spectral-SGCN-II, Spectral-S2GCN, and Singned-Magnet | Signed Graph Neural Networks: A Frequency Perspective | https://github.com/rahulsinghchandraul/Spectral_Signed_GNN | TMLR 2023 | https://openreview.net/forum?id=RZveYHgZbu |
 
 ##### Based on graph Wavelet transform
