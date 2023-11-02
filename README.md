@@ -131,6 +131,8 @@ A list for GNNs and related works.
 | 12 | CAT-I and CAT-E | Learning Conjoint Attentions for Graph Neural Nets | | ICLR 2021 | https://openreview.net/forum?id=SMU_hbhhEQ |
 | 13 | SuperGAT | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision | https://github.com/dongkwan-kim/SuperGAT | ICLR 2021 | https://openreview.net/forum?id=Wi5KUNlqWty |
 | 14 | GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | ICLR 2022 | https://openreview.net/forum?id=F72ximsx7C1 |
+| 15 | MLP-GAT | Graph Attention Retrospective | https://github.com/opallab/Graph-Attention-Retrospective | JMLR 2023 | https://jmlr.org/papers/v24/22-125.html |
+| 16 | CAT and L-CAT | Learnable Graph Convolutional Attention Networks | https://github.com/psanch21/lcat | ICLR 2023 | https://openreview.net/forum?id=WsUMeHPo-2 |
 
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
@@ -222,6 +224,7 @@ A list for GNNs and related works.
 | 10 | Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks | | | https://arxiv.org/abs/2102.06462 |
 | 11 | Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs | | | https://arxiv.org/abs/2202.04579 |
 | 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
+| 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
