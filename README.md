@@ -128,7 +128,7 @@ A list for GNNs and related works.
 | 9 | RGCN and RGAT | Relational Graph Attention Networks | https://github.com/babylonhealth/rgat | | https://arxiv.org/abs/1904.05811 |
 | 10 | C-GAT | Improving Graph Attention Networks with Large Margin-based Constraints | | NeurIPS 2019 Workshop | https://grlearning.github.io/papers/43.pdf |
 | 11 | FAGCN | Beyond Low-frequency Information in Graph Convolutional Networks | https://github.com/bdy9527/FAGCN | AAAI 2021 | https://ojs.aaai.org/index.php/AAAI/article/view/16514 |
-| 12 | CAT-I and CAT-E | Learning Conjoint Attentions for Graph Neural Nets | | ICLR 2021 | https://openreview.net/forum?id=SMU_hbhhEQ |
+| 12 | CAT-I and CAT-E | Learning Conjoint Attentions for Graph Neural Nets | | NeurIPS 2021 | https://openreview.net/forum?id=SMU_hbhhEQ |
 | 13 | SuperGAT | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision | https://github.com/dongkwan-kim/SuperGAT | ICLR 2021 | https://openreview.net/forum?id=Wi5KUNlqWty |
 | 14 | GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | ICLR 2022 | https://openreview.net/forum?id=F72ximsx7C1 |
 | 15 | MLP-GAT | Graph Attention Retrospective | https://github.com/opallab/Graph-Attention-Retrospective | JMLR 2023 | https://jmlr.org/papers/v24/22-125.html |
