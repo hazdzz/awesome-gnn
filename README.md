@@ -267,13 +267,14 @@ A list for GNNs and related works.
 | 6 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
 | 7 | Graphormer | Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets | https://github.com/Microsoft/Graphormer | | https://arxiv.org/abs/2203.04810 |
 | 8 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
-| 9 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | | https://arxiv.org/pdf/2110.10674.pdf |
+| 9 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | ECML/PKDD 2021 | https://arxiv.org/pdf/2110.10674.pdf |
 | 10 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
 | 11 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
-| 12 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | | https://arxiv.org/abs/2107.07999 |
-| 13 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR | https://openreview.net/forum?id=aRsLetumx1 |
+| 12 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | ICML 2022 | https://arxiv.org/abs/2107.07999 |
+| 13 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR 2022 | https://openreview.net/forum?id=aRsLetumx1 |
 | 14 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
-| 15 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
+| 15 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
+| 16 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
 
 ## List for Graph MLP
 | Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
@@ -331,6 +332,14 @@ A list for GNNs and related works.
 | 5 | GNNGuard | GNNGuard: Defending Graph Neural Networks against Adversarial Attacks | https://github.com/mims-harvard/GNNGuard | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html |
 | 6 | | Detection and Defense of Topological Adversarial Attacks on Graphs | | ICML 2021 | https://proceedings.mlr.press/v130/zhang21i.html |
 | 7 | GCN-LFR | Not All Low-Pass Filters are Robust in Graph Convolutional Networks | | NeurIPS 2021 | https://openreview.net/forum?id=bDdfxLQITtu |
+
+## List for WL Test
+| Number | method/model | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | GIN | How Powerful are Graph Neural Networks? | https://github.com/weihua916/powerful-gnns | ICLR 2019 | https://openreview.net/forum?id=ryGs6iA5Km |
+| 2 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"  | https://github.com/wokas36/GraphSNN | ICLR 2022 | https://openreview.net/forum?id=uxgg9o7bI_3 |
+| 3 | SEG-WL test | On Structural Expressive Power of Graph Transformers | | KDD 2023 | https://dl.acm.org/doi/10.1145/3580305.3599451 |
+| 4 | N-WL test | N-WL: A New Hierarchy of Expressivity for Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=5cAI0qXxyv |
 
 ## List for Others
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
