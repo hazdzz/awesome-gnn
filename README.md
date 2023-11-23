@@ -225,6 +225,7 @@ A list for GNNs and related works.
 | 11 | Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs | | | https://arxiv.org/abs/2202.04579 |
 | 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
 | 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
+| 14 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://arxiv.org/abs/2305.13084 |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
