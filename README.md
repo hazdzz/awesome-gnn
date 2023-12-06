@@ -275,7 +275,8 @@ A list for GNNs and related works.
 | 13 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR 2022 | https://openreview.net/forum?id=aRsLetumx1 |
 | 14 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
 | 15 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
-| 16 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
+| 16 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
+| 17 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
 
 ## List for Graph MLP
 | Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
