@@ -134,6 +134,11 @@ A list for GNNs and related works.
 | 15 | MLP-GAT | Graph Attention Retrospective | https://github.com/opallab/Graph-Attention-Retrospective | JMLR 2023 | https://jmlr.org/papers/v24/22-125.html |
 | 16 | CAT and L-CAT | Learnable Graph Convolutional Attention Networks | https://github.com/psanch21/lcat | ICLR 2023 | https://openreview.net/forum?id=WsUMeHPo-2 |
 
+#### Graph Recurrent Neural Networks
+| Number | GRNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | Graph LSTM and Gated Graph ConvNet | Residual Gated Graph ConvNets | https://github.com/xbresson/spatial_graph_convnets | ICLR 2018 | https://openreview.net/forum?id=HyXBcYg0b |
+
 #### Graph Pooling (Graph Coarsening)
 | Number | Graph Pooling | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
