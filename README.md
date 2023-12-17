@@ -167,6 +167,7 @@ A list for GNNs and related works.
 | 5 | GNNML | Breaking the Limits of Message Passing Graph Neural Networks | https://github.com/balcilar/gnn-matlang | ICML 2021 | https://proceedings.mlr.press/v139/balcilar21a.html |
 | 6 | EGC | Do We Need Anisotropic Graph Neural Networks? | https://github.com/shyam196/egc | ICLR 2022 | https://openreview.net/forum?id=hl9ePdHO4_s |
 | 7 | ACMP-GCN and ACMP-GAT | ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=4fZc_79Lrqs |
+| 8 | CO-GNN | Cooperative Graph Neural Networks | | | https://arxiv.org/abs/2310.01267 |
 
 #### Heterogeneous Graph Neural Networks
 | Number | HGNN | Paper | Code | Journal or Conference | URL |
