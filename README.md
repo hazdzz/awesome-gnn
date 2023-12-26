@@ -287,10 +287,17 @@ A list for GNNs and related works.
 | 19 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
 
 ## List for Graph MLP
-| Number |  Graph MLP | Paper | Code | Journal or Conference | URL |
+| Number | Graph MLP | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | Graph-MLP | Graph-MLP: Node Classification without Message Passing in Graph | https://github.com/yanghu819/Graph-MLP | | https://arxiv.org/abs/2106.04051 |
 | 2 | N2N | Node Representation Learning in Graph via Node-to-Neighbourhood Mutual Information Maximization | https://github.com/dongwei156/n2n | | https://arxiv.org/abs/2203.12265 |
+
+## List for Tensor Graph Neural Networks
+| Number | TGNN | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | tGNN | High-Order Pooling for Graph Neural Networks with Tensor Decomposition | | NeurIPS 2022 | https://openreview.net/forum?id=N7-EIciq3R |
+| 2 | TGCN | Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition | | | https://arxiv.org/abs/2212.05581 |
+| 3 | THNN | Tensorized Hypergraph Neural Networks | | | https://arxiv.org/abs/2306.02560 |
 
 ## List for Graph Autoencoders (GAE)
 | Number | GAE | Paper | Code | Journal or Conference | URL |
