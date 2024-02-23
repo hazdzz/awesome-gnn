@@ -286,6 +286,12 @@ A list for GNNs and related works.
 | 18 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
 | 19 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
 
+## List for Graph State Space Models (GSSMs)
+| Number |  GSSM | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | GRED | Recurrent Distance Filtering for Graph Representation Learning | | | https://arxiv.org/abs/2312.01538 |
+| 2 | Graph Mamba | Graph Mamba: Towards Learning on Graphs with State Space Models | | | https://arxiv.org/abs/2402.08678 |
+
 ## List for Graph MLP
 | Number | Graph MLP | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
