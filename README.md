@@ -290,7 +290,8 @@ A list for GNNs and related works.
 | Number |  GSSM | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | GRED | Recurrent Distance Filtering for Graph Representation Learning | | | https://arxiv.org/abs/2312.01538 |
-| 2 | Graph Mamba | Graph Mamba: Towards Learning on Graphs with State Space Models | https://github.com/graphmamba/gmn | | https://arxiv.org/abs/2402.08678 |
+| 2 | Graph-Mamba | Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces | https://github.com/bowang-lab/Graph-Mamba | | https://arxiv.org/abs/2402.00789 |
+| 3 | Graph Mamba | Graph Mamba: Towards Learning on Graphs with State Space Models | https://github.com/graphmamba/gmn | | https://arxiv.org/abs/2402.08678 |
 
 ## List for Graph MLP
 | Number | Graph MLP | Paper | Code | Journal or Conference | URL |
