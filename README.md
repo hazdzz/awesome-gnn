@@ -175,6 +175,7 @@ A list for GNNs and related works.
 | 1 | HetGNN | Heterogeneous Graph Neural Network | https://github.com/chuxuzhang/KDD2019_HetGNN | KDD 2019 | https://dl.acm.org/doi/10.1145/3292500.3330961 |
 | 2 | HAN | Heterogeneous Graph Attention Network | https://github.com/Jhy1993/HAN | WWW 2019 | https://dl.acm.org/doi/10.1145/3292500.3330961 |
 | 3 | MAGNN | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380297 |
+| 4 | DGAT | Representation Learning on Heterophilic Graph with Directional Neighborhood Attention | | | https://arxiv.org/abs/2403.01475 |
 
 #### Hyperbolic Graph Neural Networks
 | Number | HGNN or method | Paper | Code | Journal or Conference | URL |
