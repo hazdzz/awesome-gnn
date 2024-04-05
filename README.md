@@ -263,6 +263,7 @@ A list for GNNs and related works.
 | 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ | ICLR 2021 | https://openreview.net/forum?id=i80OPhOCVH2 |
 | 2 | | Understanding over-squashing and bottlenecks on graphs via curvature | | ICLR 2022 | https://openreview.net/forum?id=7UmjRGzp-A |
 | 3 | | On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology | | ICML 2023 | https://proceedings.mlr.press/v202/di-giovanni23a.html |
+| 4 | | How does over-squashing affect the power of GNNs? | | TMLR 2024 | https://openreview.net/forum?id=KJRoQvRWNs |
 
 ## List for Graph Transformers
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
@@ -420,3 +421,4 @@ A list for GNNs and related works.
 | 4 | Explainability in Graph Neural Networks: A Taxonomic Survey | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://www.computer.org/csdl/journal/tp/2023/05/09875989/1GqajxgkWcM |
 | 5 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | ACM Computing Surveys | https://dl.acm.org/doi/10.1145/3627816 |
 | 6 | Weisfeiler and Leman go Machine Learning: The Story so far | JMLR 2023 | https://jmlr.org/papers/v24/22-0240.html |
+| 7 | Attending to Graph Transformers | TMLR 2024 | https://openreview.net/forum?id=HhbqHBBrfZ |
