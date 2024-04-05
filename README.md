@@ -241,6 +241,7 @@ A list for GNNs and related works.
 | 2 | NodeNorm | Understanding and Resolving Performance Degradation in Graph Convolutional Networks | https://github.com/miafei/NodeNorm | CIKM 2021 | https://dl.acm.org/doi/abs/10.1145/3459637.3482488 |
 | 3 | DGN | Towards Deeper Graph Neural Networks with Differentiable Group Normalization | https://github.com/Kaixiong-Zhou/DGN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/33dd6dba1d56e826aac1cbf23cdcca87-Abstract.html |
 | 4 | GraphNorm | GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training | https://github.com/lsj2408/GraphNorm | ICML 2021 | http://proceedings.mlr.press/v139/cai21e.html |
+| 5 | ContraNorm | ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond | https://github.com/PKU-ML/ContraNorm | ICLR 2023 | https://openreview.net/forum?id=SM7XkJouWHm |
 
 ### Dropout-like or Sampling
 | Number | Method or GNN | Paper | Code | Journal or Conference | URL |
