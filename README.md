@@ -102,17 +102,18 @@ A list for GNNs and related works.
 | 8 | Geom-GCN | Geom-GCN: Geometric Graph Convolutional Networks | https://github.com/graphdml-uiuc-jlu/geom-gcn | ICLR 2020 | https://openreview.net/forum?id=S1e2agrFvS |
 | 9 | DAGNN | Towards Deeper Graph Neural Networks | https://github.com/divelab/DeeperGNN | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403076 |
 | 10 | H<sub>2</sub>GCN | Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs | https://github.com/GemsLab/H2GCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/58ae23d878a47004366189884c2f8440-Abstract.html |
-| 11 | GINE | Graph convolutions that can finally model local structure | https://github.com/RBrossard/GINEPLUS | | https://arxiv.org/abs/2011.15069 |
-| 12 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
-| 13 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
-| 14 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
-| 15 | | Don't stack layers in graph neural networks, wire them randomly | | ICLR 2021 Workshop | https://openreview.net/forum?id=xFH_wIFy1Je |
-| 16 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
-| 17 | VQ-GNN | VQ-GNN: A Universal Framework to Scale-up Graph Neural Networks using Vector Quantization | https://github.com/devnkong/VQ-GNN | NeurIPS 2021 | https://openreview.net/forum?id=EO-CQzgcIxd |
-| 18 | NDLS | Node Dependent Local Smoothing for Scalable Graph Learning | https://github.com/zwt233/ndls | NeurIPS 2021 | https://openreview.net/forum?id=ekKaTdleJVq |
-| 19 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | ICLR 2022 | https://openreview.net/forum?id=uxgg9o7bI_3 |
-| 20 | DS-GNN | Equivariant Subgraph Aggregation Networks | | ICLR 2022 | https://openreview.net/forum?id=dFbKQaRk15w |
-| 21 | PEG | Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks  | https://github.com/graph-com/peg | ICLR 2022 | https://openreview.net/forum?id=e95i1IHcWj |
+| 11 | | Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings | https://github.com/chrsmrrs/sparsewl | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/f81dee42585b3814de199b2e88757f5c-Abstract.html |
+| 12 | GINE | Graph convolutions that can finally model local structure | https://github.com/RBrossard/GINEPLUS | | https://arxiv.org/abs/2011.15069 |
+| 13 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
+| 14 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
+| 15 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
+| 16 | | Don't stack layers in graph neural networks, wire them randomly | | ICLR 2021 Workshop | https://openreview.net/forum?id=xFH_wIFy1Je |
+| 17 | CIN | Weisfeiler and Lehman Go Cellular: CW Networks | https://github.com/twitter-research/cwn | NeurIPS 2021 | https://openreview.net/forum?id=uVPZCMVtsSG |
+| 18 | VQ-GNN | VQ-GNN: A Universal Framework to Scale-up Graph Neural Networks using Vector Quantization | https://github.com/devnkong/VQ-GNN | NeurIPS 2021 | https://openreview.net/forum?id=EO-CQzgcIxd |
+| 19 | NDLS | Node Dependent Local Smoothing for Scalable Graph Learning | https://github.com/zwt233/ndls | NeurIPS 2021 | https://openreview.net/forum?id=ekKaTdleJVq |
+| 20 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?" | | ICLR 2022 | https://openreview.net/forum?id=uxgg9o7bI_3 |
+| 21 | DS-GNN | Equivariant Subgraph Aggregation Networks | | ICLR 2022 | https://openreview.net/forum?id=dFbKQaRk15w |
+| 22 | PEG | Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks  | https://github.com/graph-com/peg | ICLR 2022 | https://openreview.net/forum?id=e95i1IHcWj |
 
 #### Attentional GNNs
 | Number | GNN | Paper | Code | Journal or Conference | URL |
