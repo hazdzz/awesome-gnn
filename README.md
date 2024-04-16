@@ -51,7 +51,8 @@ A list for GNNs and related works.
 | 40 | G<sup>2</sup>CN | G<sup>2</sup>CN: Graph Gaussian Convolution Networks with Concentrated Graph Filters | | ICML 2022| https://proceedings.mlr.press/v162/li22h.html |
 | 41 | ChebNetII | Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited | https://github.com/ivam-he/ChebNetII | NeurIPS 2022 | https://arxiv.org/abs/2202.03580 |
 | 42 | ACMII-GCN | Revisiting Heterophily For Graph Neural Networks | https://github.com/SitaoLuan/ACM-GNN | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/092359ce5cf60a80e882378944bf1be4-Abstract-Conference.html |
-| 43 | Spectral-SGCN-I, Spectral-SGCN-II, Spectral-S2GCN, and Singned-Magnet | Signed Graph Neural Networks: A Frequency Perspective | https://github.com/rahulsinghchandraul/Spectral_Signed_GNN | TMLR 2023 | https://openreview.net/forum?id=RZveYHgZbu |
+| 43 | FavardGNN and OptBasisGNN | Graph Neural Networks with Learnable and Optimal Polynomial Bases | https://github.com/yuziGuo/FarOptBasis | ICML 2023 | https://proceedings.mlr.press/v202/guo23i |
+| 44 | Spectral-SGCN-I, Spectral-SGCN-II, Spectral-S2GCN, and Singned-Magnet | Signed Graph Neural Networks: A Frequency Perspective | https://github.com/rahulsinghchandraul/Spectral_Signed_GNN | TMLR 2023 | https://openreview.net/forum?id=RZveYHgZbu |
 
 ##### Based on graph Wavelet transform
 | Number | GNN | Paper | Code | Journal or Conference | URL |
@@ -414,7 +415,6 @@ A list for GNNs and related works.
 | 37 | SAGN | Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced training | https://github.com/skepsun/SAGN_with_SLE | | https://arxiv.org/abs/2104.09376 |
 | 38 | GAMLP | Graph Attention Multi-Layer Perceptron | https://github.com/pku-dair/gamlp | KDD 2022 | https://dl.acm.org/doi/abs/10.1145/3534678.3539121 |
 | 39 | | Expressiveness and Approximation Properties of Graph Neural Networks | | ICLR 2022 | https://openreview.net/forum?id=wIzUeM3TAU |
-| 40 | | Graph Neural Networks with Learnable and Optimal Polynomial Bases | https://github.com/yuziGuo/FarOptBasis | ICML 2023 | https://proceedings.mlr.press/v202/guo23i |
 
 ## List for Surveys
 | Number | Paper | Journal or Conference | URL |
