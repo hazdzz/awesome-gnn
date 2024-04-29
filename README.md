@@ -235,7 +235,8 @@ A list for GNNs and related works.
 | 11 | Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs | | | https://arxiv.org/abs/2202.04579 |
 | 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
 | 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
-| 14 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://arxiv.org/abs/2305.13084 |
+| 14 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://openreview.net/forum?id=kS7ED7eE74 |
+| 15 | Limits of Depth: Over-Smoothing and Over-Squashing in GNNs | | Big Data Mining and Analytics | https://ieeexplore.ieee.org/abstract/document/10372997 |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
@@ -262,12 +263,13 @@ A list for GNNs and related works.
 | 10 | Critical DropEdge | Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective | | ICLR 2022 | https://openreview.net/forum?id=tT9t_ZctZRL |
 
 ## List for Over-squashing
-| Number | Method or GNN | Paper | Code | Journal or Conference | URL |
-|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ | ICLR 2021 | https://openreview.net/forum?id=i80OPhOCVH2 |
-| 2 | | Understanding over-squashing and bottlenecks on graphs via curvature | | ICLR 2022 | https://openreview.net/forum?id=7UmjRGzp-A |
-| 3 | | On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology | | ICML 2023 | https://proceedings.mlr.press/v202/di-giovanni23a.html |
-| 4 | | How does over-squashing affect the power of GNNs? | | TMLR 2024 | https://openreview.net/forum?id=KJRoQvRWNs |
+| Number | Paper | Code | Journal or Conference | URL |
+|:------:|--------------------------|-------|:-------:|----------------------------------------|
+| 1 | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ | ICLR 2021 | https://openreview.net/forum?id=i80OPhOCVH2 |
+| 2 | Understanding over-squashing and bottlenecks on graphs via curvature | | ICLR 2022 | https://openreview.net/forum?id=7UmjRGzp-A |
+| 3 | On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology | | ICML 2023 | https://proceedings.mlr.press/v202/di-giovanni23a.html |
+| 4 | Limits of Depth: Over-Smoothing and Over-Squashing in GNNs | Big Data Mining and Analytics | https://ieeexplore.ieee.org/abstract/document/10372997 |
+| 5 | How does over-squashing affect the power of GNNs? | | TMLR 2024 | https://openreview.net/forum?id=KJRoQvRWNs |
 
 ## List for Graph Transformers
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
