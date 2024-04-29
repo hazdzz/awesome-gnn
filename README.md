@@ -268,7 +268,7 @@ A list for GNNs and related works.
 | 1 | On the Bottleneck of Graph Neural Networks and its Practical Implications | https://github.com/tech-srl/bottleneck/ | ICLR 2021 | https://openreview.net/forum?id=i80OPhOCVH2 |
 | 2 | Understanding over-squashing and bottlenecks on graphs via curvature | | ICLR 2022 | https://openreview.net/forum?id=7UmjRGzp-A |
 | 3 | On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology | | ICML 2023 | https://proceedings.mlr.press/v202/di-giovanni23a.html |
-| 4 | Limits of Depth: Over-Smoothing and Over-Squashing in GNNs | Big Data Mining and Analytics | https://ieeexplore.ieee.org/abstract/document/10372997 |
+| 4 | Limits of Depth: Over-Smoothing and Over-Squashing in GNNs | | Big Data Mining and Analytics | https://ieeexplore.ieee.org/abstract/document/10372997 |
 | 5 | How does over-squashing affect the power of GNNs? | | TMLR 2024 | https://openreview.net/forum?id=KJRoQvRWNs |
 
 ## List for Graph Transformers
