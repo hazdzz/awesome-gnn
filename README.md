@@ -1,4 +1,8 @@
 # GNNs and related works list
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![forks](https://img.shields.io/github/forks/hazdzz/awesome-gnn)](https://github.com/hazdzz/awesome-gnn/network/members)
+[![stars](https://img.shields.io/github/stars/hazdzz/awesome-gnn)](https://github.com/hazdzz/awesome-gnn/stargazers)
+[![License](https://img.shields.io/github/license/hazdzz/awesome-gnn)](./LICENSE)
 
 ## About
 A list for GNNs and related works.
