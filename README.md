@@ -290,12 +290,15 @@ A list for GNNs and related works.
 | 16 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | ICML 2022 | https://arxiv.org/abs/2107.07999 |
 | 17 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR 2022 | https://openreview.net/forum?id=aRsLetumx1 |
 | 18 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
-| 19 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
-| 20 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
-| 21 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
-| 22 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
-| 23 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
-| 24 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
+| 19 | DGT | Deformable Graph Transformer | | | https://arxiv.org/abs/2206.14337 |
+| 20 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
+| 21 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
+| 22 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
+| 23 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
+| 24 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
+| 25 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
+| 26 | Random Walk Conformer (RWC) | Random Walk Conformer: Learning Graph Representation from Long and Short Range | https://github.com/b05901024/RandomWalkConformer | AAAI 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/26296 |
+| 27 | Unified Graph Transformer Network (UGT) | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
 
 ## List for Graph State Space Models (GSSMs)
 | Number |  GSSM | Paper | Code | Journal or Conference | URL |
