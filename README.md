@@ -444,5 +444,6 @@ A list for GNNs and related works.
 | 3 | Deep Learning on Graphs: A Survey | IEEE Transactions on Knowledge and Data Engineering | https://ieeexplore.ieee.org/abstract/document/9039675 |
 | 4 | Explainability in Graph Neural Networks: A Taxonomic Survey | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://www.computer.org/csdl/journal/tp/2023/05/09875989/1GqajxgkWcM |
 | 5 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | ACM Computing Surveys | https://dl.acm.org/doi/10.1145/3627816 |
-| 6 | Weisfeiler and Leman go Machine Learning: The Story so far | JMLR 2023 | https://jmlr.org/papers/v24/22-0240.html |
-| 7 | Attending to Graph Transformers | TMLR 2024 | https://openreview.net/forum?id=HhbqHBBrfZ |
+| 6 | Transformer for Graphs: An Overview from Architecture Perspective | | https://arxiv.org/abs/2202.08455 |
+| 7 | Weisfeiler and Leman go Machine Learning: The Story so far | JMLR 2023 | https://jmlr.org/papers/v24/22-0240.html |
+| 8 | Attending to Graph Transformers | TMLR 2024 | https://openreview.net/forum?id=HhbqHBBrfZ |
