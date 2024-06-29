@@ -300,8 +300,8 @@ A list for GNNs and related works.
 | 27 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
 | 28 | GOAT | GOAT: A Global Transformer on Large-scale Graphs | https://github.com/devnkong/GOAT | ICML 2023 | https://proceedings.mlr.press/v202/kong23a.html |
 | 29 | RWC | Random Walk Conformer: Learning Graph Representation from Long and Short Range | https://github.com/b05901024/RandomWalkConformer | AAAI 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/26296 |
-| 30 | UGT | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
-| 31 | Gapformer | Gapformer: Graph Transformer with Graph Pooling for Node Classification | | IJCAI 2023 | https://www.ijcai.org/proceedings/2023/244 |
+| 30 | Gapformer | Gapformer: Graph Transformer with Graph Pooling for Node Classification | | IJCAI 2023 | https://www.ijcai.org/proceedings/2023/244 |
+| 31 | UGT | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
 
 ## List for Graph Position Embedding or Structure Embedding
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
