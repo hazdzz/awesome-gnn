@@ -289,16 +289,24 @@ A list for GNNs and related works.
 | 15 | EGT | Global Self-Attention as a Replacement for Graph Convolution | https://github.com/shamim-hussain/egt_pytorch | KDD 2022 | https://dl.acm.org/doi/10.1145/3534678.3539296 |
 | 16 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | ICML 2022 | https://arxiv.org/abs/2107.07999 |
 | 17 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR 2022 | https://openreview.net/forum?id=aRsLetumx1 |
-| 18 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
-| 19 | DGT | Deformable Graph Transformer | | | https://arxiv.org/abs/2206.14337 |
-| 20 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
-| 21 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
-| 22 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
-| 23 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
-| 24 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
-| 25 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
-| 26 | Random Walk Conformer (RWC) | Random Walk Conformer: Learning Graph Representation from Long and Short Range | https://github.com/b05901024/RandomWalkConformer | AAAI 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/26296 |
-| 27 | Unified Graph Transformer Network (UGT) | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
+| 18 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
+| 19 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
+| 20 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
+| 21 | DGT | Deformable Graph Transformer | | | https://arxiv.org/abs/2206.14337 |
+| 22 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
+| 23 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
+| 25 | DeepGraph | Are More Layers Beneficial to Graph Transformers? | https://github.com/zhao-ht/deepgraph | ICLR 2023 | https://openreview.net/forum?id=uagC-X9XMi8 |
+| 26 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
+| 27 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
+| 28 | GOAT | GOAT: A Global Transformer on Large-scale Graphs | https://github.com/devnkong/GOAT | ICML 2023 | https://proceedings.mlr.press/v202/kong23a.html |
+| 29 | RWC | Random Walk Conformer: Learning Graph Representation from Long and Short Range | https://github.com/b05901024/RandomWalkConformer | AAAI 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/26296 |
+| 30 | UGT | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
+| 31 | Gapformer | Gapformer: Graph Transformer with Graph Pooling for Node Classification | | IJCAI 2023 | https://www.ijcai.org/proceedings/2023/244 |
+
+## List for Graph Position Embedding or Structure Embedding
+| Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
+|:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
+| 1 | LSPE | Graph Neural Networks with Learnable Structural and Positional Representations | https://github.com/vijaydwivedi75/gnn-lspe | ICLR 2022 | https://openreview.net/forum?id=wTTjnvGphYj | 
 
 ## List for Graph State Space Models (GSSMs)
 | Number |  GSSM | Paper | Code | Journal or Conference | URL |
@@ -378,6 +386,7 @@ A list for GNNs and related works.
 | 2 | GraphSNN | A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"  | https://github.com/wokas36/GraphSNN | ICLR 2022 | https://openreview.net/forum?id=uxgg9o7bI_3 |
 | 3 | SEG-WL test | On Structural Expressive Power of Graph Transformers | | KDD 2023 | https://dl.acm.org/doi/10.1145/3580305.3599451 |
 | 4 | N-WL test | N-WL: A New Hierarchy of Expressivity for Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=5cAI0qXxyv |
+| 5 | GD-WL | Rethinking the Expressive Power of GNNs via Graph Biconnectivity | https://github.com/lsj2408/graphormer-gd | ICLR 2023 | https://openreview.net/forum?id=r9hNv76KoT3 |
 
 ## List for Others
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
