@@ -276,23 +276,26 @@ A list for GNNs and related works.
 | 2 | GTN | Graph Transformer Networks | https://github.com/seongjunyun/Graph_Transformer_Networks | NeurIPS 2019 | https://proceedings.neurips.cc/paper/2019/hash/9d63484abb477c97640154d40595a3bb-Abstract.html |
 | 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380027 |
 | 4 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer | AAAI 2021 Workshop | https://arxiv.org/abs/2012.09699 |
-| 5 | SAN | Rethinking Graph Transformers with Spectral Attention | https://github.com/DevinKreuzer/SAN | NeurIPS 2021 | https://openreview.net/forum?id=huAdB-Tj4yG |
-| 6 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
-| 7 | Graphormer | Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets | https://github.com/Microsoft/Graphormer | | https://arxiv.org/abs/2203.04810 |
-| 8 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
-| 9 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | ECML/PKDD 2021 | https://arxiv.org/pdf/2110.10674.pdf |
-| 10 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
-| 11 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
-| 12 | EGT | Global Self-Attention as a Replacement for Graph Convolution | https://github.com/shamim-hussain/egt_pytorch | KDD 2022 | https://dl.acm.org/doi/10.1145/3534678.3539296 |
-| 13 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | ICML 2022 | https://arxiv.org/abs/2107.07999 |
-| 14 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR 2022 | https://openreview.net/forum?id=aRsLetumx1 |
-| 15 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
-| 16 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
-| 17 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
-| 18 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
-| 19 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
-| 20 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
-| 21 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
+| 5 | UniMP | Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification | https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp | IJCAI 2021 | https://www.ijcai.org/proceedings/2021/214 |
+| 6 | Representing Long-Range Context for Graph Neural Networks with Global Attention | https://github.com/ucbrise/graphtrans | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/6e67691b60ed3e4a55935261314dd534-Abstract.html |
+| 7 | SAN | Rethinking Graph Transformers with Spectral Attention | https://github.com/DevinKreuzer/SAN | NeurIPS 2021 | https://openreview.net/forum?id=huAdB-Tj4yG |
+| 8 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
+| 9 | Graphormer | Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets | https://github.com/Microsoft/Graphormer | | https://arxiv.org/abs/2203.04810 |
+| 10 | Gophormer | Gophormer: Ego-Graph Transformer for Node Classification | | | https://arxiv.org/abs/2110.13094 |
+| 11 | SEA | SEA: Graph Shell Attention in Graph Neural Networks | | ECML/PKDD 2021 | https://arxiv.org/pdf/2110.10674.pdf |
+| 12 | GraphiT | GraphiT: Encoding Graph Structure in Transformers | https://github.com/inria-thoth/GraphiT | | https://arxiv.org/abs/2106.05667 |
+| 13 | Coarformer | Coarformer: Transformer for large graph via graph coarsening | | | https://openreview.net/forum?id=fkjO_FKVzw |
+| 14 | UGformer | Universal Graph Transformer Self-Attention Networks | https://github.com/daiquocnguyen/Graph-Transformer | WWW 2022 | https://dl.acm.org/doi/10.1145/3487553.3524258 |
+| 15 | EGT | Global Self-Attention as a Replacement for Graph Convolution | https://github.com/shamim-hussain/egt_pytorch | KDD 2022 | https://dl.acm.org/doi/10.1145/3534678.3539296 |
+| 16 | GKAT | From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers | https://github.com/hl-hanlin/gkat | ICML 2022 | https://arxiv.org/abs/2107.07999 |
+| 17 | FeTA | Investigating Expressiveness of Transformer in Spectral Domain for Graphs | https://github.com/ansonb/FeTA_TMLR | TMLR 2022 | https://openreview.net/forum?id=aRsLetumx1 |
+| 18 | GRPE | GRPE: Relative Positional Encoding for Graph Transformer | https://github.com/lenscloth/grpe | | https://arxiv.org/abs/2201.12787 |
+| 19 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
+| 20 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
+| 21 | TokenGT | Pure Transformers are Powerful Graph Learners | https://github.com/jw9730/tokengt | NeurIPS 2022 | https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html |
+| 22 | GPS | Recipe for a General, Powerful, Scalable Graph Transformer | https://github.com/rampasek/GraphGPS | NeurIPS 2022 | https://openreview.net/forum?id=lMMaNf6oxKM |
+| 23 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
+| 24 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
 
 ## List for Graph State Space Models (GSSMs)
 | Number |  GSSM | Paper | Code | Journal or Conference | URL |
