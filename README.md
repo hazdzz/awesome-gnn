@@ -277,7 +277,7 @@ A list for GNNs and related works.
 | 3 | HGT | Heterogeneous Graph Transformer | https://github.com/acbull/pyHGT | WWW 2020 | https://dl.acm.org/doi/10.1145/3366423.3380027 |
 | 4 | GT | A Generalization of Transformer Networks to Graphs | https://github.com/graphdeeplearning/graphtransformer | AAAI 2021 Workshop | https://arxiv.org/abs/2012.09699 |
 | 5 | UniMP | Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification | https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp | IJCAI 2021 | https://www.ijcai.org/proceedings/2021/214 |
-| 6 | Representing Long-Range Context for Graph Neural Networks with Global Attention | https://github.com/ucbrise/graphtrans | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/6e67691b60ed3e4a55935261314dd534-Abstract.html |
+| 6 | GraphTrans | Representing Long-Range Context for Graph Neural Networks with Global Attention | https://github.com/ucbrise/graphtrans | NeurIPS 2021 | https://proceedings.neurips.cc/paper/2021/hash/6e67691b60ed3e4a55935261314dd534-Abstract.html |
 | 7 | SAN | Rethinking Graph Transformers with Spectral Attention | https://github.com/DevinKreuzer/SAN | NeurIPS 2021 | https://openreview.net/forum?id=huAdB-Tj4yG |
 | 8 | Graphormer | Do Transformers Really Perform Badly for Graph Representation? | https://github.com/Microsoft/Graphormer | NeurIPS 2021 | https://openreview.net/forum?id=OeWooOxFwDa |
 | 9 | Graphormer | Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets | https://github.com/Microsoft/Graphormer | | https://arxiv.org/abs/2203.04810 |
