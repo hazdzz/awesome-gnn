@@ -307,10 +307,13 @@ A list for GNNs and related works.
 | 30 | Gapformer | Gapformer: Graph Transformer with Graph Pooling for Node Classification | | IJCAI 2023 | https://www.ijcai.org/proceedings/2023/244 |
 | 31 | UGT | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
 
-## List for Graph Position Embedding or Structure Embedding
+## List for Graph Structure Embedding
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
-| 1 | LSPE | Graph Neural Networks with Learnable Structural and Positional Representations | https://github.com/vijaydwivedi75/gnn-lspe | ICLR 2022 | https://openreview.net/forum?id=wTTjnvGphYj | 
+| 1 | | Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting | https://github.com/gbouritsas/GSN | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://ieeexplore.ieee.org/document/9721082 |
+| 2 | | Rethinking Graph Transformers with Spectral Attention | https://openreview.net/forum?id=huAdB-Tj4yG | NeurIPS 2021 | https://github.com/DevinKreuzer/SAN | 
+| 3 | LSPE | Graph Neural Networks with Learnable Structural and Positional Representations | https://github.com/vijaydwivedi75/gnn-lspe | ICLR 2022 | https://openreview.net/forum?id=wTTjnvGphYj | 
+| 4 | | Structure-Aware Transformer for Graph Representation Learning | https://github.com/borgwardtlab/sat | ICML 2022 | https://proceedings.mlr.press/v162/chen22r.html |
 
 ## List for Graph State Space Models (GSSMs)
 | Number |  GSSM | Paper | Code | Journal or Conference | URL |
