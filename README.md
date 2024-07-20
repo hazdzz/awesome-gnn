@@ -450,3 +450,4 @@ A list for GNNs and related works.
 | 6 | Transformer for Graphs: An Overview from Architecture Perspective | | https://arxiv.org/abs/2202.08455 |
 | 7 | Weisfeiler and Leman go Machine Learning: The Story so far | JMLR 2023 | https://jmlr.org/papers/v24/22-0240.html |
 | 8 | Attending to Graph Transformers | TMLR 2024 | https://openreview.net/forum?id=HhbqHBBrfZ |
+| 9 | The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges | | https://arxiv.org/abs/2407.09618 |
