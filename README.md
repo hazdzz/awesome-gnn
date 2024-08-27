@@ -221,6 +221,7 @@ A list for GNNs and related works.
 | 10 | | Learning continuous-time PDEs from sparse data with graph neural networks | | ICLR 2021 | https://openreview.net/forum?id=aUX5Plaq7Oy |
 | 11 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde | ICML 2021 | https://proceedings.mlr.press/v139/chamberlain21a.html |
 | 12 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc | | https://arxiv.org/abs/2006.09773 |
+| 13 | GREAD | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
 
 ## List for Over-smoothing
 ### Analyses
