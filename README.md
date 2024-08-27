@@ -241,6 +241,7 @@ A list for GNNs and related works.
 | 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
 | 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
 | 14 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://openreview.net/forum?id=kS7ED7eE74 |
+| 15 | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
