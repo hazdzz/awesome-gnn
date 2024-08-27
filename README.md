@@ -273,6 +273,7 @@ A list for GNNs and related works.
 | 2 | Understanding over-squashing and bottlenecks on graphs via curvature | | ICLR 2022 | https://openreview.net/forum?id=7UmjRGzp-A |
 | 3 | On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology | | ICML 2023 | https://proceedings.mlr.press/v202/di-giovanni23a.html |
 | 4 | How does over-squashing affect the power of GNNs? | | TMLR 2024 | https://openreview.net/forum?id=KJRoQvRWNs |
+| 5 | PANDA: Expanded Width-Aware Message Passing Beyond Rewiring | | ICML 2024 | https://proceedings.mlr.press/v235/choi24f.html |
 
 ## List for Graph Transformers
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
