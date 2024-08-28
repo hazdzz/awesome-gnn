@@ -221,6 +221,7 @@ A list for GNNs and related works.
 | 10 | | Learning continuous-time PDEs from sparse data with graph neural networks | | ICLR 2021 | https://openreview.net/forum?id=aUX5Plaq7Oy |
 | 11 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde | ICML 2021 | https://proceedings.mlr.press/v139/chamberlain21a.html |
 | 12 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc | | https://arxiv.org/abs/2006.09773 |
+| 13 | GREAD | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
 
 ## List for Over-smoothing
 ### Analyses
@@ -240,6 +241,7 @@ A list for GNNs and related works.
 | 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
 | 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
 | 14 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://openreview.net/forum?id=kS7ED7eE74 |
+| 15 | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
@@ -272,6 +274,7 @@ A list for GNNs and related works.
 | 2 | Understanding over-squashing and bottlenecks on graphs via curvature | | ICLR 2022 | https://openreview.net/forum?id=7UmjRGzp-A |
 | 3 | On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology | | ICML 2023 | https://proceedings.mlr.press/v202/di-giovanni23a.html |
 | 4 | How does over-squashing affect the power of GNNs? | | TMLR 2024 | https://openreview.net/forum?id=KJRoQvRWNs |
+| 5 | PANDA: Expanded Width-Aware Message Passing Beyond Rewiring | | ICML 2024 | https://proceedings.mlr.press/v235/choi24f.html |
 
 ## List for Graph Transformers
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
