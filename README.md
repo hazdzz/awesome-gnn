@@ -448,9 +448,10 @@ A list for GNNs and related works.
 | 2 | A Comprehensive Survey on Graph Neural Networks | IEEE Transactions on Neural Networks and Learning Systems | https://ieeexplore.ieee.org/abstract/document/9046288 |
 | 3 | Deep Learning on Graphs: A Survey | IEEE Transactions on Knowledge and Data Engineering | https://ieeexplore.ieee.org/abstract/document/9039675 |
 | 4 | Explainability in Graph Neural Networks: A Taxonomic Survey | IEEE Transactions on Pattern Analysis and Machine Intelligence | https://www.computer.org/csdl/journal/tp/2023/05/09875989/1GqajxgkWcM |
-| 5 | Benchmarking Graph Neural Networks | JMLR 2022 | https://www.jmlr.org/papers/v24/22-0567.html |
-| 6 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | ACM Computing Surveys | https://dl.acm.org/doi/10.1145/3627816 |
-| 7 | Transformer for Graphs: An Overview from Architecture Perspective | | https://arxiv.org/abs/2202.08455 |
-| 8 | Weisfeiler and Leman go Machine Learning: The Story so far | JMLR 2023 | https://jmlr.org/papers/v24/22-0240.html |
-| 9 | Attending to Graph Transformers | TMLR 2024 | https://openreview.net/forum?id=HhbqHBBrfZ |
-| 10 | The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges | | https://arxiv.org/abs/2407.09618 |
+| 5 | Graph Neural Networks for Natural Language Processing: A Survey | Foundations and Trends® in Machine Learning | https://www.nowpublishers.com/article/Details/MAL-096 |
+| 6 | Benchmarking Graph Neural Networks | JMLR 2022 | https://www.jmlr.org/papers/v24/22-0567.html |
+| 7 | Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks | ACM Computing Surveys | https://dl.acm.org/doi/10.1145/3627816 |
+| 8 | Transformer for Graphs: An Overview from Architecture Perspective | | https://arxiv.org/abs/2202.08455 |
+| 9 | Weisfeiler and Leman go Machine Learning: The Story so far | JMLR 2023 | https://jmlr.org/papers/v24/22-0240.html |
+| 10 | Attending to Graph Transformers | TMLR 2024 | https://openreview.net/forum?id=HhbqHBBrfZ |
+| 11 | The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges | | https://arxiv.org/abs/2407.09618 |
