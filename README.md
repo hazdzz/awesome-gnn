@@ -109,7 +109,7 @@ A list for GNNs and related works.
 | 10 | H<sub>2</sub>GCN | Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs | https://github.com/GemsLab/H2GCN | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/58ae23d878a47004366189884c2f8440-Abstract.html |
 | 11 | | Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings | https://github.com/chrsmrrs/sparsewl | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/f81dee42585b3814de199b2e88757f5c-Abstract.html |
 | 12 | GINE | Graph convolutions that can finally model local structure | https://github.com/RBrossard/GINEPLUS | | https://arxiv.org/abs/2011.15069 |
-| 13 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beani21a.html |
+| 13 | DGN | Directional Graph Networks | https://github.com/Saro00/DGN | ICML 2021 | http://proceedings.mlr.press/v139/beaini21a.html |
 | 14 | Elastic GNN | Elastic Graph Neural Networks | https://github.com/lxiaorui/ElasticGNN | ICML 2021 | https://proceedings.mlr.press/v139/liu21k.html |
 | 15 | SIN | Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks | https://github.com/twitter-research/cwn | ICML 2021 | https://proceedings.mlr.press/v139/bodnar21a.html |
 | 16 | | Don't stack layers in graph neural networks, wire them randomly | | ICLR 2021 Workshop | https://openreview.net/forum?id=xFH_wIFy1Je |
