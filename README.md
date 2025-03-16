@@ -63,10 +63,9 @@ A list for GNNs and related works.
 | Number | GNN | Paper | Code | Journal or Conference | URL |
 |:------:|:--------------------------:|-------|------|:-------:|----------------------------------------|
 | 1 | GraphWave | Learning Structural Node Embeddings via Diffusion Wavelets | https://github.com/benedekrozemberczki/GraphWaveMachine | KDD 2018 | https://www-cs.stanford.edu/~jure/pubs/graphwave-kdd18.pdf |
-| 2 | GWNN | Graph Wavelet Neural Network | https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork | ICLR 2019 | https://openreview.net/forum?id=H1ewdiR5tQ |
-| 3 | HANet | Fast Haar Transforms for Graph Neural Networks | | Neural Networks | https://www.sciencedirect.com/science/article/abs/pii/S0893608020301568 |
-| 4 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | | | https://arxiv.org/abs/2007.11202 |
-| 5 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG | ICML 2021 | http://proceedings.mlr.press/v139/zheng21c.html |
+| 2 | HANet | Fast Haar Transforms for Graph Neural Networks | | Neural Networks | https://www.sciencedirect.com/science/article/abs/pii/S0893608020301568 |
+| 3 | MathNet | MathNet: Haar-Like Wavelet Multiresolution-Analysis for Graph Representation and Learning | | | https://arxiv.org/abs/2007.11202 |
+| 4 | UFGConv and UFGPool | How Framelets Enhance Graph Neural Networks | https://github.com/YuGuangWang/UFG | ICML 2021 | http://proceedings.mlr.press/v139/zheng21c.html |
 
 #### Graph Scattering Transforms
 | Number | GNN or method | Paper | Code | Journal or Conference | URL |
