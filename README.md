@@ -242,6 +242,8 @@ A list for GNNs and related works.
 | 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
 | 14 | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
 | 15 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://openreview.net/forum?id=kS7ED7eE74 |
+| 16 | Demystifying Oversmoothing in Attention-Based Graph Neural Networks | | NeurIPS 2023 | https://openreview.net/forum?id=Kg65qieiuB |
+| 17 | Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks | https://github.com/roth-andreas/rank_collapse | LoG 2023 | https://proceedings.mlr.press/v231/roth24a.html |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
