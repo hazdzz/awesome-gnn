@@ -212,16 +212,18 @@ A list for GNNs and related works.
 | 1 | | Graph Neural Ordinary Differential Equations | https://github.com/Zymrael/gde | | https://arxiv.org/abs/1911.07532 |
 | 2 | | Ordinary differential equations on graph networks | | | https://openreview.net/forum?id=SJg9z6VFDr |
 | 3 | CGF | Continuous Graph Flow | | | https://arxiv.org/abs/1908.02436 |
-| 4 | CGNN | Continuous Graph Neural Networks | https://github.com/DeepGraphLearning/ContinuousGNN | ICML 2020 | https://proceedings.mlr.press/v119/xhonneux20a.html |
-| 5 | NDCN | Neural Dynamics on Complex Networks | https://github.com/calvin-zcx/ndcn | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403132 |
-| 6 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | | NeurIPS 2019 Workshop | https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_30.pdf |
-| 7 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn | ICML 2020 | https://proceedings.mlr.press/v119/de-avila-belbute-peres20a.html |
-| 8 | GKN | Neural Operator: Graph Kernel Network for Partial Differential Equations | https://github.com/zongyi-li/graph-pde | ICLR 2020 Workshop | https://openreview.net/forum?id=fg2ZFmXFO3 |
-| 9 | MGKN | Multipole Graph Neural Operator for Parametric Partial Differential Equations | https://github.com/zongyi-li/graph-pde | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/4b21cf96d4cf612f239a6c322b10c8fe-Abstract.html |
-| 10 | | Learning continuous-time PDEs from sparse data with graph neural networks | | ICLR 2021 | https://openreview.net/forum?id=aUX5Plaq7Oy |
-| 11 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde | ICML 2021 | https://proceedings.mlr.press/v139/chamberlain21a.html |
-| 12 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc | | https://arxiv.org/abs/2006.09773 |
-| 13 | GREAD | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
+| 4 | NODEC | Neural Ordinary Differential Equation Control of Dynamics on Graphs | https://github.com/asikist/nnc | IEEE DataPort 2020 | https://ieee-dataport.org/documents/neural-ordinary-differential-equation-control-dynamics-graphs |
+| 5 | CGNN | Continuous Graph Neural Networks | https://github.com/DeepGraphLearning/ContinuousGNN | ICML 2020 | https://proceedings.mlr.press/v119/xhonneux20a.html |
+| 6 | NDCN | Neural Dynamics on Complex Networks | https://github.com/calvin-zcx/ndcn | KDD 2020 | https://dl.acm.org/doi/abs/10.1145/3394486.3403132 |
+| 7 | DeltaGN and OGN | Hamiltonian Graph Networks with ODE Integrators | | NeurIPS 2019 Workshop | https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_30.pdf |
+| 8 | CFD-GCN | Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction | https://github.com/locuslab/cfd-gcn | ICML 2020 | https://proceedings.mlr.press/v119/de-avila-belbute-peres20a.html |
+| 9 | GKN | Neural Operator: Graph Kernel Network for Partial Differential Equations | https://github.com/zongyi-li/graph-pde | ICLR 2020 Workshop | https://openreview.net/forum?id=fg2ZFmXFO3 |
+| 10 | MGKN | Multipole Graph Neural Operator for Parametric Partial Differential Equations | https://github.com/zongyi-li/graph-pde | NeurIPS 2020 | https://proceedings.neurips.cc/paper/2020/hash/4b21cf96d4cf612f239a6c322b10c8fe-Abstract.html |
+| 11 | | Learning continuous-time PDEs from sparse data with graph neural networks | | ICLR 2021 | https://openreview.net/forum?id=aUX5Plaq7Oy |
+| 12 | GRAND | GRAND: Graph Neural Diffusion | https://github.com/twitter-research/graph-neural-pde | ICML 2021 | https://proceedings.mlr.press/v139/chamberlain21a.html |
+| 13 | GraphCON-GCN and GraphCON-GAT | Graph-Coupled Oscillator Networks | https://github.com/tk-rusch/graphcon | ICML 2022 | https://proceedings.mlr.press/v162/rusch22a.html |
+| 14 | G2-GCN and G2-GAT | Gradient Gating for Deep Multi-Rate Learning on Graphs | https://github.com/tk-rusch/gradientgating | ICLR 2023 | https://openreview.net/forum?id=JpRExTbl1- |
+| 15 | GREAD | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
 
 ## List for Over-smoothing
 ### Analyses
@@ -240,10 +242,9 @@ A list for GNNs and related works.
 | 11 | Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs | | | https://arxiv.org/abs/2202.04579 |
 | 12 | Understanding convolution on graphs via energies | | | https://arxiv.org/abs/2206.10991 |
 | 13 | A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks | | ICLR 2023 | https://openreview.net/forum?id=CJd-BtnwtXq |
-| 14 | GREAD: Graph Neural Reaction-Diffusion Networks | https://github.com/jeongwhanchoi/GREAD | ICML 2023 | https://proceedings.mlr.press/v202/choi23a.html |
-| 15 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://openreview.net/forum?id=kS7ED7eE74 |
-| 16 | Demystifying Oversmoothing in Attention-Based Graph Neural Networks | | NeurIPS 2023 | https://openreview.net/forum?id=Kg65qieiuB |
-| 17 | Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks | https://github.com/roth-andreas/rank_collapse | LoG 2023 | https://proceedings.mlr.press/v231/roth24a.html |
+| 14 | A Fractional Graph Laplacian Approach to Oversmoothing | https://github.com/rpaolino/flode | NeurIPS 2023 | https://openreview.net/forum?id=kS7ED7eE74 |
+| 15 | Demystifying Oversmoothing in Attention-Based Graph Neural Networks | | NeurIPS 2023 | https://openreview.net/forum?id=Kg65qieiuB |
+| 16 | Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks | https://github.com/roth-andreas/rank_collapse | LoG 2023 | https://proceedings.mlr.press/v231/roth24a.html |
 
 ### Graph Normalization
 | Number | Norm | Paper | Code | Journal or Conference | URL |
