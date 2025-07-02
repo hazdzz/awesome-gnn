@@ -138,6 +138,7 @@ A list for GNNs and related works.
 | 14 | GATv2 | How Attentive are Graph Attention Networks? | https://github.com/tech-srl/how_attentive_are_gats | ICLR 2022 | https://openreview.net/forum?id=F72ximsx7C1 |
 | 15 | MLP-GAT | Graph Attention Retrospective | https://github.com/opallab/Graph-Attention-Retrospective | JMLR 2023 | https://jmlr.org/papers/v24/22-125.html |
 | 16 | CAT and L-CAT | Learnable Graph Convolutional Attention Networks | https://github.com/psanch21/lcat | ICLR 2023 | https://openreview.net/forum?id=WsUMeHPo-2 |
+| 17 | Dynamo-GAT | A Dynamical Systems-Inspired Pruning Strategy for Addressing Oversmoothing in Graph Attention Networks | | ICML 2025 | https://openreview.net/forum?id=44gnGhurnZ |
 
 #### Graph Recurrent Neural Networks
 | Number | GRNN | Paper | Code | Journal or Conference | URL |
