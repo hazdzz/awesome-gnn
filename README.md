@@ -305,12 +305,14 @@ A list for GNNs and related works.
 | 22 | Specformer | Specformer: Spectral Graph Neural Networks Meet Transformers | https://github.com/DSL-Lab/Specformer | ICLR 2023 | https://openreview.net/forum?id=0pdSt3oyJa1 |
 | 23 | NAGphormer | NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs | https://github.com/JHL-HUST/NAGphormer | ICLR 2023 | https://openreview.net/forum?id=8KYeilT3Ow |
 | 25 | DeepGraph | Are More Layers Beneficial to Graph Transformers? | https://github.com/zhao-ht/deepgraph | ICLR 2023 | https://openreview.net/forum?id=uagC-X9XMi8 |
-| 26 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
-| 27 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
-| 28 | GOAT | GOAT: A Global Transformer on Large-scale Graphs | https://github.com/devnkong/GOAT | ICML 2023 | https://proceedings.mlr.press/v202/kong23a.html |
-| 29 | RWC | Random Walk Conformer: Learning Graph Representation from Long and Short Range | https://github.com/b05901024/RandomWalkConformer | AAAI 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/26296 |
-| 30 | Gapformer | Gapformer: Graph Transformer with Graph Pooling for Node Classification | | IJCAI 2023 | https://www.ijcai.org/proceedings/2023/244 |
-| 31 | UGT | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
+| 26 | DIFFormer | DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion | https://github.com/qitianwu/DIFFormer | ICLR 2023 | https://openreview.net/forum?id=j6zUzrapY3L |
+| 27 | GRIT | Graph Inductive Biases in Transformers without Message Passing | https://github.com/liamma/grit | ICML 2023 | https://proceedings.mlr.press/v202/ma23c |
+| 28 | Exphormer | Exphormer: Sparse Transformers for Graphs | https://github.com/hamed1375/Exphormer | ICML 2023 | https://proceedings.mlr.press/v202/shirzad23a.html |
+| 29 | GOAT | GOAT: A Global Transformer on Large-scale Graphs | https://github.com/devnkong/GOAT | ICML 2023 | https://proceedings.mlr.press/v202/kong23a.html |
+| 30 | SGFormer | SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations | https://github.com/qitianwu/SGFormer | NeurIPS 2023 | https://proceedings.neurips.cc/paper_files/paper/2023/hash/cc57fac10eacadb3b72a907ac48f9a98-Abstract-Conference.html |
+| 31 | RWC | Random Walk Conformer: Learning Graph Representation from Long and Short Range | https://github.com/b05901024/RandomWalkConformer | AAAI 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/26296 |
+| 32 | Gapformer | Gapformer: Graph Transformer with Graph Pooling for Node Classification | | IJCAI 2023 | https://www.ijcai.org/proceedings/2023/244 |
+| 33 | UGT | Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity | https://github.com/NSLab-CUK/Unified-Graph-Transformer | AAAI 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/29138 |
 
 ## List for Graph Structure Embedding
 | Number |  Graph Transformer | Paper | Code | Journal or Conference | URL |
